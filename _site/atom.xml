@@ -4,7 +4,7 @@
  <title>Donald Boulton</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-03-09T18:33:57-06:00</updated>
+ <updated>2018-03-09T18:36:08-06:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Donald Boulton</name>
@@ -440,20 +440,20 @@ Regedit Tweaks below. and the links to the details on how to do each one of them
 &lt;figure class=&quot;third &quot;&gt;
   
     
-      &lt;a href=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/Windows_XP_logo.png&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/Windows_XP_logo.png&quot; alt=&quot;Windows XP&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/bibwoe/assets/images/pages/Windows_XP_logo.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/bibwoe/assets/images/pages/Windows_XP_logo.png&quot; alt=&quot;Windows XP&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/windows_vista_logo.png&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/windows_vista_logo.png&quot; alt=&quot;Vista&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/bibwoe/assets/images/pages/windows_vista_logo.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/bibwoe/assets/images/pages/windows_vista_logo.png&quot; alt=&quot;Vista&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/Windows_10.png&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/Windows_10.png&quot; alt=&quot;Windows 10&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/bibwoe/assets/images/pages/Windows_10.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/bibwoe/assets/images/pages/Windows_10.png&quot; alt=&quot;Windows 10&quot; /&gt;
       &lt;/a&gt;
     
   
@@ -794,20 +794,20 @@ You need to be on SQL Server 2005 SP2 or higher.&lt;/p&gt;
 &lt;figure class=&quot;third &quot;&gt;
   
     
-      &lt;a href=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/page-splitting.png&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/page-splitting-256.png&quot; alt=&quot;Page Splitting&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/bibwoe/assets/images/pages/page-splitting.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/bibwoe/assets/images/pages/page-splitting-256.png&quot; alt=&quot;Page Splitting&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/index_heatmap.jpeg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/index_heatmap-256.png&quot; alt=&quot;Index Heatmap&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/bibwoe/assets/images/pages/index_heatmap.jpeg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/bibwoe/assets/images/pages/index_heatmap-256.png&quot; alt=&quot;Index Heatmap&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/windows-xp-defragment-hard-drive.jpeg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/windows-xp-defragment-hard-drive-256.jpeg&quot; alt=&quot;Clusters&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/bibwoe/assets/images/pages/windows-xp-defragment-hard-drive.jpeg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/bibwoe/assets/images/pages/windows-xp-defragment-hard-drive-256.jpeg&quot; alt=&quot;Clusters&quot; /&gt;
       &lt;/a&gt;
     
   
@@ -971,20 +971,20 @@ Add Colorbox Content in the div with profiles&lt;/p&gt;
 &lt;figure class=&quot;third &quot;&gt;
   
     
-      &lt;a href=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/svg/colorbox-html-1400.png&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/svg/colorbox-html.png&quot; alt=&quot;Colorbox HTML&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/bibwoe/assets/images/pages/svg/colorbox-html-1400.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/bibwoe/assets/images/pages/svg/colorbox-html.png&quot; alt=&quot;Colorbox HTML&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/svg/colorbox-800.png&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/svg/colorbox.png&quot; alt=&quot;Colorbox Images&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/bibwoe/assets/images/pages/svg/colorbox-800.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/bibwoe/assets/images/pages/svg/colorbox.png&quot; alt=&quot;Colorbox Images&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/svg/colorbox-logon-800.png&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/svg/colorbox-logon.png&quot; alt=&quot;Colorbox Logon&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/bibwoe/assets/images/pages/svg/colorbox-logon-800.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/bibwoe/assets/images/pages/svg/colorbox-logon.png&quot; alt=&quot;Colorbox Logon&quot; /&gt;
       &lt;/a&gt;
     
   
@@ -1065,20 +1065,20 @@ Start- All programs- Microsoft SQL Server 2008 R2- Microsoft SQL Server Manageme
 &lt;figure class=&quot;third &quot;&gt;
   
     
-      &lt;a href=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/page-splitting.png&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/page-splitting-256.png&quot; alt=&quot;Page Splitting&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/bibwoe/assets/images/pages/page-splitting.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/bibwoe/assets/images/pages/page-splitting-256.png&quot; alt=&quot;Page Splitting&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/index_heatmap.jpeg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/index_heatmap-256.png&quot; alt=&quot;Index Heatmap&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/bibwoe/assets/images/pages/index_heatmap.jpeg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/bibwoe/assets/images/pages/index_heatmap-256.png&quot; alt=&quot;Index Heatmap&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/windows-xp-defragment-hard-drive.jpeg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/windows-xp-defragment-hard-drive-256.jpeg&quot; alt=&quot;Clusters&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/bibwoe/assets/images/pages/windows-xp-defragment-hard-drive.jpeg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/bibwoe/assets/images/pages/windows-xp-defragment-hard-drive-256.jpeg&quot; alt=&quot;Clusters&quot; /&gt;
       &lt;/a&gt;
     
   
@@ -1292,7 +1292,7 @@ and also
 
 &lt;p&gt;Link to it in scripts.html&lt;/p&gt;
 
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;script &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;http://localhost:4000/bibwoe.com/assets/js/avatar.js&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;script &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;http://localhost:4000/bibwoe/assets/js/avatar.js&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;p&gt;Or in a mardown page as.&lt;/p&gt;
 
@@ -1316,20 +1316,20 @@ and also
 &lt;figure class=&quot;third &quot;&gt;
   
     
-      &lt;a href=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/gravatar-icon-600.jpeg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/gravatar-icon-256.jpg&quot; alt=&quot;Gravtar Image&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/bibwoe/assets/images/pages/gravatar-icon-600.jpeg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/bibwoe/assets/images/pages/gravatar-icon-256.jpg&quot; alt=&quot;Gravtar Image&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/avatar-600.png&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/avatar-225.png&quot; alt=&quot;Gravtar Generic Image&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/bibwoe/assets/images/pages/avatar-600.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/bibwoe/assets/images/pages/avatar-225.png&quot; alt=&quot;Gravtar Generic Image&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/myLetterAvatar-600.png&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/myLetterAvatar-225.png&quot; alt=&quot;Letter Avatar&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/bibwoe/assets/images/pages/myLetterAvatar-600.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/bibwoe/assets/images/pages/myLetterAvatar-225.png&quot; alt=&quot;Letter Avatar&quot; /&gt;
       &lt;/a&gt;
     
   

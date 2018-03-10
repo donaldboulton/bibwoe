@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/bibwoe.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/bibwoe.com/" rel="alternate" type="text/html" /><updated>2018-03-09T18:33:57-06:00</updated><id>http://localhost:4000/bibwoe.com/</id><title type="html">Donald Boulton</title><subtitle>Bibwoe - Basic Instaructions Books While On Earth.</subtitle><author><name>Donald Boulton</name><email>donaldboulton@gmail.com</email><uri>http://donboulton.github.io/bibwoe/</uri></author><entry><title type="html">Staticman with Gitlab</title><link href="http://localhost:4000/bibwoe.com/posts/2018-03-05-post-Staticman-with-Gitlab/" rel="alternate" type="text/html" title="Staticman with Gitlab" /><published>2018-03-05T16:16:01-06:00</published><updated>2018-03-06T10:42:38-06:00</updated><id>http://localhost:4000/bibwoe.com/posts/post-Staticman-with-Gitlab</id><content type="html" xml:base="http://localhost:4000/bibwoe.com/posts/2018-03-05-post-Staticman-with-Gitlab/">&lt;div&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/bibwoe/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/bibwoe/" rel="alternate" type="text/html" /><updated>2018-03-09T18:36:08-06:00</updated><id>http://localhost:4000/bibwoe/</id><title type="html">Donald Boulton</title><subtitle>Bibwoe - Basic Instaructions Books While On Earth.</subtitle><author><name>Donald Boulton</name><email>donaldboulton@gmail.com</email><uri>http://donboulton.github.io/bibwoe/</uri></author><entry><title type="html">Staticman with Gitlab</title><link href="http://localhost:4000/bibwoe/posts/2018-03-05-post-Staticman-with-Gitlab/" rel="alternate" type="text/html" title="Staticman with Gitlab" /><published>2018-03-05T16:16:01-06:00</published><updated>2018-03-06T10:42:38-06:00</updated><id>http://localhost:4000/bibwoe/posts/post-Staticman-with-Gitlab</id><content type="html" xml:base="http://localhost:4000/bibwoe/posts/2018-03-05-post-Staticman-with-Gitlab/">&lt;div&gt;
   &lt;a href=&quot;http://github.com/donaldboulton/bibwoe/&quot; class=&quot;github-corner image-popup&quot; target=&quot;_blank&quot;&gt;
       &lt;svg width=&quot;80&quot; height=&quot;80&quot; viewBox=&quot;0 0 250 250&quot; style=&quot;fill:#1faaaa; color:#fff; position: absolute; top: 0; border: 0; right: 0;&quot;&gt;&lt;path d=&quot;M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2&quot; fill=&quot;currentColor&quot; style=&quot;transform-origin: 130px 106px;&quot; class=&quot;octo-arm&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z&quot; fill=&quot;currentColor&quot; class=&quot;octo-body&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
  &lt;/a&gt;
@@ -32,7 +32,7 @@ Staticman is a very handy static blog commenting implementation, but unfortunate
 &lt;p&gt;Click on the github project Settings&amp;gt;Webhooks&amp;gt;Add webhook, Payload URL fill in the link above and add parameters, for example&lt;/p&gt;
 &lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;https://gitlab.com/api/v3/projects/1400576/trigger/builds?token=5e763611ads5fb89598220414e334b&lt;span class=&quot;err&quot;&gt;&amp;amp;&lt;/span&gt;ref=master
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;Notice that the token is replaced&lt;/p&gt;</content><author><name>Donald Boulton</name><email>bibwoe@gmail.com</email><uri>http://donboulton.com</uri></author><category term="[&quot;Staticman&quot;]" /><category term="Staticman" /><category term="Github" /><category term="Gitlab" /><summary type="html">Use Staticman push to Gitlab</summary></entry><entry><title type="html">Jekyll Admin</title><link href="http://localhost:4000/bibwoe.com/posts/2018-02-26-post-Jekyll-Admin/" rel="alternate" type="text/html" title="Jekyll Admin" /><published>2018-02-26T16:16:01-06:00</published><updated>2018-02-27T10:42:38-06:00</updated><id>http://localhost:4000/bibwoe.com/posts/post-Jekyll-Admin</id><content type="html" xml:base="http://localhost:4000/bibwoe.com/posts/2018-02-26-post-Jekyll-Admin/">&lt;div&gt;
+&lt;p&gt;Notice that the token is replaced&lt;/p&gt;</content><author><name>Donald Boulton</name><email>bibwoe@gmail.com</email><uri>http://donboulton.com</uri></author><category term="[&quot;Staticman&quot;]" /><category term="Staticman" /><category term="Github" /><category term="Gitlab" /><summary type="html">Use Staticman push to Gitlab</summary></entry><entry><title type="html">Jekyll Admin</title><link href="http://localhost:4000/bibwoe/posts/2018-02-26-post-Jekyll-Admin/" rel="alternate" type="text/html" title="Jekyll Admin" /><published>2018-02-26T16:16:01-06:00</published><updated>2018-02-27T10:42:38-06:00</updated><id>http://localhost:4000/bibwoe/posts/post-Jekyll-Admin</id><content type="html" xml:base="http://localhost:4000/bibwoe/posts/2018-02-26-post-Jekyll-Admin/">&lt;div&gt;
   &lt;a href=&quot;http://github.com/donaldboulton/bibwoe/&quot; class=&quot;github-corner image-popup&quot; target=&quot;_blank&quot;&gt;
       &lt;svg width=&quot;80&quot; height=&quot;80&quot; viewBox=&quot;0 0 250 250&quot; style=&quot;fill:#1faaaa; color:#fff; position: absolute; top: 0; border: 0; right: 0;&quot;&gt;&lt;path d=&quot;M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2&quot; fill=&quot;currentColor&quot; style=&quot;transform-origin: 130px 106px;&quot; class=&quot;octo-arm&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z&quot; fill=&quot;currentColor&quot; class=&quot;octo-body&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
  &lt;/a&gt;
@@ -44,7 +44,7 @@ Staticman is a very handy static blog commenting implementation, but unfortunate
 
 &lt;p&gt;Jekyll admin makes it so easy for me to add new pages, posts or any type of content, including file management, adding images to .md pages and Changing Configuration.&lt;/p&gt;
 
-&lt;p&gt;Adding more to this post as it will continue to develop.&lt;/p&gt;</content><author><name>Donald Boulton</name><email>bibwoe@gmail.com</email><uri>http://donboulton.com</uri></author><category term="[&quot;Jekyll&quot;]" /><category term="Jekyll" /><category term="Jekyll Admin" /><summary type="html">Jekyll admin makes it so easy for me to add new pages, posts or any type of content, including file management, adding images to .md pages and Changing Configuration.</summary></entry><entry><title type="html">Windows Tweaks</title><link href="http://localhost:4000/bibwoe.com/2018-02-26-post-Windows-Tweaks/" rel="alternate" type="text/html" title="Windows Tweaks" /><published>2018-02-26T16:16:01-06:00</published><updated>2018-03-02T10:42:38-06:00</updated><id>http://localhost:4000/bibwoe.com/post-Windows-Tweaks</id><content type="html" xml:base="http://localhost:4000/bibwoe.com/2018-02-26-post-Windows-Tweaks/">&lt;div&gt;
+&lt;p&gt;Adding more to this post as it will continue to develop.&lt;/p&gt;</content><author><name>Donald Boulton</name><email>bibwoe@gmail.com</email><uri>http://donboulton.com</uri></author><category term="[&quot;Jekyll&quot;]" /><category term="Jekyll" /><category term="Jekyll Admin" /><summary type="html">Jekyll admin makes it so easy for me to add new pages, posts or any type of content, including file management, adding images to .md pages and Changing Configuration.</summary></entry><entry><title type="html">Windows Tweaks</title><link href="http://localhost:4000/bibwoe/2018-02-26-post-Windows-Tweaks/" rel="alternate" type="text/html" title="Windows Tweaks" /><published>2018-02-26T16:16:01-06:00</published><updated>2018-03-02T10:42:38-06:00</updated><id>http://localhost:4000/bibwoe/post-Windows-Tweaks</id><content type="html" xml:base="http://localhost:4000/bibwoe/2018-02-26-post-Windows-Tweaks/">&lt;div&gt;
   &lt;a href=&quot;http://github.com/donaldboulton/bibwoe/&quot; class=&quot;github-corner image-popup&quot; target=&quot;_blank&quot;&gt;
       &lt;svg width=&quot;80&quot; height=&quot;80&quot; viewBox=&quot;0 0 250 250&quot; style=&quot;fill:#1faaaa; color:#fff; position: absolute; top: 0; border: 0; right: 0;&quot;&gt;&lt;path d=&quot;M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2&quot; fill=&quot;currentColor&quot; style=&quot;transform-origin: 130px 106px;&quot; class=&quot;octo-arm&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z&quot; fill=&quot;currentColor&quot; class=&quot;octo-body&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
  &lt;/a&gt;
@@ -403,20 +403,20 @@ Regedit Tweaks below. and the links to the details on how to do each one of them
 &lt;figure class=&quot;third &quot;&gt;
   
     
-      &lt;a href=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/Windows_XP_logo.png&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/Windows_XP_logo.png&quot; alt=&quot;Windows XP&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/bibwoe/assets/images/pages/Windows_XP_logo.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/bibwoe/assets/images/pages/Windows_XP_logo.png&quot; alt=&quot;Windows XP&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/windows_vista_logo.png&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/windows_vista_logo.png&quot; alt=&quot;Vista&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/bibwoe/assets/images/pages/windows_vista_logo.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/bibwoe/assets/images/pages/windows_vista_logo.png&quot; alt=&quot;Vista&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/Windows_10.png&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/Windows_10.png&quot; alt=&quot;Windows 10&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/bibwoe/assets/images/pages/Windows_10.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/bibwoe/assets/images/pages/Windows_10.png&quot; alt=&quot;Windows 10&quot; /&gt;
       &lt;/a&gt;
     
   
@@ -424,7 +424,7 @@ Regedit Tweaks below. and the links to the details on how to do each one of them
     &lt;figcaption&gt;Windows XP, Vista, Windows 10.
 &lt;/figcaption&gt;
   
-&lt;/figure&gt;</content><author><name>Donald Boulton</name><email>bibwoe@gmail.com</email><uri>http://donboulton.com</uri></author><category term="[&quot;Windows&quot;]" /><category term="Windows Tweaks" /><category term="Windows 10" /><summary type="html">This Tweaks page has evolved from Windows XP to Now upgrading this to Windows 10.</summary></entry><entry><title type="html">Defrag SQL</title><link href="http://localhost:4000/bibwoe.com/2018-02-25-post-Defrag-SQL/" rel="alternate" type="text/html" title="Defrag SQL" /><published>2018-02-25T16:16:01-06:00</published><updated>2018-03-01T10:42:38-06:00</updated><id>http://localhost:4000/bibwoe.com/post-Defrag-SQL</id><content type="html" xml:base="http://localhost:4000/bibwoe.com/2018-02-25-post-Defrag-SQL/">&lt;div&gt;
+&lt;/figure&gt;</content><author><name>Donald Boulton</name><email>bibwoe@gmail.com</email><uri>http://donboulton.com</uri></author><category term="[&quot;Windows&quot;]" /><category term="Windows Tweaks" /><category term="Windows 10" /><summary type="html">This Tweaks page has evolved from Windows XP to Now upgrading this to Windows 10.</summary></entry><entry><title type="html">Defrag SQL</title><link href="http://localhost:4000/bibwoe/2018-02-25-post-Defrag-SQL/" rel="alternate" type="text/html" title="Defrag SQL" /><published>2018-02-25T16:16:01-06:00</published><updated>2018-03-01T10:42:38-06:00</updated><id>http://localhost:4000/bibwoe/post-Defrag-SQL</id><content type="html" xml:base="http://localhost:4000/bibwoe/2018-02-25-post-Defrag-SQL/">&lt;div&gt;
   &lt;a href=&quot;http://github.com/donaldboulton/bibwoe/&quot; class=&quot;github-corner image-popup&quot; target=&quot;_blank&quot;&gt;
       &lt;svg width=&quot;80&quot; height=&quot;80&quot; viewBox=&quot;0 0 250 250&quot; style=&quot;fill:#1faaaa; color:#fff; position: absolute; top: 0; border: 0; right: 0;&quot;&gt;&lt;path d=&quot;M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2&quot; fill=&quot;currentColor&quot; style=&quot;transform-origin: 130px 106px;&quot; class=&quot;octo-arm&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z&quot; fill=&quot;currentColor&quot; class=&quot;octo-body&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
  &lt;/a&gt;
@@ -748,20 +748,20 @@ You need to be on SQL Server 2005 SP2 or higher.&lt;/p&gt;
 &lt;figure class=&quot;third &quot;&gt;
   
     
-      &lt;a href=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/page-splitting.png&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/page-splitting-256.png&quot; alt=&quot;Page Splitting&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/bibwoe/assets/images/pages/page-splitting.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/bibwoe/assets/images/pages/page-splitting-256.png&quot; alt=&quot;Page Splitting&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/index_heatmap.jpeg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/index_heatmap-256.png&quot; alt=&quot;Index Heatmap&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/bibwoe/assets/images/pages/index_heatmap.jpeg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/bibwoe/assets/images/pages/index_heatmap-256.png&quot; alt=&quot;Index Heatmap&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/windows-xp-defragment-hard-drive.jpeg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/windows-xp-defragment-hard-drive-256.jpeg&quot; alt=&quot;Clusters&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/bibwoe/assets/images/pages/windows-xp-defragment-hard-drive.jpeg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/bibwoe/assets/images/pages/windows-xp-defragment-hard-drive-256.jpeg&quot; alt=&quot;Clusters&quot; /&gt;
       &lt;/a&gt;
     
   
@@ -769,7 +769,7 @@ You need to be on SQL Server 2005 SP2 or higher.&lt;/p&gt;
     &lt;figcaption&gt;Old XP Defragmentation, Page Splitting, Web Matrix Defrag.
 &lt;/figcaption&gt;
   
-&lt;/figure&gt;</content><author><name>Donald Boulton</name><email>bibwoe@gmail.com</email><uri>http://donboulton.com</uri></author><category term="[&quot;Programing&quot;]" /><category term="SQL Server" /><category term="SQL Defragment" /><summary type="html">Defrag Sql 2008 to 2016</summary></entry><entry><title type="html">Mobile Colorbox</title><link href="http://localhost:4000/bibwoe.com/2018-02-25-post-Mobile-Colorbox/" rel="alternate" type="text/html" title="Mobile Colorbox" /><published>2018-02-25T15:16:01-06:00</published><updated>2018-02-28T10:42:38-06:00</updated><id>http://localhost:4000/bibwoe.com/post-Mobile-Colorbox</id><content type="html" xml:base="http://localhost:4000/bibwoe.com/2018-02-25-post-Mobile-Colorbox/">&lt;div&gt;
+&lt;/figure&gt;</content><author><name>Donald Boulton</name><email>bibwoe@gmail.com</email><uri>http://donboulton.com</uri></author><category term="[&quot;Programing&quot;]" /><category term="SQL Server" /><category term="SQL Defragment" /><summary type="html">Defrag Sql 2008 to 2016</summary></entry><entry><title type="html">Mobile Colorbox</title><link href="http://localhost:4000/bibwoe/2018-02-25-post-Mobile-Colorbox/" rel="alternate" type="text/html" title="Mobile Colorbox" /><published>2018-02-25T15:16:01-06:00</published><updated>2018-02-28T10:42:38-06:00</updated><id>http://localhost:4000/bibwoe/post-Mobile-Colorbox</id><content type="html" xml:base="http://localhost:4000/bibwoe/2018-02-25-post-Mobile-Colorbox/">&lt;div&gt;
   &lt;a href=&quot;http://github.com/donaldboulton/bibwoe/&quot; class=&quot;github-corner image-popup&quot; target=&quot;_blank&quot;&gt;
       &lt;svg width=&quot;80&quot; height=&quot;80&quot; viewBox=&quot;0 0 250 250&quot; style=&quot;fill:#1faaaa; color:#fff; position: absolute; top: 0; border: 0; right: 0;&quot;&gt;&lt;path d=&quot;M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2&quot; fill=&quot;currentColor&quot; style=&quot;transform-origin: 130px 106px;&quot; class=&quot;octo-arm&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z&quot; fill=&quot;currentColor&quot; class=&quot;octo-body&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
  &lt;/a&gt;
@@ -916,20 +916,20 @@ Add Colorbox Content in the div with profiles&lt;/p&gt;
 &lt;figure class=&quot;third &quot;&gt;
   
     
-      &lt;a href=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/svg/colorbox-html-1400.png&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/svg/colorbox-html.png&quot; alt=&quot;Colorbox HTML&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/bibwoe/assets/images/pages/svg/colorbox-html-1400.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/bibwoe/assets/images/pages/svg/colorbox-html.png&quot; alt=&quot;Colorbox HTML&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/svg/colorbox-800.png&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/svg/colorbox.png&quot; alt=&quot;Colorbox Images&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/bibwoe/assets/images/pages/svg/colorbox-800.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/bibwoe/assets/images/pages/svg/colorbox.png&quot; alt=&quot;Colorbox Images&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/svg/colorbox-logon-800.png&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/svg/colorbox-logon.png&quot; alt=&quot;Colorbox Logon&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/bibwoe/assets/images/pages/svg/colorbox-logon-800.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/bibwoe/assets/images/pages/svg/colorbox-logon.png&quot; alt=&quot;Colorbox Logon&quot; /&gt;
       &lt;/a&gt;
     
   
@@ -937,7 +937,7 @@ Add Colorbox Content in the div with profiles&lt;/p&gt;
     &lt;figcaption&gt;Colorbox HTML, Colorbox Images, Colorbox Logon.
 &lt;/figcaption&gt;
   
-&lt;/figure&gt;</content><author><name>Donald Boulton</name><email>bibwoe@gmail.com</email><uri>http://donboulton.com</uri></author><category term="[&quot;Programing&quot;]" /><category term="Colorbox" /><category term="Mobile Colorbox" /><summary type="html">I use colorbox in my ASP.Core2 apps. Alot of developers still do in their applications</summary></entry><entry><title type="html">SQL Fragmentation</title><link href="http://localhost:4000/bibwoe.com/posts/2018-02-23-post-SQL-Fragmentation/" rel="alternate" type="text/html" title="SQL Fragmentation" /><published>2018-02-23T19:16:01-06:00</published><updated>2018-03-01T10:42:38-06:00</updated><id>http://localhost:4000/bibwoe.com/posts/post-SQL-Fragmentation</id><content type="html" xml:base="http://localhost:4000/bibwoe.com/posts/2018-02-23-post-SQL-Fragmentation/">&lt;div&gt;
+&lt;/figure&gt;</content><author><name>Donald Boulton</name><email>bibwoe@gmail.com</email><uri>http://donboulton.com</uri></author><category term="[&quot;Programing&quot;]" /><category term="Colorbox" /><category term="Mobile Colorbox" /><summary type="html">I use colorbox in my ASP.Core2 apps. Alot of developers still do in their applications</summary></entry><entry><title type="html">SQL Fragmentation</title><link href="http://localhost:4000/bibwoe/posts/2018-02-23-post-SQL-Fragmentation/" rel="alternate" type="text/html" title="SQL Fragmentation" /><published>2018-02-23T19:16:01-06:00</published><updated>2018-03-01T10:42:38-06:00</updated><id>http://localhost:4000/bibwoe/posts/post-SQL-Fragmentation</id><content type="html" xml:base="http://localhost:4000/bibwoe/posts/2018-02-23-post-SQL-Fragmentation/">&lt;div&gt;
   &lt;a href=&quot;http://github.com/donaldboulton/bibwoe/&quot; class=&quot;github-corner image-popup&quot; target=&quot;_blank&quot;&gt;
       &lt;svg width=&quot;80&quot; height=&quot;80&quot; viewBox=&quot;0 0 250 250&quot; style=&quot;fill:#1faaaa; color:#fff; position: absolute; top: 0; border: 0; right: 0;&quot;&gt;&lt;path d=&quot;M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2&quot; fill=&quot;currentColor&quot; style=&quot;transform-origin: 130px 106px;&quot; class=&quot;octo-arm&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z&quot; fill=&quot;currentColor&quot; class=&quot;octo-body&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
  &lt;/a&gt;
@@ -1001,20 +1001,20 @@ Start- All programs- Microsoft SQL Server 2008 R2- Microsoft SQL Server Manageme
 &lt;figure class=&quot;third &quot;&gt;
   
     
-      &lt;a href=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/page-splitting.png&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/page-splitting-256.png&quot; alt=&quot;Page Splitting&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/bibwoe/assets/images/pages/page-splitting.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/bibwoe/assets/images/pages/page-splitting-256.png&quot; alt=&quot;Page Splitting&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/index_heatmap.jpeg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/index_heatmap-256.png&quot; alt=&quot;Index Heatmap&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/bibwoe/assets/images/pages/index_heatmap.jpeg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/bibwoe/assets/images/pages/index_heatmap-256.png&quot; alt=&quot;Index Heatmap&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/windows-xp-defragment-hard-drive.jpeg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/windows-xp-defragment-hard-drive-256.jpeg&quot; alt=&quot;Clusters&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/bibwoe/assets/images/pages/windows-xp-defragment-hard-drive.jpeg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/bibwoe/assets/images/pages/windows-xp-defragment-hard-drive-256.jpeg&quot; alt=&quot;Clusters&quot; /&gt;
       &lt;/a&gt;
     
   
@@ -1022,7 +1022,7 @@ Start- All programs- Microsoft SQL Server 2008 R2- Microsoft SQL Server Manageme
     &lt;figcaption&gt;Old XP Defragmentation, Page Splitting, Web Matrix Defrag.
 &lt;/figcaption&gt;
   
-&lt;/figure&gt;</content><author><name>Donald Boulton</name><email>bibwoe@gmail.com</email><uri>http://donboulton.com</uri></author><category term="[&quot;Programing&quot;]" /><category term="SQL" /><category term="Fragmentation" /><category term="Defrag" /><summary type="html">Check SQL Server a specified database index fragmentation percentage (SQL)</summary></entry><entry><title type="html">Letter Avatar</title><link href="http://localhost:4000/bibwoe.com/2018-02-22-post-Letter-Avatar/" rel="alternate" type="text/html" title="Letter Avatar" /><published>2018-02-22T16:16:01-06:00</published><updated>2018-02-28T10:42:38-06:00</updated><id>http://localhost:4000/bibwoe.com/post-Letter-Avatar</id><content type="html" xml:base="http://localhost:4000/bibwoe.com/2018-02-22-post-Letter-Avatar/">&lt;div&gt;
+&lt;/figure&gt;</content><author><name>Donald Boulton</name><email>bibwoe@gmail.com</email><uri>http://donboulton.com</uri></author><category term="[&quot;Programing&quot;]" /><category term="SQL" /><category term="Fragmentation" /><category term="Defrag" /><summary type="html">Check SQL Server a specified database index fragmentation percentage (SQL)</summary></entry><entry><title type="html">Letter Avatar</title><link href="http://localhost:4000/bibwoe/2018-02-22-post-Letter-Avatar/" rel="alternate" type="text/html" title="Letter Avatar" /><published>2018-02-22T16:16:01-06:00</published><updated>2018-02-28T10:42:38-06:00</updated><id>http://localhost:4000/bibwoe/post-Letter-Avatar</id><content type="html" xml:base="http://localhost:4000/bibwoe/2018-02-22-post-Letter-Avatar/">&lt;div&gt;
   &lt;a href=&quot;http://github.com/donaldboulton/bibwoe/&quot; class=&quot;github-corner image-popup&quot; target=&quot;_blank&quot;&gt;
       &lt;svg width=&quot;80&quot; height=&quot;80&quot; viewBox=&quot;0 0 250 250&quot; style=&quot;fill:#1faaaa; color:#fff; position: absolute; top: 0; border: 0; right: 0;&quot;&gt;&lt;path d=&quot;M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2&quot; fill=&quot;currentColor&quot; style=&quot;transform-origin: 130px 106px;&quot; class=&quot;octo-arm&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z&quot; fill=&quot;currentColor&quot; class=&quot;octo-body&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
  &lt;/a&gt;
@@ -1219,7 +1219,7 @@ and also
 
 &lt;p&gt;Link to it in scripts.html&lt;/p&gt;
 
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;script &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;http://localhost:4000/bibwoe.com/assets/js/avatar.js&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;script &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;http://localhost:4000/bibwoe/assets/js/avatar.js&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;p&gt;Or in a mardown page as.&lt;/p&gt;
 
@@ -1243,20 +1243,20 @@ and also
 &lt;figure class=&quot;third &quot;&gt;
   
     
-      &lt;a href=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/gravatar-icon-600.jpeg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/gravatar-icon-256.jpg&quot; alt=&quot;Gravtar Image&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/bibwoe/assets/images/pages/gravatar-icon-600.jpeg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/bibwoe/assets/images/pages/gravatar-icon-256.jpg&quot; alt=&quot;Gravtar Image&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/avatar-600.png&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/avatar-225.png&quot; alt=&quot;Gravtar Generic Image&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/bibwoe/assets/images/pages/avatar-600.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/bibwoe/assets/images/pages/avatar-225.png&quot; alt=&quot;Gravtar Generic Image&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/myLetterAvatar-600.png&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/bibwoe.com/assets/images/pages/myLetterAvatar-225.png&quot; alt=&quot;Letter Avatar&quot; /&gt;
+      &lt;a href=&quot;http://localhost:4000/bibwoe/assets/images/pages/myLetterAvatar-600.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/bibwoe/assets/images/pages/myLetterAvatar-225.png&quot; alt=&quot;Letter Avatar&quot; /&gt;
       &lt;/a&gt;
     
   
