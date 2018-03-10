@@ -61,7 +61,7 @@ comments:
   #   type: "comment"
 
   # Name of the site. Used in notification emails.
-  name: "Donald Boulton"
+  name: "Bibwoe"
 
   # Notification settings. When enabled, users can choose to receive notifications
   # via email when someone adds a reply or a new comment. This requires an account
@@ -77,7 +77,7 @@ comments:
     # (!) ENCRYPTED
     #
   Mailgun domain:
-    domain: "https://api.mailgun.net/v3/donboulton.com"
+    domain: "https://api.mailgun.net/v3/bibwoe.com"
 
   # (*) REQUIRED
   #
@@ -97,7 +97,7 @@ comments:
   # Register your domain at https://www.google.com/recaptcha/ and choose reCAPTCHA V2
   reCaptcha:
     enabled: true
-    siteKey: "6Lf15UcUAAAAALh_yk6LPPErNxT-Qd-k2efKcJxR"
+    siteKey: "6Lf9x0sUAAAAAM5Ga3aoTRXDcs0uEJvcWgYLLDX9"
     # Encrypt reCaptcha secret key using Staticman /encrypt endpoint
     # For more information, https://staticman.net/docs/encryption
-    secret: "q0fksxUG8S3yendptK4byPIrlKUWhVPPn+zMA+2hjPd3ekaOPrwK04Ig0hHlyneN3z6zfH6edP7zk4kQEIHy8OOYADVmBAOX8US4dKusdXvoxHBFbdZPdC9o/FgS1eUkcrsn4g8cuXr4HUxz9/hoiMg2gHn0+5W99KoxR8pL+54="
+    secret: "6Lf9x0sUAAAAAOn87EpNFNIcV0V9BEa3h2ho-ujk"

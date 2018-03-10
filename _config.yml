@@ -46,8 +46,8 @@ staticman:
       options:
         format           : "iso8601"
 reCaptcha:
-  siteKey                : "6Lf15UcUAAAAALh_yk6LPPErNxT-Qd-k2efKcJxR"
-  secret                 : "q0fksxUG8S3yendptK4byPIrlKUWhVPPn+zMA+2hjPd3ekaOPrwK04Ig0hHlyneN3z6zfH6edP7zk4kQEIHy8OOYADVmBAOX8US4dKusdXvoxHBFbdZPdC9o/FgS1eUkcrsn4g8cuXr4HUxz9/hoiMg2gHn0+5W99KoxR8pL+54="
+  siteKey                : "6Lf9x0sUAAAAAM5Ga3aoTRXDcs0uEJvcWgYLLDX9"
+  secret                 : "6Lf9x0sUAAAAAOn87EpNFNIcV0V9BEa3h2ho-ujk"
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true
@@ -63,9 +63,9 @@ algolia:
 
 Mailgun:
   smtp_Hostname          : "smtp.mailgun.org"
-  api_Base_Url           : "https://api.mailgun.net/v3/donboulton.com"
+  api_Base_Url           : "https://api.mailgun.net/v3/bibwoe.com"
   api_key                : "H5EZw3wcgp0MVFVT9xj1T2bjagHUmxotILm4KbnXTHE5MtyHj+1pk+kQQGQuVdH8U/rgnth/4kvm/4lWRmxgu3vNAotPpg5VcmZsd7A44D/+sLNrZCXU7q5+YZ6VHYMjQpbHTBOsdebxq3Tog/3x3ONuR5XL/kRQNvD9tdjmdFw="
-  smtp_login             : "postmaster@donboulton.com"
+  smtp_login             : "postmaster@bibwoe.com"
 
 github                   : [metadata]
 
@@ -73,7 +73,7 @@ head_scripts:
   - https://www.googletagmanager.com/gtag/js?id=UA-30162465-2
 
 # SEO Related
-google_site_verification : "9uC-GgFFGwTqC8ERkfG6jgWN0LQvBJWAatcFa8EkAT0"
+google_site_verification : "rXkolEOR2tQie0oZad3iu_XX0ID673ocd2nc5qKBAFI"
 bing_site_verification   : "361016BEC0F67F6A834D6186E897D9EC"
 yandex_site_verification :
 naver_site_verification  :
