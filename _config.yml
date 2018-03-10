@@ -9,9 +9,9 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Donald Boulton"
+title                    : "Bibwoe"
 title_separator          : "-"
-name                     : "Donald W. Boulton II"
+name                     : "Donald W. Boulton"
 description              : "Bibwoe - Basic Instaructions Books While On Earth."
 url                      : "https://donaldboulton.github.io/"
 baseurl                  : "/bibwoe"
