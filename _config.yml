@@ -13,8 +13,8 @@ title                    : "Bibwoe"
 title_separator          : "-"
 name                     : "Donald W. Boulton"
 description              : "Bibwoe - Basic Instaructions Books While On Earth."
-url                      : "https://donaldboulton.github.io/"
-baseurl                  : "/bibwoe"
+url                      : "https://bibwoe.com"
+baseurl                  : "/"
 repository               : "donaldboulton/bibwoe"
 teaser                   : "/assets/images/pages/digital_box_1400-compressor.jpg"
 # breadcrumbs            : true # true, false (default)
@@ -109,8 +109,8 @@ author:
   bio                    : "Gods Last Testament."
   location               : "OKC Oklahoma"
   email                  : "donaldboulton@gmail.com"
-  uri                    : "http://donboulton.github.io/bibwoe/"
-  home                   : "http://donboulton.github.io/bibwoe/"
+  uri                    : "https://bibwoe.com"
+  home                   : "https://bibwoe.com/"
   bitbucket              :
   codepen                :
   dribbble               :
@@ -265,9 +265,6 @@ compress_html:
 
 # Collections
 collections:
-  pets:
-    output: true
-    permalink: /pets/:path/
   posts:
     output: true
     permalink: /posts/:path/
@@ -292,15 +289,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _pets
-  - scope:
-      path: ""
-      type: pets
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _portfolio
   - scope:
       path: ""
