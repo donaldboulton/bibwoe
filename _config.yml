@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "Bibwoe"
 title_separator          : "-"
 name                     : "Donald W. Boulton"
-description              : "Bibwoe - Basic Instaructions Books While On Earth."
+description              : "Bibwoe - Basic Instructions Books While On Earth."
 url                      : "https://bibwoe.com"
 baseurl                  : "/"
 repository               : "donaldboulton/bibwoe"
@@ -104,7 +104,7 @@ analytics:
     tracking_id          : "UA-30162465-2"
 
 cloudinary:
-  cloud_name             : 'Mansbooks'
+  cloud_name             : 'mansbooks'
   api_key                : '228989664973733'
   api_secret             : 'gsm1Wbk+K0wVCXQl5gRnRBDYneEO8jVtlSl/o/aew0r+MVfURehsvdE6gnvMukfEXx3u2cuWUMgTymtI7STz035ecFmUCxw7mi2f247Qx5xezLwlagc7XmT62ZO1jG66ctzcGFRe9ys1yW69MB76j3UQFOl1hlMTq32J8nvWor8='
 
