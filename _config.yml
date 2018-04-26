@@ -115,8 +115,8 @@ author:
   bio                    : "Gods Last Testament."
   location               : "OKC Oklahoma"
   email                  : "donaldboulton@gmail.com"
-  uri                    : "http://donboulton.github.io/bibwoe/"
-  home                   : "http://donboulton.github.io/bibwoe/"
+  uri                    : "https://bibwoe.com"
+  home                   : "https://bibwoe.com/"
   bitbucket              :
   codepen                :
   dribbble               :
@@ -265,9 +265,6 @@ compress_html:
 
 # Collections
 collections:
-  pets:
-    output: true
-    permalink: /pets/:path/
   posts:
     output: true
     permalink: /posts/:path/
@@ -292,15 +289,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _pets
-  - scope:
-      path: ""
-      type: pets
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _portfolio
   - scope:
       path: ""
