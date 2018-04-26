@@ -12,6 +12,7 @@
   max-width: 100%;
   padding-left: 2em;
   padding-right: 2em;
+  margin-left: 1.5em;
   font-family: $sans-serif;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
@@ -48,12 +49,9 @@
 
   .current {
     font-weight: bold;
+    padding-left: .3em;
   }
 }
-
-/*
-     Post pagination navigation links
-     ========================================================================== */
 
 .pagination {
   @include clearfix();
@@ -269,7 +267,7 @@
     border: 0;
     outline: none;
     color: #fff;
-    background-color: $primary-color;
+    background-color: transparent;
     cursor: pointer;
   }
 

@@ -14,7 +14,7 @@ body {
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
-  background-image: url(/bibwoe/assets/images/pages/bg10-min.png);
+  background-image: url(/assets/images/pages/bg10-min.png);
   background-repeat: repeat;
 
   &.overflow--hidden {
@@ -128,6 +128,8 @@ blockquote {
 /* links */
 
 a {
+  text-decoration: none;
+
   &:focus {
     @extend %tab-focus;
   }
@@ -136,6 +138,8 @@ a {
   &:active {
     color: $link-color-hover;
     outline: 0;
+    text-decoration: underline;
+    text-decoration-color: $link-color-hover;
   }
 
   &:visited {
@@ -217,6 +221,7 @@ figure {
   align-items: flex-start;
   flex-wrap: wrap;
   margin: 2em 0;
+  height: auto;
 
   img,
   iframe,
@@ -229,6 +234,7 @@ figure {
     border-radius: $border-radius;
     -webkit-transition: $global-transition;
     transition: $global-transition;
+    background-color: rgba(255, 255, 255, 0.45);
   }
 
   > a {
@@ -280,6 +286,18 @@ figcaption {
   }
 }
 
+.logo {
+  display: block;
+  margin: 1em auto;
+  max-width: 50%;
+  height: auto;
+
+  @media (min-width: 40em) {
+    max-width: 25%;
+    float: right;
+    margin: 0 0 1em 1em;
+  }
+}
 /* Fix IE9 SVG bug */
 
 svg:not(:root) {

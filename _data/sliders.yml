@@ -1,0 +1,59 @@
+# home slider
+- selector: home_slider
+  bullets: false
+  captions: true
+  images:
+    - src: https://res.cloudinary.com/mansbooks/image/upload/c_scale,h_450,q_75,w_1600/sample.jpg
+      alt: Minimum required attributes
+    - data-src: https://res.cloudinary.com/mansbooks/image/upload/c_scale,h_450,q_75,w_1600/sample.jpg
+      alt: Use data-src for on-demand loading
+    - data-src: https://res.cloudinary.com/mansbooks/image/upload/c_scale,h_450,q_75,w_1600/sample.jpg
+      data-src-2x: /img/3@2x.jpg
+      alt: Use data-src-2x for HiDPI devices
+    - src: /img/4.jpg
+      alt: Links work too
+      href: https://github.com/jekylltools/jekyll-ideal-image-slider-include
+  settings:
+    height: '16:9'
+    initialHeight:
+    maxHeight:
+    interval: '4000'
+    transitionDuration: '700'
+    effect:
+    disableNav:
+    keyboardNav: true
+    previousNavSelector:
+    nextNavSelector:
+
+- selector: slider2
+  bullets: true
+  captions: true
+  images:
+    - src: /img/1.jpg
+      title: Balloons!
+      alt: This slider has caption titles
+    - data-src: /img/2.jpg
+      title: This slider uses the fade effect
+      alt: Instead of the default slide effect
+    - data-src: /img/3.jpg
+      data-src-2x: /img/3@2x.jpg
+    - src: /img/4.jpg
+      title: Last image had no caption!
+      alt: Also, this image has no link
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+
+- selector: slider3
+  images:
+    - src: /img/1.jpg
+      alt: image one
+    - src: /img/2.jpg
+      alt: image two
+    - src: /img/3.jpg
+      alt: image three
+    - src: /img/4.jpg
+      alt: image four
+  settings:
+    height: "'auto'"
+    disableNav: true

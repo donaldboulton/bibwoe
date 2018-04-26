@@ -1,0 +1,14 @@
+{
+  "environments": {
+    "test": {
+      "scripts": {
+        "test-setup": "gem install rubocop",
+        "test": "rubocop ."
+      },
+      "addons": [
+        "heroku-redis",
+        "heroku-postgresql"
+      ]
+    }
+  }
+}

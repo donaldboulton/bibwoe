@@ -67,6 +67,7 @@ $success-color: #62c462 !default;
 $warning-color: #f89406 !default;
 $danger-color: #ee5f5b !default;
 $info-color: #52adc8 !default;
+$rating-color: #EBBD5B !default;
 
 /* YIQ color contrast */
 $yiq-contrasted-dark-default: $dark-gray !default;
@@ -122,6 +123,10 @@ $base0c: #89ddff !default;
 $base0d: #82aaff !default;
 $base0e: #c792ea !default;
 $base0f: #ff5370 !default;
+$basedb: #1faaaa !default;
+$basebc: #333333 !default;
+$base99: #cccccc !default;
+$base98: #fdcccc !default;
 
 /*
    Breakpoints
@@ -138,12 +143,9 @@ $x-large: 1280px !default;
    ========================================================================== */
 
 $right-sidebar-width-narrow: 200px !default;
-$right-sidebar-width: 300px !default;
+$right-sidebar-width: 250px !default;
 $right-sidebar-width-wide: 400px !default;
 
-/*
-   Other
-   ========================================================================== */
 
 $border-radius: 4px !default;
 $box-shadow: 0 1px 1px rgba(0, 0, 0, 0.125) !default;
