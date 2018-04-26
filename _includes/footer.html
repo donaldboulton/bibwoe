@@ -4,22 +4,18 @@
       <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
     {% endif %}
     {% if site.twitter.username %}
-      <li><a href="https://twitter.com/{{ site.twitter.username }}" target="_blank"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+      <li><a href="https://twitter.com/{{ site.twitter.username }}" target="_blank"><svg class="icon icon--twitter fa-twitter" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-twitter' | prepend: 'assets/icons/' | relative_url }}"></use></svg> Twitter</a></li>
     {% endif %}
     {% if site.facebook.username %}
-      <li><a href="https://join.slack.com/t/mansbooks/signup" target="_blank"><i class="fab fa-fw fa-slack" aria-hidden="true"></i> Slack</a></li>
+      <li><a href="https://join.slack.com/t/mansbooks/signup" target="_blank"><svg class="icon icon--slack fa-slack" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-slack' | prepend: 'assets/icons/' | relative_url }}"></use></svg> Slack</a></li>
     {% endif %}
     {% if site.author.github %}
-      <li><a href="https://github.com/{{ site.author.github }}" target="_blank"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+      <li><a href="https://github.com/{{ site.author.github }}" target="_blank"><svg class="icon icon--github fa-github" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-github' | prepend: 'assets/icons/' | relative_url }}"></use></svg> GitHub</a></li>
     {% endif %}
     {% if site.author.gitlab %}
-      <li><a href="https://gitlab.com/{{ site.author.gitlab }}" target="_blank"><i class="fab fa-fw fa-gitlab" aria-hidden="true"></i> Gitlab</a></li>
+      <li><a href="https://gitlab.com/{{ site.author.gitlab }}" target="_blank"><svg class="icon icon--gitlab fa-gitlab" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-gitlab' | prepend: 'assets/icons/' | relative_url }}"></use></svg> Gitlab</a></li>
     {% endif %}
-    {% if site.author.bitbucket %}
-      <li><a href="https://bitbucket.org/{{ site.author.bitbucket }}" target="_blank"><i class="fab fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
-    {% endif %}
-    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | absolute_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | absolute_url }}{% endif %}"> <svg class="icon icon--rss fa-rss" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-rss' | prepend: 'assets/icons/' | relative_url }}"></use></svg> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
   </ul>
 </div>
-
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a><a class="text-right align-right" href="/terms">Terms & Privacy Policy</a></div>
