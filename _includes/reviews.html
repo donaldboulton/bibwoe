@@ -1,0 +1,16 @@
+<div id="comments" class="js-comments">
+	{% if site.data.comments[page.slug] %}
+	  	{% assign comments = site.data.comments[rating] | round %}
+	
+	  	{% for comment in comments[rating] %}
+		  	{% assign commentData = comment[1] %}
+		    <div class="rating field-group">
+				<p><strong>Rating:</strong>
+					{% for i in (1..commentData.rating) %}
+				    	<svg class="icon icon--star rating-star rating-radio-star--on"><use xlink:href="{{ 'icons.svg#icon-star' | prepend: 'assets/icons/' | relative_url }}"></use></svg>
+					{% endfor %}
+				</p>
+	  		</div>
+    	{% endfor %}
+	{% endif %}
+</div>

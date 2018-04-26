@@ -1,46 +1,93 @@
 {
-  "name": "bibwoe",
+  "name": "donaldboulton",
   "version": "4.10.0",
-  "description": "Minimal Mistakes Jekyll theme npm build scripts",
+  "description": "Donald Boulton theme npm build scripts",
   "repository": {
     "type": "git",
-    "url": "git://github.com/donboulton/bibwoe.git"
+    "url": "git://github.com/donaldboulton/DWB.git"
   },
   "keywords": [
     "jekyll",
+    "gulp",
     "theme",
     "minimal"
   ],
   "author": "Donald Boulton",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/donaldboulton/bibwoe/issues"
+    "url": "https://github.com/donaldboulton/DWB/issues"
   },
-  "homepage": "https://donaldboulton.github.io/bibwoe/",
+  "homepage": "https://donboulton.com",
   "engines": {
     "node": ">= 0.10.0"
   },
   "devDependencies": {
-    "npm-run-all": "^1.8.0",
-    "onchange": "^2.2.0",
-    "uglify-js": "^2.6.1"
-  },
-  "scripts": {
-    "uglify": "uglifyjs assets/js/vendor/jquery/jquery-3.3.1.min.js assets/js/plugins/jquery.fitvids.js assets/js/plugins/jquery.greedy-navigation.js assets/js/plugins/jquery.magnific-popup.js assets/js/plugins/jquery.smooth-scroll.min.js assets/js/_main.js -c -m -o assets/js/main.min.js",
-    "add-banner": "node banner.js",
-    "watch": "npm run watch:js & npm run watch:css",
-    "watch:js": "onchange \"assets/js/**/*.js\" -e \"assets/js/main.min.js\" -- npm run build:js",
-    "build:js": "npm run uglify && npm run add-banner",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "scss": "node-sass --watch scss -o css"
+    "autoprefixer": "^8.0.0",
+    "browser-sync": "^2.23.6",
+    "concurrent-transform": "^1.0.0",
+    "critical": "^0.7.3",
+    "del": "^2.2.0",
+    "glob": "^7.0.6",
+    "grunt": "~0.4.2",
+    "grunt-newer": "^0.7.0",
+    "grunt-imgcompress": "~0.1.1",
+    "grunt-svgmin": "~0.3.1",
+    "grunt-svgstore": "^0.5.0",
+    "gulp": "git://github.com/gulpjs/gulp.git#4.0",
+    "gulp-changed": "^2.0.0",
+    "gulp-cheerio": "^0.6.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-cssnano": "^2.1.0",
+    "gulp-empty": "^0.1.1",
+    "gulp-filter": "^4.0.0",
+    "gulp-gzip": "^1.4.2",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-if": "^2.0.1",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-newer": "^1.2.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-postcss": "^7.0.0",
+    "gulp-pretty-data": "^0.1.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-responsive": "^2.10.0",
+    "gulp-rev": "^7.0.0",
+    "gulp-rsync": "^0.0.8",
+    "gulp-sass": "^3.1.0",
+    "gulp-size": "^2.0.0",
+    "gulp-sourcemaps": "^1.3.0",
+    "gulp-svgmin": "^1.2.4",
+    "gulp-svgstore": "^6.0.0",
+    "gulp-uglify": "^1.5.1",
+    "gulp-util": "^3.0.7",
+    "node-sass": "^4.7.2",
+    "require-dir": "^0.3.0",
+    "rev-del": "^1.0.5",
+    "shelljs": "^0.7.0",
+    "submit-sitemap": "^0.1.3",
+    "through2": "^2.0.1",
+    "yargs": "^4.7.0"
   },
   "dependencies": {
-    "async": "^2.6.0",
-    "build-css": "^0.2.0",
-    "less": "^3.0.1",
-    "mocha": "^5.0.1",
-    "node-sass": "^4.7.2",
-    "npm-watch": "^0.3.0",
-    "should": "^13.2.1"
-  }
+    "blueimp-file-upload": "^9.21.0",
+    "cloudinary-jquery-file-upload": "^2.5.0",
+    "gruntfile": "^0.1.0",
+    "gulp-update": "0.0.2",
+    "lg-autoplay": "^1.0.4",
+    "lg-fullscreen": "^1.0.1",
+    "lg-hash": "^1.0.4",
+    "lg-pager": "^1.0.2",
+    "lg-share": "^1.1.0",
+    "lg-thumbnail": "^1.1.0",
+    "lg-video": "^1.2.1",
+    "lg-zoom": "^1.1.0",
+    "lightgallery": "^1.6.9",
+    "postcss": "^6.0.13",
+    "sharp": "^0.20.1",
+    "yarn": "^1.5.1"
+  },
+  "browserslist": [
+    "last 2 versions",
+    "> 5%",
+    "IE 9"
+  ]
 }
