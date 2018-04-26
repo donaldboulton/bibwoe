@@ -70,6 +70,7 @@
   "dependencies": {
     "blueimp-file-upload": "^9.21.0",
     "cloudinary-jquery-file-upload": "^2.5.0",
+    "eslint": "^4.19.1",
     "gruntfile": "^0.1.0",
     "gulp-update": "0.0.2",
     "lg-autoplay": "^1.0.4",
