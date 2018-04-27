@@ -21,8 +21,8 @@
   {%- endcase -%}
 {% endif %}
 
-{% if page.support contains 'maps' %}  
-  <script src="{{ '/assets/js/google-places.js' | relative_url }}"></script>
+{% if page.support contains 'reviews' %}  
+  <script src="{{ '/assets/js/vendor/google/google-places.js' | relative_url }}"></script>
 {% endif %}
 
 {% if page.support contains 'gallery' %}  

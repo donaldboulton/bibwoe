@@ -58,7 +58,7 @@
   })();
 </script>
 <script type="application/ld+json">
-  [{"@context":"http://schema.org","@type":"WebSite","url":"https://donaldboulton.github.io/bibwoe/","potentialAction":{"@type":"SearchAction","target":"https://query.bibwoe.github.io/bibwoe/search?q={q}","query-input":"required name=q"}},{"@context":"http://schema.org","@type":"SoftwareApplication","name":"Donald Boulton","operatingSystem":"Jekyll","applicationCategory":"http://schema.org/WebApplication","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.6","ratingCount":"8864"},"offers":{"@type":"Offer","price":"1.00","priceCurrency":"USD"}}]
+  [{"@context":"http://schema.org","@type":"WebSite","url":"https://bibwoe.com/","potentialAction":{"@type":"SearchAction","target":"https://query.bibwoe.com/search?q={q}","query-input":"required name=q"}},{"@context":"http://schema.org","@type":"SoftwareApplication","name":"Donald Boulton","operatingSystem":"Jekyll","applicationCategory":"http://schema.org/WebApplication","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.6","ratingCount":"8864"},"offers":{"@type":"Offer","price":"1.00","priceCurrency":"USD"}}]
 </script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
 <script>
@@ -110,4 +110,8 @@
     {% endif %}
 <script src="{{ script_path }}"></script>
   {% endfor %}
+{% endif %}
+
+{% if page.support contains 'reviews' %}  
+  <script src="{{ '/assets/css/vendor/google/google-places.css' | relative_url }}"></script>
 {% endif %}
