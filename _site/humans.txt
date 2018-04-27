@@ -1,0 +1,13 @@
+/* BIBWOE.COM */
+
+  Designer:     Donald Boulton
+  Twitter:      @donboulton
+  Location:     OKC, Oklahoma
+
+  Last updated: 2018-04-27 15:56:48 -0500
+  Language:     English
+  Built with:   Jekyll 3.7.3 <https://jekyllrb.com>
+                Visual Studio Code <https://code.visualstudio.com>
+                Gulp <https://gulpjs.com>
+                Travis CI <https://travis-ci.org>
+                Algolia <https://www.algolia.com>

@@ -14,3 +14,15 @@
     	{% endfor %}
 	{% endif %}
 </div>
+<div id="google-reviews" class="gallery-3-col"></div>
+<script>
+  jQuery(document).ready(function( $ ) {
+   $("#google-reviews").googlePlaces({
+        placeId: 'ChIJl8xKnrUPsocRdQ0vQbdIZuI' //Find placeID @: https://developers.google.com/places/place-id
+      , render: ['reviews']
+      , min_rating: 4
+      , max_rows: 4
+   });
+  });
+</script>
+<script async defer src="https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyAcWFi5XIFAY_L9Kkfh2fT46p_rFJyjDHA&signed_in=true&libraries=places"></script>

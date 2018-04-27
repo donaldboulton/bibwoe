@@ -21,5 +21,30 @@
   {%- endcase -%}
 {% endif %}
 
+{% if page.support contains 'maps' %}  
+  <script src="{{ '/assets/js/google-places.js' | relative_url }}"></script>
+{% endif %}
+
+{% if page.support contains 'gallery' %}  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.5/isotope.pkgd.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/picturefill/3.0.3/picturefill.min.js" crossorigin="anonymous"></script>
+  <script src="{{ '/assets/dist/js/imagesloaded.pkgd.min.js' | relative_url }}"></script>
+  <script src="{{ '/assets/dist/modules/lg-autoplay.min.js' | relative_url }}"></script>
+  <script src="{{ '/assets/dist/modules/lg-fullscreen.min.js' | relative_url }}"></script>
+  <script src="{{ '/assets/dist/modules/lg-share.min.js' | relative_url }}"></script>
+  <script src="{{ '/assets/dist/modules/lg-thumbnail.min.js' | relative_url }}"></script>
+  <script src="{{ '/assets/dist/modules/lg-zoom.min.js' | relative_url }}"></script>
+  <script src="{{ '/assets/dist/js/init-lightgallery.js' | relative_url }}"></script>
+{% endif %}
+
+{% if page.support contains 'cloudinary' %}
+  <script src="https://widget.cloudinary.com/global/all.js" crossorigin="anonymous"></script> 
+  <script src="{{ '/assets/js/vendor/jquery-ui/widget.js' | relative_url }}"></script>
+  <script src="{{ '/assets/js/vendor/blueimp-file-upload/jquery.iframe-transport.js' | relative_url }}"></script>
+  <script src="{{ '/assets/js/vendor/blueimp-file-upload/jquery.fileupload.js' | relative_url }}"></script>
+  <script src="{{ '/assets/js/vendor/cloudinary/cloudinary-jquery-file-upload.js' | relative_url }}"></script>
+{% endif %}
+
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}
