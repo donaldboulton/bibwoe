@@ -38,6 +38,8 @@ gallery:
     image_path: /assets/images/pages/windows-xp-defragment-hard-drive-256.jpeg
     alt: "Clusters"
 
+image-slider: /assets/images/pages/check_sql_fragmentation-1400.png
+
 ---
 
 {% include octo-arm.html %}

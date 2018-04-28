@@ -1,0 +1,24 @@
+<link type="text/css" rel="stylesheet" href="/assets/css/vendor/light-slider/lightslider.min.css" />
+<div>
+    <div class="home-title">
+      <h3>Recent Posts</h3>
+    </div>
+  <div class="light--slider">
+      <ul id="light-slider">
+            {% for page in site.categories.posts %}
+            <li>
+                <a href="{{ site.url}}{{ page.permalink }}">
+                  <img src="{{ page.image-slider }}">
+                  <p class="light-slider-caption">{{ page.excerpt }}</p>
+                </a>
+            </li>
+            {% endfor %}
+      </ul>
+  </div>
+  <p style="text-align: center"><a href="{{ site.url }}/categories/#posts">See All Posts</a></p>
+</div>
+<script type="text/javascript">
+  $(document).ready(function() {
+      $("#light-slider").lightSlider();
+  });
+</script>

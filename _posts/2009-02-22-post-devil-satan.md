@@ -24,21 +24,8 @@ related: true
 
 excerpt: "Many of us got really tired of the Gravatar Service being down or slow and having multiple server calls to download the Gravatar. 
 Alot of people do not even know about gravatar and your get a generic image for the User Avatar."
-header:
-  image: /assets/images/pages/devil-1600.jpg
-  teaser: /assets/images/pages/devil-320.jpg
 
-gallery:
-  - url: /assets/images/pages/gravatar-icon-600.jpeg
-    image_path: /assets/images/pages/gravatar-icon-256.jpg
-    alt: "Gravtar Image"
-  - url: /assets/images/pages/avatar-600.png
-    image_path: /assets/images/pages/avatar-225.png
-    alt: "Gravtar Generic Image"
-  - url: /assets/images/pages/myLetterAvatar-600.png
-    image_path: /assets/images/pages/myLetterAvatar-225.png
-    alt: "Letter Avatar"
-
+image-slider: /assets/images/pages/devil-1600.jpg
 ---
 
 {% include octo-arm.html %}
