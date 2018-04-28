@@ -69,8 +69,6 @@ Mailgun:
 
 github                   : [metadata]
 
-iis_slider_array         : []
-
 head_scripts:
   - https://www.googletagmanager.com/gtag/js?id=UA-30162465-2
 
@@ -101,12 +99,30 @@ social:
 analytics:
   provider               : "google"
   google:
-    tracking_id          : "UA-30162465-2"
+    tracking_id          : "UA-30162465-2" 
 
 cloudinary:
   cloud_name             : 'mansbooks'
   api_key                : '228989664973733'
   api_secret             : 'gsm1Wbk+K0wVCXQl5gRnRBDYneEO8jVtlSl/o/aew0r+MVfURehsvdE6gnvMukfEXx3u2cuWUMgTymtI7STz035ecFmUCxw7mi2f247Qx5xezLwlagc7XmT62ZO1jG66ctzcGFRe9ys1yW69MB76j3UQFOl1hlMTq32J8nvWor8='
+  verbose: false
+  presets:
+    default:
+      min_width: 320
+      max_width: 1600
+      fallback_max_width: 800
+      steps: 5
+      sizes: '(min-width: 50rem) 50rem, 90vw'
+      figure: always
+    logo:
+      min_width: 80
+      max_width: 400
+      fallback_max_width: 200
+      steps: 3
+      sizes: '(min-width: 50rem) 13rem, (min-width: 40rem) 25vw, 45vw'
+      figure: never
+      attributes:
+        class: logo  
 
 # Site Author
 author:
@@ -185,7 +201,6 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-
 # Markdown Processing
 kramdown:
   input: GFM
@@ -226,6 +241,7 @@ plugins:
   - jekyll-admin
   - lazyload
   - notice
+  - jekyll-cloudinary
   - jemoji
   - json
 
@@ -246,6 +262,7 @@ whitelist:
   - jekyll-algolia
   - jekyll-admin
   - notice
+  - jekyll-cloudinary
   - jemoji
   - json
 
