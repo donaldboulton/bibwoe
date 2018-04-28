@@ -49,7 +49,7 @@ feature_row:
     alt: "Cool and Free"
     title: "Cool and Free"
     excerpt: "Hosted on Gihub Pages, Driven by CloudFlare, SSL and No Bots by CloudFlare."
-    url: "https://github.com/donaldboulton/DWB"
+    url: "https://github.com/donaldboulton/bibwoe"
     btn_class: "btn--primary"
     btn_label: "Learn More"
   - image_path: /assets/images/pages/staticman.svg
