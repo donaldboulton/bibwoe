@@ -94,7 +94,7 @@
 <!-- end _includes/seo.html -->
 
 
-<link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="Bibwoe Feed">
+<link href="atom.xml" type="application/atom+xml" rel="alternate" title="Bibwoe Feed">
 
 <!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">
@@ -436,14 +436,29 @@
     <div class="page__inner-wrap">
       
         <header>
-          <h1 class="page__title" itemprop="headline">404 Page Not Found
+          <h1 id="page__title" class="page__title" itemprop="headline">404 Page Not Found
 </h1>
-          
         </header>
       
 
-      <section class="page__content" itemprop="text">
-        
+      <section class="page__content" itemprop="text">        
+          <aside class="sidebar__right">
+            
+            
+               <div>       
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-7655495105068461"
+             data-ad-slot="5601054893"
+             data-ad-format="auto"></ins>
+        <script>
+          (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+</div>
+
+            
+            
+          </aside>        
         <p>Sorry, but the page you were trying to view does not exist — perhaps you can try searching for it below. Your pixels are in another canvas.</p>
 <figure class="">
   <img src="http://localhost:4000/assets/images/pages/404.png" alt="404 This Page Does Not Exist" />
@@ -487,7 +502,6 @@
   
   
 </div>
-
   </div>
 
   
@@ -527,7 +541,7 @@
       <li><a href="https://github.com/donaldboulton" target="_blank"><svg class="icon icon--github fa-github" width="16px" height="16px"><use xlink:href="/assets/icons/icons.svg#icon-github"></use></svg> GitHub</a></li>
     
     
-    <li><a href="http://localhost:4000/feed.xml"> <svg class="icon icon--rss fa-rss" width="16px" height="16px"><use xlink:href="/assets/icons/icons.svg#icon-rss"></use></svg> Feed</a></li>
+    <li><a href="atom.xml"> <svg class="icon icon--rss fa-rss" width="16px" height="16px"><use xlink:href="/assets/icons/icons.svg#icon-rss"></use></svg> Feed</a></li>
   </ul>
 </div>
 <div class="page__footer-copyright">&copy; 2018 Donald W. Boulton. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a><a class="text-right align-right" href="/terms">Terms & Privacy Policy</a></div>

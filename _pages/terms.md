@@ -7,13 +7,13 @@ toc: true
 
 {% include octo-arm.html %}
 
-## Privacy Policy
+# Privacy Policy
 
 The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
 
 First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
 
-### Log Files
+## Log Files
 
 Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
 
@@ -45,7 +45,7 @@ If you wish to disable cookies, you may do so through your web browser options. 
 * [Cookies – Doing nothing isn't the right answer](http://chriswharton.me/2012/05/cookies-doing-nothing-isnt-the-right-answer/)
 
 ### Disabling Cookies
-              
+
 If you would like to restrict the use of cookies you can control this in your Internet browser. Links to advice on how to do this for the most popular Internet browsers are provided below for convenience and will be available for the Internet browser of your choice either online or via the software help (normally available via key F1).
 
 * [Disabling cookies in Internet Explorer](http://windows.microsoft.com/en-GB/windows7/Block-enable-or-allow-cookies)
@@ -115,13 +115,13 @@ For more information on the usage of cookies by Google Analytics please see the 
 
 [Privacy Google](http://www.google.com/analytics/learn/privacy.html)
 
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. 
+Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors.
 
 You can read: [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
 
 ## Google Adsense
 
-Google Adsense, a third party affiliate marketing network, uses cookies to help make sure I get a commission when you buy a product after clicking on a link or ad banner that takes you to the site of one of their merchants. 
+Google Adsense, a third party affiliate marketing network, uses cookies to help make sure I get a commission when you buy a product after clicking on a link or ad banner that takes you to the site of one of their merchants.
 
 You can read: [Google Adsense Privacy Policy](http://support.google.com/adsense/bin/answer.py?hl=en&answer=48182).
 

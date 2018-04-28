@@ -4,7 +4,7 @@
  <title>Bibwoe</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-04-28T11:51:30-05:00</updated>
+ <updated>2018-04-28T15:28:05-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Donald Boulton</name>
@@ -1126,23 +1126,135 @@ Start- All programs- Microsoft SQL Server 2008 R2- Microsoft SQL Server Manageme
 
 &lt;p&gt;External Reviews site, used for Google Positioning Micro data. Using Staticman’s Popcorn Github repo to push reviews from my external popcorn site to my Root site donboulton.com. This is still a work in progress so Leave a Review for any page in donboulton.com and It will show up as a review on that page.&lt;/p&gt;
 
-&lt;div id=&quot;comments&quot; class=&quot;js-comments&quot;&gt;
+&lt;div class=&quot;js-comments&quot;&gt;
 	
+		
+		
+			
+	
+			&lt;article&gt;
+				&lt;div class=&quot;form-group&quot;&gt;	            
+     				&lt;div class=&quot;field-group&quot;&gt;			    								
+							&lt;span&gt;Rating:&lt;/span&gt;
+		  				
+    						&lt;svg class=&quot;icon icon--star rating-star rating-radio-star--on&quot;&gt;&lt;use xlink:href=&quot;/assets/icons/icons.svg#icon-star&quot;&gt;&lt;/use&gt;&lt;/svg&gt;
+						  
+    						&lt;svg class=&quot;icon icon--star rating-star rating-radio-star--on&quot;&gt;&lt;use xlink:href=&quot;/assets/icons/icons.svg#icon-star&quot;&gt;&lt;/use&gt;&lt;/svg&gt;
+						  
+    						&lt;svg class=&quot;icon icon--star rating-star rating-radio-star--on&quot;&gt;&lt;use xlink:href=&quot;/assets/icons/icons.svg#icon-star&quot;&gt;&lt;/use&gt;&lt;/svg&gt;
+						  
+    						&lt;svg class=&quot;icon icon--star rating-star rating-radio-star--on&quot;&gt;&lt;use xlink:href=&quot;/assets/icons/icons.svg#icon-star&quot;&gt;&lt;/use&gt;&lt;/svg&gt;
+						  
+    						&lt;svg class=&quot;icon icon--star rating-star rating-radio-star--on&quot;&gt;&lt;use xlink:href=&quot;/assets/icons/icons.svg#icon-star&quot;&gt;&lt;/use&gt;&lt;/svg&gt;
+						  
+					&lt;/div&gt;
+				&lt;/div&gt;
+				&lt;div class=&quot;form-group&quot;&gt;
+					&lt;h3 class=&quot;title-text&quot;&gt;Battle of the Buldge&lt;/h3&gt;
+				&lt;/div&gt;
+				&lt;div class=&quot;form-group&quot;&gt;
+					&lt;p&gt;Review by:&lt;/p&gt;
+					&lt;p&gt;John Doe&lt;/p&gt;
+				&lt;div class=&quot;form-group&quot;&gt;
+					&lt;p&gt;Description:&lt;/p&gt;
+                    &lt;p&gt;&lt;p&gt;no material&lt;/p&gt;
+&lt;/p&gt;
+				&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/article&gt;
+		
+			
+	
+			&lt;article&gt;
+				&lt;div class=&quot;form-group&quot;&gt;	            
+     				&lt;div class=&quot;field-group&quot;&gt;			    								
+							&lt;span&gt;Rating:&lt;/span&gt;
+		  				
+    						&lt;svg class=&quot;icon icon--star rating-star rating-radio-star--on&quot;&gt;&lt;use xlink:href=&quot;/assets/icons/icons.svg#icon-star&quot;&gt;&lt;/use&gt;&lt;/svg&gt;
+						  
+    						&lt;svg class=&quot;icon icon--star rating-star rating-radio-star--on&quot;&gt;&lt;use xlink:href=&quot;/assets/icons/icons.svg#icon-star&quot;&gt;&lt;/use&gt;&lt;/svg&gt;
+						  
+    						&lt;svg class=&quot;icon icon--star rating-star rating-radio-star--on&quot;&gt;&lt;use xlink:href=&quot;/assets/icons/icons.svg#icon-star&quot;&gt;&lt;/use&gt;&lt;/svg&gt;
+						  
+    						&lt;svg class=&quot;icon icon--star rating-star rating-radio-star--on&quot;&gt;&lt;use xlink:href=&quot;/assets/icons/icons.svg#icon-star&quot;&gt;&lt;/use&gt;&lt;/svg&gt;
+						  
+					&lt;/div&gt;
+				&lt;/div&gt;
+				&lt;div class=&quot;form-group&quot;&gt;
+					&lt;h3 class=&quot;title-text&quot;&gt;Made Mistakes&lt;/h3&gt;
+				&lt;/div&gt;
+				&lt;div class=&quot;form-group&quot;&gt;
+					&lt;p&gt;Review by:&lt;/p&gt;
+					&lt;p&gt;Don Boulton&lt;/p&gt;
+				&lt;div class=&quot;form-group&quot;&gt;
+					&lt;p&gt;Description:&lt;/p&gt;
+                    &lt;p&gt;&lt;p&gt;Do not know&lt;/p&gt;
+&lt;/p&gt;
+				&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/article&gt;
+		
+			
+	
+			&lt;article&gt;
+				&lt;div class=&quot;form-group&quot;&gt;	            
+     				&lt;div class=&quot;field-group&quot;&gt;			    								
+							&lt;span&gt;Rating:&lt;/span&gt;
+		  				
+    						&lt;svg class=&quot;icon icon--star rating-star rating-radio-star--on&quot;&gt;&lt;use xlink:href=&quot;/assets/icons/icons.svg#icon-star&quot;&gt;&lt;/use&gt;&lt;/svg&gt;
+						  
+    						&lt;svg class=&quot;icon icon--star rating-star rating-radio-star--on&quot;&gt;&lt;use xlink:href=&quot;/assets/icons/icons.svg#icon-star&quot;&gt;&lt;/use&gt;&lt;/svg&gt;
+						  
+					&lt;/div&gt;
+				&lt;/div&gt;
+				&lt;div class=&quot;form-group&quot;&gt;
+					&lt;h3 class=&quot;title-text&quot;&gt;External reviews&lt;/h3&gt;
+				&lt;/div&gt;
+				&lt;div class=&quot;form-group&quot;&gt;
+					&lt;p&gt;Review by:&lt;/p&gt;
+					&lt;p&gt;Testing External Reviews&lt;/p&gt;
+				&lt;div class=&quot;form-group&quot;&gt;
+					&lt;p&gt;Description:&lt;/p&gt;
+                    &lt;p&gt;&lt;p&gt;Hi is this working&lt;/p&gt;
+&lt;/p&gt;
+				&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/article&gt;
+		
+			
+	
+			&lt;article&gt;
+				&lt;div class=&quot;form-group&quot;&gt;	            
+     				&lt;div class=&quot;field-group&quot;&gt;			    								
+							&lt;span&gt;Rating:&lt;/span&gt;
+		  				
+    						&lt;svg class=&quot;icon icon--star rating-star rating-radio-star--on&quot;&gt;&lt;use xlink:href=&quot;/assets/icons/icons.svg#icon-star&quot;&gt;&lt;/use&gt;&lt;/svg&gt;
+						  
+    						&lt;svg class=&quot;icon icon--star rating-star rating-radio-star--on&quot;&gt;&lt;use xlink:href=&quot;/assets/icons/icons.svg#icon-star&quot;&gt;&lt;/use&gt;&lt;/svg&gt;
+						  
+    						&lt;svg class=&quot;icon icon--star rating-star rating-radio-star--on&quot;&gt;&lt;use xlink:href=&quot;/assets/icons/icons.svg#icon-star&quot;&gt;&lt;/use&gt;&lt;/svg&gt;
+						  
+    						&lt;svg class=&quot;icon icon--star rating-star rating-radio-star--on&quot;&gt;&lt;use xlink:href=&quot;/assets/icons/icons.svg#icon-star&quot;&gt;&lt;/use&gt;&lt;/svg&gt;
+						  
+    						&lt;svg class=&quot;icon icon--star rating-star rating-radio-star--on&quot;&gt;&lt;use xlink:href=&quot;/assets/icons/icons.svg#icon-star&quot;&gt;&lt;/use&gt;&lt;/svg&gt;
+						  
+					&lt;/div&gt;
+				&lt;/div&gt;
+				&lt;div class=&quot;form-group&quot;&gt;
+					&lt;h3 class=&quot;title-text&quot;&gt;Testing staticman v2&lt;/h3&gt;
+				&lt;/div&gt;
+				&lt;div class=&quot;form-group&quot;&gt;
+					&lt;p&gt;Review by:&lt;/p&gt;
+					&lt;p&gt;Donald Boulton&lt;/p&gt;
+				&lt;div class=&quot;form-group&quot;&gt;
+					&lt;p&gt;Description:&lt;/p&gt;
+                    &lt;p&gt;&lt;p&gt;If this conversion works it will be to cool&lt;/p&gt;
+&lt;/p&gt;
+				&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/article&gt;
+		
 &lt;/div&gt;
-&lt;div id=&quot;google-reviews&quot; class=&quot;gallery-3-col&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-  jQuery(document).ready(function( $ ) {
-   $(&quot;#google-reviews&quot;).googlePlaces({
-        placeId: 'ChIJl8xKnrUPsocRdQ0vQbdIZuI' //Find placeID @: https://developers.google.com/places/place-id
-      , render: ['reviews']
-      , min_rating: 4
-      , max_rows: 4
-   });
-  });
-&lt;/script&gt;
-
-&lt;script async=&quot;&quot; defer=&quot;&quot; src=&quot;https://maps.googleapis.com/maps/api/js?v=3.exp&amp;amp;key=AIzaSyAcWFi5XIFAY_L9Kkfh2fT46p_rFJyjDHA&amp;amp;signed_in=true&amp;amp;libraries=places&quot;&gt;&lt;/script&gt;
-
 </content>
  </entry>
  
