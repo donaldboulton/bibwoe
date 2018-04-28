@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/posts/2017-01-02-post-reviews-external/</loc>
-<lastmod>2017-01-13T11:42:38-05:00</lastmod>
+<loc>http://localhost:4000/2009-02-22-post-devil-satan/</loc>
+<lastmod>2018-04-27T11:42:38-05:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/2018-02-22-post-Letter-Avatar/</loc>
-<lastmod>2018-02-28T11:42:38-05:00</lastmod>
+<loc>http://localhost:4000/posts/2017-01-02-post-reviews-external/</loc>
+<lastmod>2017-01-13T11:42:38-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/posts/2018-02-23-post-SQL-Fragmentation/</loc>
@@ -76,16 +76,13 @@
 <loc>http://localhost:4000/year-archive/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/tags/gravatar/</loc>
+<loc>http://localhost:4000/tags/devil/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/tags/letter-avatar/</loc>
+<loc>http://localhost:4000/tags/satan/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/tags/staticman/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tags/mmistakes/</loc>
+<loc>http://localhost:4000/tags/evil/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/tags/sql/</loc>
@@ -121,10 +118,16 @@
 <loc>http://localhost:4000/tags/jekyll-admin/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/tags/staticman/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/tags/github/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/tags/gitlab/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/categories/creation/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/categories/programing/</loc>
