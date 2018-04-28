@@ -3,6 +3,8 @@ permalink: /terms/
 title: "Terms and Privacy Policy"
 last_modified_at: 2018-03-06T12:42:38-04:00
 toc: true
+adds: true
+reviews: true
 ---
 
 {% include octo-arm.html %}

@@ -21,6 +21,8 @@ read_time: true
 comments: true
 share: true
 related: true
+adds: true
+reviews: true
 
 excerpt: "Many of us got really tired of the Gravatar Service being down or slow and having multiple server calls to download the Gravatar. 
 Alot of people do not even know about gravatar and your get a generic image for the User Avatar."
@@ -32,7 +34,6 @@ image-slider: /assets/images/pages/devil-1600.jpg
 
 # Devil as Satan
 
-The Devil as Satan
 In the beginning of time, consideration, thought and action, was the beginning of instant self realization by our Father.God our Father and the Father of all that we will know defeated&nbsp; the lesser gods, [Creation of All](/post/creation)creation</a>creating consideration within thy Father of his works, and that evil of having to defend and/or put down, &quot;within&quot;, the lesser gods thus Satan was of thy father.
 
 This first consideration of our Father, is a reflection of thyself. A, &quot;depiction&quot;, see arts and paying attention of self within the mirror, he - him was born. He saw what he was before awakening and all that had been since, what was, He the Holy Spirit, and what will be, Him was Satan,and the, &quot;I&quot;, which is and will always be of our Father.

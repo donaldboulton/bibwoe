@@ -8,4 +8,5 @@ comments: false
 exclude_from_search: true
 adds: true
 support: [adds]
+reviews: true
 ---
