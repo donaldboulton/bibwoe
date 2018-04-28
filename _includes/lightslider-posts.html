@@ -5,14 +5,15 @@
     </div>
   <div class="light--slider">
       <ul id="light-slider">
-            {% for page in site.categories.posts %}
+        {% for post in site.posts %}
+            {% include entry.html %}
             <li>
                 <a href="{{ site.url}}{{ page.permalink }}">
-                  <img src="{{ page.image-slider }}">
+                  <img src="{{ post.image-slider }}">
                   <p class="light-slider-caption">{{ page.excerpt }}</p>
                 </a>
             </li>
-            {% endfor %}
+        {% endfor %}
       </ul>
   </div>
   <p style="text-align: center"><a href="{{ site.url }}/categories/#posts">See All Posts</a></p>
