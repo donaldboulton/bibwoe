@@ -30,22 +30,6 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : "dark"
 
-staticman:
-  allowedFields          : ['name', 'email', 'url', 'message', 'title', 'rating', 'replying_to']
-  branch                 : "master"
-  commitMessage          : "New comment."
-  filename               : "comment-{@timestamp}"
-  format                 : "yml"
-  moderation             : false
-  path                   : "/_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'title', 'message']
-  transforms:
-    email                : "md5"
-  generatedFields:
-    date:
-      type               : "date"
-      options:
-        format           : "iso8601"
 reCaptcha:
   siteKey                : "6Lf9x0sUAAAAAM5Ga3aoTRXDcs0uEJvcWgYLLDX9"
   secret                 : "D9a4vIRKb5mZs4yrAaevWg94TNfaoAdbdwFWdq+cb6qdcdz5aLZc4cUO2uWmjsMsEK1wsN8AJPGsmep/X+BrXUAF5LPUCqLYZKlBPv4yLcZ2tAd/EHeyFLHHfWplnYVuN95BLpuKZlccBkp5jbNadjDRNCj8DgDSfu3iMPa3OWM="

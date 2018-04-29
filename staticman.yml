@@ -6,18 +6,19 @@
 # https://api.staticman.net/v2/encrypt/{TEXT TO BE ENCRYPTED}
 
 comments:
+  provider: "staticman_v2"
   # (*) REQUIRED
   #
   # Names of the fields the form is allowed to submit. If a field that is
   # not here is part of the request, an error will be thrown.
-  allowedFields: ["name", "email", "url", "title",  "message", "rating", "replying_to"]
+  allowedFields: ["name", "email", "url", "title",  "message", "replying_to"]
 
   # (*) REQUIRED WHEN USING NOTIFICATIONS
   #
   # When allowedOrigins is defined, only requests sent from one of the domains
   # listed will be accepted. The origin is sent as part as the `options` object
   # (e.g. <input name="options[origin]" value="http://yourdomain.com/post1")
-  allowedOrigins: ["https://donaldboulton.github.io/bibwoe/"]
+  allowedOrigins: ["https://bibwoe.com"]
 
   # (*) REQUIRED
   #
@@ -34,7 +35,7 @@ comments:
 
   # The format of the generated data files. Accepted values are "json", "yaml"
   # or "frontmatter"
-  format: "yaml"
+  format: "yml"
 
   # List of fields to be populated automatically by Staticman and included in
   # the data file. Keys are the name of the field. The value can be an object
@@ -101,3 +102,15 @@ comments:
     # Encrypt reCaptcha secret key using Staticman /encrypt endpoint
     # For more information, https://staticman.net/docs/encryption
     secret: "p8GU8ZGrOQfDgFnvCffErfVKHVEZAJD2Y1wAxbt6VidfF1pqkbP247qQAz0nS7IwFQkITSQxS5J5HbnIoU9v5qMMIY4l2S9hiE8+nEd3F9laLVcUyPMUODGqNEiNEXoWv8YQ/PBHtH3cfTArfrYvkiXojNs5GD+o52zYzgVgm1A="
+
+reviews:
+  provider: "staticman_v2"
+  allowedFields: ['name', 'title', 'description', 'rating']
+  allowedOrigins: ["https://bibwoe.com"]
+  branch: "master"
+  commitMessage: "New Rating on bibwoe.com"
+  filename: "entry{@timestamp}"
+  moderation: false
+  requiredFields: ['name', 'title', 'description', 'rating']
+  format: "yml"
+  path: "_data/reviews"
