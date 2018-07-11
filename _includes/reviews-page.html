@@ -1,41 +1,18 @@
-<div class="js-comments">
-	{% if site.data.reviews[page.slug] %}
-	{% assign reviews = site.data.reviews[page.slug] | sort %}
-		
-		{% for review in reviews %}
-			{% assign reviewData = review[1] %}
-	
-			<article>
-				<header class="section-title">
-					<h3>Reviews</h3>
-				</header>
-				<div class="form-group form">	            
-     				<div class="field-group">			    								
-							<span>Rating:</span>
-		  				{% for i in (1..reviewData.rating) %}
-    						<svg class="icon icon--star rating-star rating-radio-star--on"><use xlink:href="{{ 'icons.svg#icon-star' | prepend: 'assets/icons/' | relative_url }}"></use></svg>
-						{% endfor %}
-					</div>
-				</div>
-				<div class="form-group">
-					<h3 class="title-text">{{ reviewData.title }}</h3>
-				</div>
-				<div class="form-group">
-					<p>Review by:</p>
-					<p>{{ reviewData.name }}</p>
-				<div class="form-group">
-					<p>Description:</p>
-                    <p>{{ reviewData.description | markdownify }}</p>
-				</div>
-				</div>
-			</article>
-		{% endfor %}
-		{% for review in reviews %}
-            {% assign rating = review[1].rating %}
-    		{% assign title = review[1].title %}
-            {% assign name = review[1].name %}
-    		{% assign description = review[1].description %}
-	    {% endfor %}
-
-	{% endif %}
+<div class="js-reviews">
+      {% if page.id and page.reviews == true and site.data.reviews | where:'product',page.slug.size > 1 %}
+        <h4 class="page__comments-title">{{ site.data.ui-text[site.locale].reviews_title | default: "Reviews" }}</h4>
+        {% assign reviews = site.data.reviews | sort %}
+        {% for review in reviews %}
+        {% assign index = forloop.index %}
+        {% assign review = review[1].review %}
+        {% assign title = review[1].title %}
+        {% assign url = review[1].url %}
+        {% assign name = review[1].name %}
+        {% assign email = review[1].email %}
+        {% assign date = review[1].date %}
+        {% assign description = review[1].description %}
+        {% include review.html index=index review=review title=title email=email url=url name=name date=date description=description %}
+        {% endfor %}
+      {% endif %}
 </div>
+

@@ -54,3 +54,83 @@
 .field-group {
 	display: flex;
 }
+
+.field-group1 {
+	display: inline;
+}
+
+.review-content{
+	padding-left: .3em;
+}
+
+.reviews-notifications {
+  margin: 1rem 0;
+}
+
+.review-avatar-image {
+  width: 40px;
+  height: 40px;
+ }
+
+.review-author {
+  display: block;
+  top: -1px;
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+}
+
+.flex-container {
+  padding: 0;
+  margin: 0;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+  justify-content: space-around;
+}
+
+.flex-item {
+  padding: .5em;
+  width: 50%;
+  height: 100%;
+  margin-top: .5em;
+  margin-bottom: .5em;
+}
+
+.product-details, .product-reviews {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.product-description {
+  width: 400px;
+  padding: 25px;
+  margin: 25px;
+  font-size: 20px;
+}
+
+.product-reviews {
+  flex-direction: column;
+}
+
+.product-details, .product-reviews {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.snipcart-summary {
+  font-size: 16px;
+  line-height: 56px;
+  letter-spacing: -1px;
+  margin-bottom: 0;
+  float: right;
+}

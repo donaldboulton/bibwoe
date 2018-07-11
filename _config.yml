@@ -53,16 +53,12 @@ Mailgun:
   smtp_login             : "postmaster@bibwoe.com"
 
 github                   : [metadata]
-
-head_scripts:
-  - https://www.googletagmanager.com/gtag/js?id=UA-30162465-2
-
 # SEO Related
 google_site_verification : "rXkolEOR2tQie0oZad3iu_XX0ID673ocd2nc5qKBAFI"
 bing_site_verification   : "361016BEC0F67F6A834D6186E897D9EC"
 yandex_site_verification :
 naver_site_verification  :
-
+github_editme_path       : donaldboulton/bibwoe/blob/gh-pages/
 # Social Sharing
 twitter:
   username               : "donboulton"
@@ -84,7 +80,7 @@ social:
 analytics:
   provider               : "google"
   google:
-    tracking_id          : "UA-30162465-2" 
+    tracking_id          : "UA-30162465-2"
 
 cloudinary:
   cloud_name             : 'mansbooks'
@@ -107,7 +103,7 @@ cloudinary:
       sizes: '(min-width: 50rem) 13rem, (min-width: 40rem) 25vw, 45vw'
       figure: never
       attributes:
-        class: logo  
+        class: logo
 
 # Site Author
 author:
@@ -156,8 +152,6 @@ exclude:
   - .sass-cache
   - assets/js/plugins
   - assets/js/_main.js
-  - assets/js/vendor
-  - assets/dist
   - assets/css/vendor
   - Capfile
   - CHANGELOG
@@ -221,7 +215,7 @@ plugins:
   - jekyll-tagging
   - jekyll-tagging-related_posts
   - jekyll-redirect-from
-  - jekyll/figure
+  - jekyll-figure
   - jekyll-algolia
   - jekyll-admin
   - lazyload
@@ -243,7 +237,7 @@ whitelist:
   - jekyll-tagging
   - jekyll-tagging-related_posts
   - jekyll-redirect-from
-  - jekyll/figure
+  - jekyll-figure
   - jekyll-algolia
   - jekyll-admin
   - notice
@@ -332,7 +326,7 @@ autopages:
   categories:
     enabled: false
   collections:
-    layouts: 
+    layouts:
       - 'autopage_collection.html'
     title: 'Posts in collection :coll' # :coll is replaced by the collection name
     permalink: '/collection/:coll'

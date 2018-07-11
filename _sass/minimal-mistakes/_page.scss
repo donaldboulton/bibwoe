@@ -273,6 +273,9 @@
    ========================================================================== */
 
 .page__taxonomy {
+  margin-bottom: 1.5em;
+  margin-top: 1.5em;
+
   .sep {
     display: none;
   }
@@ -285,7 +288,6 @@
 .page__taxonomy-item {
   display: inline-block;
   margin-right: 5px;
-  margin-bottom: 8px;
   padding: 5px 10px;
   text-decoration: none;
   border: 1px solid mix(#000, $border-color, 25%);
@@ -297,7 +299,7 @@
   }
 }
 
-.taxonomy__index {  
+.taxonomy__index {
   display: grid;
   grid-column-gap: 2em;
   grid-template-columns: repeat(3, 1fr);
@@ -418,6 +420,91 @@
     text-decoration: none;
   }
 }
+
+/*
+   Reviews
+   ========================================================================== */
+
+   .page__reviews {
+    float: left;
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+    clear: both;
+  }
+
+  .page__reviews-title {
+    margin-top: 2rem;
+    margin-bottom: 10px;
+    padding-top: 2rem;
+    font-size: $type-size-6;
+    border-top: 1px solid $border-color;
+    text-transform: uppercase;
+  }
+
+  .page__reviews-form {
+    -webkit-transition: $global-transition;
+    transition: $global-transition;
+
+    &.disabled {
+      input,
+      button,
+      textarea,
+      label {
+        pointer-events: none;
+        cursor: not-allowed;
+        filter: alpha(opacity=65);
+        box-shadow: none;
+        opacity: 0.65;
+      }
+    }
+  }
+
+  .review{
+    @include clearfix();
+    margin: 1em 0;
+
+    &:not(:last-child) {
+      border-bottom: 1px solid $border-color;
+    }
+  }
+
+  .review__avatar-wrapper {
+    float: left;
+    width: 60px;
+    height: 60px;
+
+    @include breakpoint($large) {
+      width: 100px;
+      height: 100px;
+    }
+  }
+
+  .review__content-wrapper {
+    float: right;
+    width: calc(100% - 60px);
+
+    @include breakpoint($large) {
+      width: calc(100% - 100px);
+    }
+  }
+
+  .review__author {
+    margin: 0;
+
+    a {
+      text-decoration: none;
+    }
+  }
+
+  .review__date {
+    @extend .page__meta;
+    margin: 0;
+
+    a {
+      text-decoration: none;
+    }
+  }
 
 /*
    Related
