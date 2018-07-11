@@ -23,11 +23,12 @@ share: true
 related: true
 adds: true
 reviews: true
-
+anchor: true
 excerpt: "Many of us got really tired of the Gravatar Service being down or slow and having multiple server calls to download the Gravatar. 
 Alot of people do not even know about gravatar and your get a generic image for the User Avatar."
-
+support: [adds, cookies, anchor]
 image-slider: /assets/images/pages/devil-1600.jpg
+github_editme_path: donaldboulton/bibwoe/blob/master/_posts/2009-02-22-post-devil-satan.md
 ---
 
 {% include octo-arm.html %}

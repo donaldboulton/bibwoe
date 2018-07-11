@@ -17,7 +17,10 @@ support: [adds, cookies, youtube]
 header:
   image: /assets/images/pages/support-1200.jpg
   teaser: /assets/images/pages/support-320.jpg
+  github_editme_path: donaldboulton/bibwoe/blob/master/_pages/support.md
 ---
+
+{% include octo-arm.html %}
 
 {% include support.html %}
 

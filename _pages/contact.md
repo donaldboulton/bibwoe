@@ -31,7 +31,7 @@ support: [adds, cookies, validate]
 folder: _pages
 slug: contact
 product: contact
-github_editme_path: donaldboulton/DWB/blob/gh-pages/_pages/contact.md
+github_editme_path: donaldboulton/bibwoe/blob/master/_pages/contact.md
 ---
 
 {% include octo-arm.html %}

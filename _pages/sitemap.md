@@ -24,7 +24,7 @@ support: [adds, cookies, anchor]
 folder: _pages
 product: sitemap
 slug: sitemap
-github_editme_path: donaldboulton/DWB/blob/gh-pages/_pages/sitemap.md
+github_editme_path: donaldboulton/bibwoe/blob/master/_pages/sitemap.md
 ---
 
 {% include octo-arm.html %}

@@ -15,7 +15,7 @@ support: [adds, cookies]
 folder: _pages
 product: terms
 slug: terms
-github_editme_path: donaldboulton/DWB/blob/gh-pages/_pages/terms.md
+github_editme_path: donaldboulton/bibwoe/blob/master/_pages/terms.md
 ---
 
 {% include octo-arm.html %}
@@ -140,11 +140,11 @@ Google Adsense, a third party affiliate marketing network, uses cookies to help 
 
 ## Donation Policy
 
-All Donations throught our external pay sites and or through our paypal buttons will not be refundable, as they are a donation to a free website designer, that has limited abilitys to do money transfers back to you. Thank You for your donations to donboulton.com.
+All Donations throught our external pay sites and or through our paypal buttons will not be refundable, as they are a donation to a free website designer, that has limited abilitys to do money transfers back to you. Thank You for your donations to bibwoe.com.
 
 ## Comment Policy
 
-We want you to feel at home when you post a comment on donboulton.com. We want everyone to feel at home posting comments on donboulton.com. We don’t know what your home is like, but we know how we expect people to behave when they visit ours. That’s why we reserve the right to delete comments and ban users as needed to keep the comment threads here civil and substantive.
+We want you to feel at home when you post a comment on bibwoe.com. We want everyone to feel at home posting comments on bibwoe.com. We don’t know what your home is like, but we know how we expect people to behave when they visit ours. That’s why we reserve the right to delete comments and ban users as needed to keep the comment threads here civil and substantive.
 
 ### 1 house rule is simple
 
@@ -166,7 +166,7 @@ I make money on this website through affiliate programs. If you click an affilia
 
 Currently Michael Rose is affiliate for Amazon and Google Adsense.
 
-Donald Boulton and this [donboulton.com](https://donboulton.com) Website is a Affiliate for Google Adsense.
+Donald Boulton and this [bibwoe.com](https://bibwoe.com) Website is a Affiliate for Google Adsense.
 
 What this means for you:
 
@@ -179,8 +179,8 @@ Just like this website, my Disclosure Policy is a work in progress. As the reven
 
 ## License
 
-All original content (e.g. articles, blog posts, illustrations, artwork, and photographs) available on donboulton.com is released under a [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US){:id="open-website" rel="nofollow"} unless otherwise noted. Basically this means you are free to share, transmit, distribute, alter, transform, and build on my work just as long as you don't use it for commercial purposes without my prior written consent.
+All original content (e.g. articles, blog posts, illustrations, artwork, and photographs) available on bibwoe.com is released under a [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US){:id="open-website" rel="nofollow"} unless otherwise noted. Basically this means you are free to share, transmit, distribute, alter, transform, and build on my work just as long as you don't use it for commercial purposes without my prior written consent.
 
 ## Attribution
 
-If you're inclined to give credit --- a link back to the source article attributed to either [Made Mistakes](https://mmistakes.github.io/minimal-mistakes/terms/){:id="open-website" rel="nofollow"} or [Michael Rose](https://mademistakes.com/about/){:id="open-website" rel="nofollow"} or this website designer [Donald Boulton](https://github.com/bibwoe){:id="open-website" rel="nofollow"} or [donboulton.com](https://donaldboulton.github.io/bibwoe/){:id="open-website" rel="nofollow"} is good enough for me. If you don't want to attribute our content, hey that's cool too. Just don't go using our stuff and republishing it as your own.
+If you're inclined to give credit --- a link back to the source article attributed to either [Made Mistakes](https://mmistakes.github.io/minimal-mistakes/terms/){:id="open-website" rel="nofollow"} or [Michael Rose](https://mademistakes.com/about/){:id="open-website" rel="nofollow"} or this website designer [Donald Boulton](https://github.com/bibwoe){:id="open-website" rel="nofollow"} or [bibwoe.com](https://donaldboulton.github.io/bibwoe/){:id="open-website" rel="nofollow"} is good enough for me. If you don't want to attribute our content, hey that's cool too. Just don't go using our stuff and republishing it as your own.
