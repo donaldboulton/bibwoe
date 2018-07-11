@@ -1,25 +1,42 @@
 ---
-layout: archive
+layout: single
 title: "Sitemap"
 permalink: /sitemap/
-toc: true
+toc: false
+sidenav: true
+comments: false
+anchor: false
+sidenav: true
+sidenav-gen: true
+reviews: false
 adds: true
-support: [adds]
-reviews: true
+excerpt: "Sitemap with Post by Catagories, by Tags and by Years"
+image:
+  cover: true
+  path: &image /assets/images/pages/sitemap.png
+  feature: *image
+  thumbnail: /assets/images/pages/sitemap-320.png
+header:
+  image: /assets/images/pages/sitemap-1200.png
+  teaser: /assets/images/pages/sitemap-320.png
+  excerpt: "Sitemap of Posts"
+support: [adds, cookies, anchor]
+folder: _pages
+product: sitemap
+slug: sitemap
+github_editme_path: donaldboulton/DWB/blob/gh-pages/_pages/sitemap.md
 ---
 
-A list of all the posts and pages found on this site. For you robots out there is an [XML version]({{ "sitemap.xml" | absolute_url }}) and a [Atom Version]({{ "atom.xml" | absolute_url }}) or a [Json Feed]({{ "feed.json" | absolute_url }}) available for digesting as well.
+{% include octo-arm.html %}
+
+# Sitemap Posts by Categories
+
+Links to Posts by Years, Months, Days and Tags.
+
+For your viewing and or all robots out there. Here is an [XML version]({{ "sitemap.xml" | absolute_url }}) and a [Atom Version]({{ "atom.xml" | absolute_url }}) or a [Json Feed]({{ "feed.json" | absolute_url }}) with a listing of all Pages and Posts, available for digesting as well.
 
 # Posts
 
-{% for post in site.posts %}
-  {% include archive-single.html %}
-{% endfor %}
+{% include posts-all.html %}
 
-## Pages
-
-{% for post in site.pages %}
-  {% include archive-single.html %}
-{% endfor %}
-
-{% capture written_label %}'None'{% endcapture %}
+{% include post_pagination.html %}

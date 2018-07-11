@@ -1,0 +1,34 @@
+language: ruby
+rvm:
+- 2.0.0
+- 1.9.3
+- 2.3.7
+- jruby-19mode
+- rbx-2
+before_install:
+  openssl aes-256-cbc -K $encrypted_73c56c33471d_key -iv $encrypted_73c56c33471d_iv -in demo-secret-key.enc -out demo-secret-key -d
+  - nvm install 8
+install:
+  - bundle install
+cache:
+  bundler: true
+  directories:
+    - node_modules
+deploy:
+  provider: script
+  skip-cleanup: true
+  script: gulp deploy
+  github-token: $g/KPkZ35QrQDOBsSFwZfUhn4fw0o+MBcoxrXualp+3/HpdaVS5fazIq9bZoEE2Tpvnge8Nu8/y46wFxA+3ehca8YekHdNdMD5jUNaR5nV7+sVhQr5Tff14cvgJV/CPf6v6dHoLAgiynogD2ou2n3K1krv2ZnFBvAcySgMp7sXNs=
+  keep-history: true
+  on:
+    branch: master
+after_success:
+  - eval "$(ssh-agent)"
+  - chmod 600 ./deploy.secret.key
+  - ssh-add ./deploy.secret.key
+  - cd deploy
+  - git checkout -B master
+  - git add -A
+  - git commit --allow-empty -m "$TRAVIS_COMMIT_MSG"
+  - echo "Pushing changes"
+  - git push git@github.com:donaldboulton/DWB.git master
