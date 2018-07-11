@@ -81,7 +81,9 @@ analytics:
   provider               : "google"
   google:
     tracking_id          : "UA-30162465-2"
-
+weather:
+  - platform             : "openweathermap"
+    api_key              : "8f4c1537b5fad3b111dae7b441fd0937"
 cloudinary:
   cloud_name             : 'mansbooks'
   api_key                : '228989664973733'
@@ -123,7 +125,7 @@ author:
   github                 : "donaldboulton"
   gitlab                 :
   google_plus            : "donaldboulton"
-  keybase                :
+  keybase                : "donaldboulton"
   instagram              :
   lastfm                 :
   linkedin               : "don-boulton-3a10972b"

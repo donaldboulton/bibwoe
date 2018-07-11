@@ -6,7 +6,6 @@
 # https://api.staticman.net/v2/encrypt/{TEXT TO BE ENCRYPTED}
 
 comments:
-  provider: "staticman_v2"
   # (*) REQUIRED
   #
   # Names of the fields the form is allowed to submit. If a field that is
@@ -104,13 +103,31 @@ comments:
     secret: "p8GU8ZGrOQfDgFnvCffErfVKHVEZAJD2Y1wAxbt6VidfF1pqkbP247qQAz0nS7IwFQkITSQxS5J5HbnIoU9v5qMMIY4l2S9hiE8+nEd3F9laLVcUyPMUODGqNEiNEXoWv8YQ/PBHtH3cfTArfrYvkiXojNs5GD+o52zYzgVgm1A="
 
 reviews:
-  provider: "staticman_v2"
-  allowedFields: ['name', 'title', 'description', 'rating']
-  allowedOrigins: ["https://bibwoe.com"]
-  branch: "master"
-  commitMessage: "New Rating on bibwoe.com"
-  filename: "entry{@timestamp}"
+  allowedFields: ['name', "email", "url", 'title', 'description', 'review', 'product']
+  allowedOrigins: ["https://donboulton.com"]
+  branch: "gh-pages"
+  commitMessage: "Add Review from {fields.name}"
+  filename: "review-{fields.product}-{@id}"
   moderation: false
-  requiredFields: ['name', 'title', 'description', 'rating']
-  format: "yml"
-  path: "_data/reviews"
+  requiredFields: ['name', "email", 'title', 'description', 'review']
+  format: "yaml"
+  path: "_data/reviews/{options.slug}"
+
+  generatedFields:
+    date:
+      type: date
+      options:
+        format: "iso8601"
+  reCaptcha:
+    enabled: true
+    siteKey: "6Lf9x0sUAAAAAM5Ga3aoTRXDcs0uEJvcWgYLLDX9"
+    # Encrypt reCaptcha secret key using Staticman /encrypt endpoint
+    # For more information, https://staticman.net/docs/encryption
+    secret: "p8GU8ZGrOQfDgFnvCffErfVKHVEZAJD2Y1wAxbt6VidfF1pqkbP247qQAz0nS7IwFQkITSQxS5J5HbnIoU9v5qMMIY4l2S9hiE8+nEd3F9laLVcUyPMUODGqNEiNEXoWv8YQ/PBHtH3cfTArfrYvkiXojNs5GD+o52zYzgVgm1A="
+
+reCaptcha:
+    enabled: true
+    siteKey: "6Lf9x0sUAAAAAM5Ga3aoTRXDcs0uEJvcWgYLLDX9"
+    # Encrypt reCaptcha secret key using Staticman /encrypt endpoint
+    # For more information, https://staticman.net/docs/encryption
+    secret: "p8GU8ZGrOQfDgFnvCffErfVKHVEZAJD2Y1wAxbt6VidfF1pqkbP247qQAz0nS7IwFQkITSQxS5J5HbnIoU9v5qMMIY4l2S9hiE8+nEd3F9laLVcUyPMUODGqNEiNEXoWv8YQ/PBHtH3cfTArfrYvkiXojNs5GD+o52zYzgVgm1A="
