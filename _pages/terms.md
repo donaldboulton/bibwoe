@@ -63,11 +63,19 @@ If you wish to disable cookies, you may do so through your web browser options. 
 
 If you would like to restrict the use of cookies you can control this in your Internet browser. Links to advice on how to do this for the most popular Internet browsers are provided below for convenience and will be available for the Internet browser of your choice either online or via the software help (normally available via key F1).
 
-* [Disabling cookies in Internet Explorer](http://windows.microsoft.com/en-GB/windows7/Block-enable-or-allow-cookies)
+#### Cookies in IE
+
+* [Disabling cookies in Internet Explorer](http://windows.microsoft.com/en-GB/windows7/Block-enable-or-allow-cookies){:id="open-website" rel="nofollow"}
+
+#### Cookies in Chrome
 
 * [Disabling cookies in Google Chrome](https://support.google.com/chrome/bin/answer.py?hl=en-GB&amp;answer=95647&amp;p=cpn_cookies){:id="open-website" rel="nofollow"}
 
+#### Cookies in Firefox
+
 * [Disabling cookies in Mozilla Firefox](http://support.mozilla.org/en-US/kb/Blocking-cookies){:id="open-website" rel="nofollow"}
+
+#### Cookies in Safari
 
 * [Disabling cookies in Apple Safari](http://docs.info.apple.com/article.html?artnum=324){:id="open-website" rel="nofollow"}
 
@@ -77,38 +85,38 @@ The cookies in use to deliver Google Analytics service are described below.
 
 Returning, New Session, Time, Custom Variable Data, Source
 
-* __utma
+| * __utma
 
-* __utmb
+| * __utmb
 
-* __utmc
+| * __utmc
 
-* __utmv
+| * __utmv
 
-* __utmz
+| * __utmz
 
 ### Analytics Cookie Types
 
-* __utma
+| * __utma
 
 This cookie is used to determine new and returning visitors.  It has an expiration time of 2 years.  If the ga.js library is executed and no _utma cookie exists, this will be recorded as the users’ first visit and a _utma cookie will be set.  If a _utma cookie is already in place, the expiration time is reset and the user is recorded as a return visitor.
 
-* __utmb
+| * __utmb
 
 This cookie is used to determine a new session.  The cookie is set when the ga.js library executes and there is no _utmb cookie in place.  It has an expiration time of 30 minutes, therefore if a user is inactive for a period longer than this, a new cookie will be set when the library executes and the interaction will be recorded as a new session.
 
-* __utmz
+| * __utmz
 
 This cookie is used to determine the traffic source, medium, campaign name and campaign term which delivered the user to your website.  It is created when the javascript library executes and expires after 6 months.  This helps Google collect the data which can then help them to determine which traffic sources assist conversions within the multi-channel section of Analytics.
 
-* __utmc
+| * __utmc
 
 This Cookie waits 30 minutes, and then it expires. You see, __utmc has no way of knowing when a user closes their browser or leaves a website, so it waits 30 minutes for another pageview to happen, and if it doesn’t, it expires.
 And is used to store information, such as what time your current visit occurred, whether you have been to the site before, and what site referred you to the web page.
 
 From Stackoverflow: [What does __utma mean?](https://stackoverflow.com/questions/1823406/what-does-utma-mean){:id="open-website" rel="nofollow"}
 
-* __utmv
+| * __utmv
 
 This cookie is used for storing visitor-level custom variable data.  It is created when the _setCustomVar method is used with a visitor level custom variable.  Like the _utma cookie, this cookie expires after 2 years and is reset each time the user visits your site before the expiration of the cookie.
 
