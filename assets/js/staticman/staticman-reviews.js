@@ -32,7 +32,7 @@
 
     return false;
   });
-  document.getElementById("comment-form").reset();
+
   function showAlert(message) {
     $('.page__reviews-form .js-notice').removeClass('hidden');
     $('.page__reviews-form .js-notice-text').html(message);
