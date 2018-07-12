@@ -1,9 +1,9 @@
 ---
 layout: single
 title: "Devil as Satan"
-permalink: /2009-02-22-post-devil-satan/
-date: 2009-02-22 16:16:01 -0600
-last_modified_at: 2018-04-27T12:42:38-04:00
+permalink: /1999-11-15-post-devil-satan/
+date: 1999-11-15 16:16:01 -0600
+last_modified_at: 2018-07-10T12:42:38-04:00
 search: true
 author: Donald Boulton
 author_profile: true
