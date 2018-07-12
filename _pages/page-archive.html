@@ -1,10 +1,15 @@
 ---
-layout: archive
 title: "Page Archive"
+layout: archive
 permalink: /page-archive/
-author_profile: false
+author_profile: true
+comments: false
+sidenav: true
+reviews: false
+adds: true
+support: [adds]
 ---
 
-{% for post in site.pages %}
+{% for page in site.pages %}
   {% include archive-single.html %}
 {% endfor %}
