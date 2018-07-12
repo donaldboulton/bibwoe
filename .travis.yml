@@ -31,4 +31,4 @@ after_success:
   - git add -A
   - git commit --allow-empty -m "$TRAVIS_COMMIT_MSG"
   - echo "Pushing changes"
-  - git push git@github.com:donaldboulton/DWB.git master
+  - git push git@github.com:donaldboulton/bibwoe.git master
