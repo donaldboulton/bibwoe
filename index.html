@@ -1,18 +1,41 @@
 ---
-layout: archive
+layout: single
 author_profile: true
 title: Bibwoe Home
 classes: wide
 category:
   - Home
+  - Bibwoe
+tags: [Home, Bibwoe, God, Bible]
 comments: false
 image-slider: /assets/images/pages/slider_01.jpg
-excerpt: Basic Instructions Books While On Earth"
-
+adds: true
+toc: false
+sidenav: true
+reviews: false
+comments: false
+cookies: true
+recaptcha: false
+image:
+  cover: true
+  path: &image /assets/images/pages/slider_01.jpg
+  feature: *image
+  thumbnail: /assets/images/pages/slider_01-320.jpg
 header:
-  image: /assets/images/pages/slider_01.jpg
-  teaser: /assets/images/pages/slider_01.jpg
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/pages/slider_01.jpg
+  cta_label: "Posts"
+  cta_url: "/categories/#posts"
+  caption: Spiritual World
+excerpt: 'Github CloudFlare Hosting with Full SSL.<br /> <small><a href="https://bibwoe.com"></a></small><br /><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=donaldboulton&repo=DWB&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=donaldboulton&repo=bibwoe&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
+support: [adds, cookies]
+folder: /
+slug: home
+product: home
+github_editme_path: donaldboulton/bibwoe/blob/master/index.html
 ---
+
+{% include octo-arm.html %}
 
 <h1>This New Word Describes All Within All</h1>
 
@@ -37,3 +60,5 @@ This difference is life within substance, as our Father is of no measure and is 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
 {% include posts-all.html %}
+
+{% include post_pagination.html %}
