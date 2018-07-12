@@ -38,7 +38,9 @@ github_editme_path: donaldboulton/bibwoe/blob/master/_posts/2009-02-22-post-devi
 
 # Origin Brief
 
-In the beginning of time, consideration, thought and action, was the beginning of instant self realization by our Father as he awoke. God our Father and the Father of all that we will know defeated&nbsp; the lesser gods, [Origions of All](/post/origins)</a>creating consideration within thy Father of his works, and that evil of having to defend and/or put down, &quot;within&quot;, the lesser gods as Satan was now within father.
+I will clarify this shortly
+
+In the beginning of time, consideration, thought and action, was the beginning of instant self realization by our Father as he awoke. God our Father and the Father of all that we will know defeated&nbsp; the lesser gods, [Origions of All](/post/origins) creating consideration within thy Father of his works, and that evil of having to defend and/or put down, &quot;within&quot;, the lesser gods as Satan was now within father.
 
 This first consideration of our Father, is a reflection of thyself. A, &quot;depiction&quot;,see arts and paying attention of self within the mirror, he - him was born. He saw what he was before awakening and all that had been since, what was, He the Holy Spirit, and what will be, Him was Satan,and the, &quot;I&quot;, which is and will always be of our Father.
 
