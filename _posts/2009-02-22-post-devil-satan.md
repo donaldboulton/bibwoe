@@ -33,11 +33,13 @@ github_editme_path: donaldboulton/bibwoe/blob/master/_posts/2009-02-22-post-devi
 
 {% include octo-arm.html %}
 
+{% include page-intro.html %}
+
 # Devil as Satan
 
 In the beginning of time, consideration, thought and action, was the beginning of instant self realization by our Father.God our Father and the Father of all that we will know defeated&nbsp; the lesser gods, [Creation of All](/post/creation)creation</a>creating consideration within thy Father of his works, and that evil of having to defend and/or put down, &quot;within&quot;, the lesser gods thus Satan was of thy father.
 
-This first consideration of our Father, is a reflection of thyself. A, &quot;depiction&quot;, see arts and paying attention of self within the mirror, he - him was born. He saw what he was before awakening and all that had been since, what was, He the Holy Spirit, and what will be, Him was Satan,and the, &quot;I&quot;, which is and will always be of our Father.
+This first consideration of our Father, is a reflection of thyself. A, &quot;depiction&quot;,see arts and paying attention of self within the mirror, he - him was born. He saw what he was before awakening and all that had been since, what was, He the Holy Spirit, and what will be, Him was Satan,and the, &quot;I&quot;, which is and will always be of our Father.
 
 Two Spirits as highest Angles, below and within the trinity, they were formalized as right and left hand Spiritual Angles. Satan was this reflection thy father saw in himself, as the substance of the lesser gods, and who better that him to be the ultimate tester of creation by being the controller of the substance.
 
