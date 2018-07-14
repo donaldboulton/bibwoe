@@ -34,6 +34,9 @@ image:
   path: &image /assets/images/pages/devil.jpg
   feature: *image
   thumbnail: /assets/images/pages/devil-320.jpg
+header:
+  image: /assets/images/pages/devil-1200.png
+  teaser: /assets/images/pages/devil-320.png
 github_editme_path: donaldboulton/bibwoe/blob/master/_posts/2009-02-22-post-devil-satan.md
 ---
 
