@@ -26,6 +26,7 @@ anchor: true
 excerpt: "Books of 1 Enoch, Chapters 1 - 60, The Symbols use in Enoch Books 1 and 2"
 support: [adds, cookies, anchor]
 image-slider: /assets/images/pages/book-of-enoch-60-105.jpg
+image-slider-thumb: /assets/images/pages/book-of-enoch-60-105-320.jpg
 image:
   cover: true
   path: &image /assets/images/pages/book-of-enoch-60-105.jpg
@@ -75,8 +76,8 @@ denotes the large fragment of the Greek Version discovered at Akhmîm, and depos
 
 † † corruption in the text. . . . = some words which have been lost.
 
-[![Favorite](//si0.twimg.com/images/dev/cms/intents/icons/favorite.png)](https://twitter.com/intent/favorite?tweet_id=2213601594595082242)
-[![Reply](//si0.twimg.com/images/dev/cms/intents/icons/reply.png)](https://twitter.com/intent/tweet?in_reply_to=2213601594595082242)
-[![Retweet](//si0.twimg.com/images/dev/cms/intents/icons/retweet.png)](http://twitter.com/intent/retweet?tweet_id=2213601594595082242)
+[![Favorite](/assets/images/pages/favorite.png)](https://twitter.com/intent/favorite?tweet_id=2213601594595082242)
+[![Reply](/assets/images/pages/reply.png)](https://twitter.com/intent/tweet?in_reply_to=2213601594595082242)
+[![Retweet](/assets/images/pages/retweet.png)](http://twitter.com/intent/retweet?tweet_id=2213601594595082242)
 
 Enoch Books key's, Books of Enoch 1 and 2 with Preface and symbols tags Book of Enoch, Enoch,[Symbols](http://bibwoe.com/posts/Enoch-Symbols.md)

@@ -26,9 +26,10 @@ anchor: true
 excerpt: "Books of 2 Enoch, Greek Version"
 support: [adds, cookies, anchor]
 image-slider: /assets/images/pages/book-of-enoch-60-105.jpg
+image-slider-thumb: /assets/images/pages/book-of-enoch-60-105-320.jpg
 image:
   cover: true
-  path: &image /assets/images/pages/book-of-2-enoch.jpg
+  path: &image /assets/images/pages/book-of-enoch-60-105.jpg
   feature: *image
   thumbnail: /assets/images/pages/book-of-enoch-60-105-320.jpg
 header:
@@ -1183,8 +1184,8 @@ On to the earth and covered the people and Enoch, and Enoch was taken up on high
 
 key 2 Enoch, Enoch dis Greek Version, Book Of 2 Enoch Chapters 1-68 tags 2 Enoch, Enoch, Greek Enoch date
 
-[![Favorite](//si0.twimg.com/images/dev/cms/intents/icons/favorite.png)](https://twitter.com/intent/favorite?tweet_id=222402473627893761)
-[![Reply](//si0.twimg.com/images/dev/cms/intents/icons/reply.png)](https://twitter.com/intent/tweet?in_reply_to=222402473627893761)
-[![Retweet](//si0.twimg.com/images/dev/cms/intents/icons/retweet.png)](http://twitter.com/intent/retweet?tweet_id=222402473627893761)
+[![Favorite](/assets/images/pages/favorite.png)](https://twitter.com/intent/favorite?tweet_id=222402473627893761)
+[![Reply](/assets/images/pages/reply.png)](https://twitter.com/intent/tweet?in_reply_to=222402473627893761)
+[![Retweet](/assets/images/pages/retweet.png)](http://twitter.com/intent/retweet?tweet_id=222402473627893761)
 
 Enoch Books key's, Books of Enoch 1 and 2 with Preface and symbols tags Book of Enoch, Enoch,[Symbols](http://bibwoe.com/posts/Enoch-Symbols.md)

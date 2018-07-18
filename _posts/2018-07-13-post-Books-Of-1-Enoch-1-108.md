@@ -26,6 +26,7 @@ anchor: true
 excerpt: "Books of 1 Enoch, Chapters 1 - 60, The Origional Bible before Jewish - Christian - Muslum Plagerism"
 support: [adds, cookies, anchor]
 image-slider: /assets/images/pages/book-of-enoch-60-105.jpg
+image-slider-thumb: /assets/images/pages/book-of-enoch-60-105-320.jpg
 image:
   cover: true
   path: &image /assets/images/pages/book-of-enoch-60-105.jpg
@@ -1838,8 +1839,8 @@ Scanned and Edited by
 Joshua Williams  
 Northwest Nazarene College, 1995
 
-[![Favorite](//si0.twimg.com/images/dev/cms/intents/icons/favorite.png)](https://twitter.com/intent/favorite?tweet_id=222398385972457472)
-[![Reply](//si0.twimg.com/images/dev/cms/intents/icons/reply.png)](https://twitter.com/intent/tweet?in_reply_to=222398385972457472)
-[![Retweet](//si0.twimg.com/images/dev/cms/intents/icons/retweet.png)](http://twitter.com/intent/retweet?tweet_id=222398385972457472)
+[![Favorite](/assets/images/pages/favorite.png)](https://twitter.com/intent/favorite?tweet_id=222398385972457472)
+[![Reply](/assets/images/pages/reply.png)](https://twitter.com/intent/tweet?in_reply_to=222398385972457472)
+[![Retweet](/assets/images/pages/retweet.png)](http://twitter.com/intent/retweet?tweet_id=222398385972457472)
 
 Enoch Books key's, Books of Enoch 1 and 2 with Preface and symbols tags Book of Enoch, Enoch, [Symbols](http://bibwoe.com/posts/Enoch-Symbols.md)

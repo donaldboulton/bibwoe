@@ -29,6 +29,7 @@ excerpt: "Many of us got really tired of the Gravatar Service being down or slow
 Alot of people do not even know about gravatar and your get a generic image for the User Avatar."
 support: [adds, cookies, anchor]
 image-slider: /assets/images/pages/devil-1600.jpg
+image-slider-thumb: /assets/images/pages/devil-320.jpg
 image:
   cover: true
   path: &image /assets/images/pages/devil.jpg

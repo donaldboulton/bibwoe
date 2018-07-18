@@ -1,9 +1,9 @@
 ---
 layout: single
 title: "Prayer"
-permalink: /posts/2000-12-25-post-Prayer/
-date: 2000-12 28:11:01 -0600
-last_modified_at: 2018-07-14T10:10:12-04:00
+permalink: /posts/2000-12-12-post-Prayer/
+date: 2000-08-22 16:16:01 -0600
+last_modified_at: 2018-07-10T12:42:38-04:00
 search: true
 author: Donald Boulton
 author_profile: true
@@ -26,16 +26,17 @@ reviews-sidebar: true
 anchor: true
 excerpt: "Prayer Matthew 6"
 support: [adds, cookies, anchor]
-image-slider: /assets/images/pages/book-of-enoch-60-105.jpg
+image-slider: /assets/images/pages/prayer.png
+image-slider: /assets/images/pages/prayer-320.png
 image:
   cover: true
-  path: &image /assets/images/pages/book-of-enoch-60-105.jpg
+  path: &image /assets/images/pages/prayer.png
   feature: *image
-  thumbnail: /assets/images/pages/book-of-enoch-60-105-320.jpg
+  thumbnail: /assets/images/pages/prayer-320.png
 header:
   image: /assets/images/pages/book-of-enoch-60-105.jpg
   teaser: /assets/images/pages/book-of-enoch-60-105-320.jpg
-github_editme_path: donaldboulton/bibwoe/blob/master/_posts/2000-12-25-post-Prayer.md
+github_editme_path: donaldboulton/bibwoe/blob/master/_posts/2000-12-12-post-Prayer.md
 ---
 
 {% include octo-arm.html %}
@@ -90,6 +91,4 @@ But when ye pray, use not vain repetitions, as the heathen do: for they think th
 
 Be not ye therefore like unto them: for your Father knoweth what things ye have need of, before ye ask him.
 
-
-
-[![Favorite](//si0.twimg.com/images/dev/cms/intents/icons/favorite.png)](https://twitter.com/intent/favorite?tweet_id=145116814735712256 "Favorite") [Favorite](https://twitter.com/intent/favorite?tweet_id=145116814735712256 "Favorite")[![Reply](//si0.twimg.com/images/dev/cms/intents/icons/reply.png)](https://twitter.com/intent/tweet?in_reply_to=145116814735712256 "Reply") [Reply](https://twitter.com/intent/tweet?in_reply_to=145116814735712256 "Reply") [![Retweet](//si0.twimg.com/images/dev/cms/intents/icons/retweet.png)](http://twitter.com/intent/retweet?tweet_id=145116814735712256 "Retweet") [Retweet](https://twitter.com/intent/retweet?tweet_id=145116814735712256 "Retweet")
+[![Favorite](/assets/images/pages/favorite.png)](https://twitter.com/intent/favorite?tweet_id=145116814735712256) [Favorite](https://twitter.com/intent/favorite?tweet_id=145116814735712256)[![Reply](/assets/images/pages/reply.png)](https://twitter.com/intent/tweet?in_reply_to=145116814735712256) [Reply](https://twitter.com/intent/tweet?in_reply_to=145116814735712256) [![Retweet](/assets/images/pages/retweet.png)](http://twitter.com/intent/retweet?tweet_id=145116814735712256) [Retweet](https://twitter.com/intent/retweet?tweet_id=145116814735712256)

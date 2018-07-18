@@ -58,7 +58,7 @@ google_site_verification : "rXkolEOR2tQie0oZad3iu_XX0ID673ocd2nc5qKBAFI"
 bing_site_verification   : "361016BEC0F67F6A834D6186E897D9EC"
 yandex_site_verification :
 naver_site_verification  :
-github_editme_path       : donaldboulton/bibwoe/blob/gh-pages/
+github_editme_path       : donaldboulton/bibwoe/blob/master/
 # Social Sharing
 twitter:
   username               : "donboulton"
@@ -66,7 +66,7 @@ facebook:
   username               : "donboulton"
   app_id                 :
   publisher              :
-og_image                 : "favicon.png" # Open Graph/Twitter default site image
+og_image                 : "spinningworld34.gif" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:

@@ -26,6 +26,7 @@ anchor: true
 excerpt: "Preface for Books 1 and 2 Enoch"
 support: [adds, cookies, anchor]
 image-slider: /assets/images/pages/book-of-enoch-60-105.jpg
+image-slider-thumb: /assets/images/pages/book-of-enoch-60-105-320.jpg
 image:
   cover: true
   path: &image /assets/images/pages/book-of-enoch-60-105.jpg
@@ -382,8 +383,8 @@ The special points of interest that should be studied in seeking to realize the 
 [![Enoch Circle](/assets/mages/chrono_trans.gif "Enoch Circle.")]
 
 key Enoch, Bibwoe, Preface dis Enoch Bibwoe Preface Editors' Preface tags Enoch Preface, Enoch date 1/6/1999 links http://bibwoe.com/blogs/enochpreface
-[![Favorite](//si0.twimg.com/images/dev/cms/intents/icons/favorite.png)](https://twitter.com/intent/favorite?tweet_id=2213601594595082242)
-[![Reply](//si0.twimg.com/images/dev/cms/intents/icons/reply.png)](https://twitter.com/intent/tweet?in_reply_to=2213601594595082242)
-[![Retweet](//si0.twimg.com/images/dev/cms/intents/icons/retweet.png)](http://twitter.com/intent/retweet?tweet_id=2213601594595082242)
+[![Favorite](/assets/images/pages/favorite.png)](https://twitter.com/intent/favorite?tweet_id=2213601594595082242)
+[![Reply](/assets/images/pages/reply.png)](https://twitter.com/intent/tweet?in_reply_to=2213601594595082242)
+[![Retweet](/assets/images/pages/retweet.png)](http://twitter.com/intent/retweet?tweet_id=2213601594595082242)
 
 Enoch Books key's, Books of Enoch 1 and 2 with Preface and symbols tags Book of Enoch, Enoch,[Symbols](http://bibwoe.com/posts/Enoch-Symbols.md)
