@@ -1,13 +1,16 @@
-<link type="text/css" rel="stylesheet" href="/assets/css/vendor/light-slider/lightslider.min.css" />
+---
+layout: single
+---
+
 <div>
     <div class="home-title">
       <h3>Recent Posts</h3>
     </div>
-  <div class="light--slider">
-      <ul id="light-slider">
+  <div class="item">
+      <ul id="image-gallery" class="gallery list-unstyled cS-hidden">
         {% for post in site.posts %}
             {% include entry.html %}
-            <li>
+            <li data-thumb="{{ post.image-slider-thumb }}">
                 <a href="{{ site.url}}{{ page.permalink }}">
                   <img src="{{ post.image-slider }}">
                   <p class="light-slider-caption">{{ page.excerpt }}</p>

@@ -25,15 +25,15 @@ reviews-sidebar: true
 anchor: true
 excerpt: "Mankind Owns nothing God owns Everything."
 support: [adds, cookies, anchor]
-image-slider: /assets/images/pages/Ownership-Law.png
+image-slider: /assets/images/pages/ownership-law.jpg
 image:
   cover: true
-  path: &image /assets/images/pages/Ownership-Law.png
+  path: &image /assets/images/pages/ownership-law.jpg
   feature: *image
-  thumbnail: /assets/images/pages/Ownership-Law-320.png
+  thumbnail: /assets/images/pages/ownership-law-320.jpg
 header:
-  image: /assets/images/pages/Ownership-Law-1200.png
-  teaser: /assets/images/pages/Ownership-Law-320.png
+  image: /assets/images/pages/ownership-law-1200.jpg
+  teaser: /assets/images/pages/ownership-law-320.jpg
 github_editme_path: donaldboulton/bibwoe/blob/master/_posts/2000-08-22-post-Ownership.md
 ---
 
