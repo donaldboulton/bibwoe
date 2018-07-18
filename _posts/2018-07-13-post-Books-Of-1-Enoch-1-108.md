@@ -1,7 +1,7 @@
 ﻿---
 layout: single
 title: "1 Enoch 1-60"
-permalink: /posts/2018-07-13-post-Books-Of-1-Enoch-1-60/
+permalink: /posts/2018-07-13-post-Books-Of-1-Enoch-1-108/
 date: 2018-07-13 10:11:01 -0600
 last_modified_at: 2018-07-13T10:10:12-04:00
 search: true
