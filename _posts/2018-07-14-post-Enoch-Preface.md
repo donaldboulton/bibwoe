@@ -50,7 +50,7 @@ The _first parable_ (xxxviii.-xliv.) is a prophecy of coming judgement upon the 
 
 ![Enoch](/assets/images/pages/enochw.png){: .align-left}
 
-![Hebrew Text](/assets/images/pages/hebrew-test.gif){: .align-right}
+![Hebrew Text](/assets/images/pages/hebrew-test.jpg){: .align-right}
 
 The Hebrew of Isaiah 19:19,20
 
