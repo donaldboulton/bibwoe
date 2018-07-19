@@ -46,11 +46,11 @@ github_editme_path: donaldboulton/bibwoe/blob/master/_posts/2018-07-13-post-Enoc
 
 ![Preface Intro](/assets/images/pages/enoch-preface-intro.jpeg)
 
-The _first parable_ (xxxviii.-xliv.) is a prophecy of coming judgement upon the wicked, and especially the kings and mighty ones on the earth. On the</span>This is enochs books in Greek and Ethopian, The Egyptian versions of Enoch are his design in stone as Ceops, "The Great Pyramid at Giza"! An interesting occurrence of gematria also helps pinpoint the Great Pyramid as God's special revelation. Here is the Hebrew of the Pyramid text, Isaiah 19:19, 20.
+The _first parable_ (xxxviii.-xliv.) is a prophecy of coming judgement upon the wicked, and especially the kings and mighty ones on the earth. This is enochs books in Greek and Ethopian, The Egyptian versions of Enoch are his design in stone as Ceops, "The Great Pyramid at Giza"! An interesting occurrence of gematria also helps pinpoint the Great Pyramid as God's special revelation. Here is the Hebrew of the Pyramid text, Isaiah 19:19, 20.
 
-![Enoch](/assets/images/pages/enochw.png)
+![Enoch](/assets/images/pages/enochw.png){: .aligh-left}
 
-![Hebrew Text](/assets/images/pages/hebrew.gif)
+![Hebrew Text](/assets/images/pages/hebrew.gif){: .aligh-right}
 
 The Hebrew of Isaiah 19:19,20
 
@@ -79,7 +79,9 @@ As the Book of Enoch is, in some respects, the most notable extant apocalyptic w
 
 ### p. viii
 
-that their hope was not wholly unfounded." [1](http://www.sacred-texts.com/bib/boe/boe002.htm#fn_0)
+that their hope was not wholly unfounded."
+
+[1](http://www.sacred-texts.com/bib/boe/boe002.htm#fn_0)
 
 Hope is, indeed, the main underlying motive-power which prompted the writers of the Apocalypses. And this hope is the more intensive and ardent in that it shines forth from a background which is dark with despair; for the Apocalyptists despaired of the world in which they lived, a world in which the godly were of no account, while the wicked seemed too often triumphant and prosperous. With evil everywhere around, the Apocalyptists saw no hope for the world as it was; for such a world there was no remedy, only destruction; if the good were ever to triumph it must be in a new world. Despairing, therefore, of the world around them, the Apocalyptists centred their hope upon a world to come, where the righteous would come to their own and evil would find no place. It is this thought which underlies the opening words of the Book of Enoch: "The words of the blessing of Enoch, wherewith he blessed the elect and righteous, who will be living in the day of tribulation, when all the wicked and godless are to be removed." Nowhere in this book is the essence of this hope more beautifully expressed than in a short metrical piece in the first chapter:
 
@@ -147,7 +149,7 @@ As a whole, the Apocalyptic Literature presents an universalistic attitude very 
 
 ### p. xiii
 
-excluded are not restricted to the Gentiles, but the Jews equally with them shall suffer torment hereafter according to their deserts. 
+excluded are not restricted to the Gentiles, but the Jews equally with them shall suffer torment hereafter according to their deserts.
 
 [1](http://www.sacred-texts.com/bib/boe/boe002.htm#fn_2)
 
@@ -212,17 +214,61 @@ Recognizes its Jewish character. Burkitt regards the writer as "almost contempor
 
 ### AUTHORSHIP
 
-As the various parts of the book [1](http://www.sacred-texts.com/bib/boe/boe002.htm#fn_3) clearly belong to different dates, diversity of authorship is what one is naturally led to expect; and of this there can, indeed, be no shadow of doubt. The author of the earliest portions was a Jew who lived, as Burkitt has shown, in northern Palestine, in the land of Dan, south-west of the Hermon range, near the headwaters of the Jordan. This is important, as it tends to show that the book, or books, is really Palestinian, and one which, therefore, circulated among Jews in Palestine. "If, moreover, the author came from the north, that helps to explain the influence the book had upon the Religion that was cradled in Galilee." [2](http://www.sacred-texts.com/bib/boe/boe002.htm#fn_4) Of the authors of the other three books of which "Enoch" is made up (viz. "The Dream-Visions," "The Book of the Heavenly Luminaries," and "The Similitudes") we know nothing save what can be gathered from their writings as to their religious standpoint.
+As the various parts of the book
+
+[1](http://www.sacred-texts.com/bib/boe/boe002.htm#fn_3)
+
+clearly belong to different dates, diversity of authorship is what one is naturally led to expect; and of this there can, indeed, be no shadow of doubt. The author of the earliest portions was a Jew who lived, as Burkitt has shown, in northern Palestine, in the land of Dan, south-west of the Hermon range, near the headwaters of the Jordan. This is important, as it tends to show that the book, or books, is really Palestinian, and one which, therefore, circulated among Jews in Palestine. "If, moreover, the author came from the north, that helps to explain the influence the book had upon the Religion that was cradled in Galilee."
+
+[2](http://www.sacred-texts.com/bib/boe/boe002.htm#fn_4)
+
+Of the authors of the other three books of which "Enoch" is made up (viz. "The Dream-Visions", "The Book of the Heavenly Luminaries," and "The Similitudes") we know nothing save what can be gathered from their writings as to their religious standpoint.
 
 Charles holds that though there is not unity of authorship there is, none the less, uniformity; for,
 
 ### p. xvi
 
-According to him, all the books were written by _Chassidim_, [1](http://www.sacred-texts.com/bib/boe/boe002.htm#fn_5) or by their successors, the Pharisees. This contention has been strongly assailed and much weakened by Leszynsky in a recent work on the Sadducees. [2](http://www.sacred-texts.com/bib/boe/boe002.htm#fn_6) While frankly recognizing the composite character of the book, Leszynsky holds that the original portions of it 3](http://www.sacred-texts.com/bib/boe/boe002.htm#fn_7) emanate from Sadducæan circles; and that the special object of the book originally was the bringing about of a reform of the calendar. He points to the ascription of the book to Enoch as supporting his contention, for Enoch lived 365 years, [4](http://www.sacred-texts.com/bib/boe/boe002.htm#fn_8) _i.e._ is years correspond to the number of days in the solar year; the basis of reckoning time was one of the fundamental points of difference between the Pharisees and Sadducees, for whereas the former reckoned time by the lunar year (360 days), the latter did so by the solar year. Here a significant remark of Burkitt's is worth recalling; in writing about the false titles given to all the Apocalyptic books, he says: "There is another aspect of pseudonymous authorship to which I venture to think sufficient attention has not been given. It is this, that the names were not chosen out of mere caprice; they indicated to a certain extent what subjects would be treated and the point of view of the writer." [5](http://www.sacred-texts.com/bib/boe/boe002.htm#fn_9) Further, the fact that "Enoch walked with God; and he was not; for God took him," [6](http://www.sacred-texts.com/bib/boe/boe002.htm#fn_10) _i.e._ that he ascended into the heavens, is also significant; for he would thereby be just the one to know all about the heavenly luminaries; he was just the most appropriate author of a book which was to deal with astronomical questions. "The Sadducæan character of the original work," says Leszynsky, "is seen most clearly in the discussion regarding the calendar; chapters
+According to him, all the books were written by _Chassidim_,
+
+[1](http://www.sacred-texts.com/bib/boe/boe002.htm#fn_5)
+
+or by their successors, the Pharisees. This contention has been strongly assailed and much weakened by Leszynsky in a recent work on the Sadducees.
+
+[2](http://www.sacred-texts.com/bib/boe/boe002.htm#fn_6)
+
+While frankly recognizing the composite character of the book, Leszynsky holds that the original portions of it
+
+[3](http://www.sacred-texts.com/bib/boe/boe002.htm#fn_7)
+
+emanate from Sadducæan circles; and that the special object of the book originally was the bringing about of a reform of the calendar. He points to the ascription of the book to Enoch as supporting his contention, for Enoch lived 365 years,
+
+[4](http://www.sacred-texts.com/bib/boe/boe002.htm#fn_8)
+
+_i.e._ is years correspond to the number of days in the solar year; the basis of reckoning time was one of the fundamental points of difference between the Pharisees and Sadducees, for whereas the former reckoned time by the lunar year (360 days), the latter did so by the solar year. Here a significant remark of Burkitt's is worth recalling; in writing about the false titles given to all the Apocalyptic books, he says: "There is another aspect of pseudonymous authorship to which I venture to think sufficient attention has not been given. It is this, that the names were not chosen out of mere caprice; they indicated to a certain extent what subjects would be treated and the point of view of the writer."
+
+[5](http://www.sacred-texts.com/bib/boe/boe002.htm#fn_9)
+
+Further, the fact that "Enoch walked with God; and he was not; for God took him,"
+
+[6](http://www.sacred-texts.com/bib/boe/boe002.htm#fn_10)
+
+_i.e._ that he ascended into the heavens, is also significant; for he would thereby be just the one to know all about the heavenly luminaries; he was just the most appropriate author of a book which was to deal with astronomical questions. "The Sadducæan character of the original work," says Leszynsky, "is seen most clearly in the discussion regarding the calendar; chapters
 
 ### p. xvii lxxii.-lxxxii
 
-Are rightly called the Book of Astronomy: [1](http://www.sacred-texts.com/bib/boe/boe002.htm#fn_11) 'the book of the courses of the luminaries of the heaven, the relations of each, according to their classes, their dominion and their seasons, according to their names and places of origin, and according to their months . . . with regard to all the years of the world and unto eternity, till the new creation is accomplished which endureth till all eternity' (lxxii. 1). That sounds almost as though the author of the Book of jubilees had written it. That it is not a merely scientific interest which impels the writer to give expression to his astronomical theories may be seen from the words at the conclusion of the section: 'Blessed are all the righteous, blessed are all those who walk in the way of righteousness, and sin not as the sinners in the reckoning of all their days, in which the sun traverseth the heaven, entering into and departing from the portals for thirty days . . .' (lxxxii. 4-7). Herein one can discern quite clearly the tendency of the writer. He desires the adoption of the solar year, while his contemporaries wrongly followed a different reckoning, and therefore celebrated the feasts at the wrong time. The 'sinners who sin in the reckoning of the year' are the Pharisees; and the righteous ones who are blessed, the _Zaddîkim_, [2](http://www.sacred-texts.com/bib/boe/boe002.htm#fn_12) who walk upon the paths of righteousness (_Zedek_) as the name is made to imply, are the Sadducees." [3](http://www.sacred-texts.com/bib/boe/boe002.htm#fn_13) The point may appear small to us, but we may compare with it the Quartodeciman controversy in the Church during the second century. It is, at any rate, a strong point in favour of the Sadducæan authorship of "The Book of the Heavenly Luminaries."
+Are rightly called the Book of Astronomy:
+
+[1](http://www.sacred-texts.com/bib/boe/boe002.htm#fn_11)
+
+'the book of the courses of the luminaries of the heaven, the relations of each, according to their classes, their dominion and their seasons, according to their names and places of origin, and according to their months . . . with regard to all the years of the world and unto eternity, till the new creation is accomplished which endureth till all eternity' (lxxii. 1). That sounds almost as though the author of the Book of jubilees had written it. That it is not a merely scientific interest which impels the writer to give expression to his astronomical theories may be seen from the words at the conclusion of the section: 'Blessed are all the righteous, blessed are all those who walk in the way of righteousness, and sin not as the sinners in the reckoning of all their days, in which the sun traverseth the heaven, entering into and departing from the portals for thirty days . . .' (lxxxii. 4-7). Herein one can discern quite clearly the tendency of the writer. He desires the adoption of the solar year, while his contemporaries wrongly followed a different reckoning, and therefore celebrated the feasts at the wrong time. The 'sinners who sin in the reckoning of the year' are the Pharisees; and the righteous ones who are blessed, the _Zaddîkim_,
+
+[2](http://www.sacred-texts.com/bib/boe/boe002.htm#fn_12)
+
+who walk upon the paths of righteousness (_Zedek_) as the name is made to imply, are the Sadducees."
+
+[3](http://www.sacred-texts.com/bib/boe/boe002.htm#fn_13)
+
+The point may appear small to us, but we may compare with it the Quartodeciman controversy in the Church during the second century. It is, at any rate, a strong point in favour of the Sadducæan authorship of "The Book of the Heavenly Luminaries."
 
 The pre-Maccabæan portions (assuming that some portions of it are pre-Maccabæan) of the book of Enoch must certainly be ascribed to the _Chassidim_;
 
@@ -232,15 +278,25 @@ But it is not on that account necessary to ascribe _all_ the later portions to t
 
 ### LANGUAGE
 
-The Book of Enoch exists only in the Ethiopic Version; this was translated from the Greek Version, of which only a few portions are extant. [1](http://www.sacred-texts.com/bib/boe/boe002.htm#fn_14) The Latin Version, which was also made from the Greek, is not extant, with the exception of i. 9, and cvi. 1-18; the fragment containing these two passages was discovered by the Rev. Al. R. James, of King's College, Cambridge, in the British Museum. The book was originally written either in Hebrew or Aramaic; Charles thinks that chapters vi.-xxxvi., lxxxiii.-xc. were Aramaic, the rest Hebrew. It is, however, very difficult to say for certain which of these two languages was really the original, because,
+The Book of Enoch exists only in the Ethiopic Version; this was translated from the Greek Version, of which only a few portions are extant.
+
+[1](http://www.sacred-texts.com/bib/boe/boe002.htm#fn_14)
+
+The Latin Version, which was also made from the Greek, is not extant, with the exception of i. 9, and cvi. 1-18; the fragment containing these two passages was discovered by the Rev. Al. R. James, of King's College, Cambridge, in the British Museum. The book was originally written either in Hebrew or Aramaic; Charles thinks that chapters vi.-xxxvi., lxxxiii.-xc. were Aramaic, the rest Hebrew. It is, however, very difficult to say for certain which of these two languages was really the original, because,
 
 ### p. xix
 
-as Burkitt says, "most of the most convincing proofs that the Greek text of Enoch is a translation from a Semitic language fit equally well with a Hebrew or an Aramaic original"; his opinion is that Aramaic was the original language, "but that a few passages do seem to suggest a Hebrew origin, yet not decisively." [1](http://www.sacred-texts.com/bib/boe/boe002.htm#fn_15)
+as Burkitt says, "most of the most convincing proofs that the Greek text of Enoch is a translation from a Semitic language fit equally well with a Hebrew or an Aramaic original"; his opinion is that Aramaic was the original language, "but that a few passages do seem to suggest a Hebrew origin, yet not decisively."
+
+[1](http://www.sacred-texts.com/bib/boe/boe002.htm#fn_15)
 
 ### GENERAL CONTENTS
 
-The reader who comes to peruse the Book of Enoch for the first time will find much that appears to him strange and unattractive; he must not, however, be repelled by this; for in due time he will come to other arts of the book which he will soon see to be of real value from many points of view. But even regarding the less attractive parts, he will find that when these are carefully studied they contain more that is of interest than appears upon the surface. Unfortunately, the opening portion (i.-xxxvi.), which is naturally read first, contains a good deal of the least important parts of the whole book; some passages are even repellent. It is well to remember the point, already referred to, that there are at least four quite independent books included in the "Book of Enoch," exclusive of certain "Noah" fragments and other pieces (see below); the student is, therefore, advised to treat these as separate works, and to read them as such. There is no reason to begin with the book which happens to come first, especially as the first thirty-six chapters do not all belong together. <a name="fr_16"></a>[<span class="h5 green">2</span>](http://www.sacred-texts.com/bib/boe/boe002.htm#fn_16) But, in any case, it will be found most useful to have some general idea of the contents of each of the different books before beginning to read them. For this purpose a brief _résumé_ of each is given here.
+The reader who comes to peruse the Book of Enoch for the first time will find much that appears to him strange and unattractive; he must not, however, be repelled by this; for in due time he will come to other arts of the book which he will soon see to be of real value from many points of view. But even regarding the less attractive parts, he will find that when these are carefully studied they contain more that is of interest than appears upon the surface. Unfortunately, the opening portion (i.-xxxvi.), which is naturally read first, contains a good deal of the least important parts of the whole book; some passages are even repellent. It is well to remember the point, already referred to, that there are at least four quite independent books included in the "Book of Enoch," exclusive of certain "Noah" fragments and other pieces (see below); the student is, therefore, advised to treat these as separate works, and to read them as such. There is no reason to begin with the book which happens to come first, especially as the first thirty-six chapters do not all belong together.
+
+[Boo2_16](http://www.sacred-texts.com/bib/boe/boe002.htm#fn_16)
+
+But, in any case, it will be found most useful to have some general idea of the contents of each of the different books before beginning to read them. For this purpose a brief _résumé_ of each is given here.
 
 ### p. xx i. _The Book of Enoch_ (chapters xii.-xxxvi.)
 
@@ -280,13 +336,23 @@ A large Noah fragment comes in the middle of the Parable (see p. xxvi below). Th
 
 ### iii. The Book of the Courses of the Heavenly Luminaries
 
- (chapters lxxii.-lxxxii.). In lxxiv. 12 it says: "And the sun and the stars bring in all the years exactly, so that they do not advance or delay their position by a single day unto eternity; but complete the years with perfect justice in 364 days." [BOE 002 fn_17](http://www.sacred-texts.com/bib/boe/boe002.htm#fn_17) This gives the key-note of this book, viz. that time is to be reckoned by the sun, not by the moon (see further on this the section on Authorship, above). Until we come to chapter lxxx. this book is uninteresting in the extreme; it purports to tell in detail of the laws by which the sun, moon, stars and the winds are governed; they are described by Uriel, "the holy angel," to the Apocalyptist. The four quarters of the world, the seven mountains and the seven rivers are also dealt with. "The author has no other interest save a scientific one coloured by Jewish conceptions and beliefs." [BOE 002]](http://www.sacred-texts.com/bib/boe/boe002.htm#fn_18) It is, however, different when we come to chapter lxxx. 2-8; the whole tone alters in these verses, in which it is said that owing to the sin of men the moon and the sun will mislead them. An ethical thought is thus brought in
+ (chapters lxxii.-lxxxii.). In lxxiv. 12 it says: "And the sun and the stars bring in all the years exactly, so that they do not advance or delay their position by a single day unto eternity; but complete the years with perfect justice in 364 days." [BOE 002 fn_17](http://www.sacred-texts.com/bib/boe/boe002.htm#fn_17) This gives the key-note of this book, viz. that time is to be reckoned by the sun, not by the moon (see further on this the section on Authorship, above). Until we come to chapter lxxx. this book is uninteresting in the extreme; it purports to tell in detail of the laws by which the sun, moon, stars and the winds are governed; they are described by Uriel, "the holy angel," to the Apocalyptist. The four quarters of the world, the seven mountains and the seven rivers are also dealt with. "The author has no other interest save a scientific one coloured by Jewish conceptions and beliefs."
+
+[BOE 002]](http://www.sacred-texts.com/bib/boe/boe002.htm#fn_18)
+
+It is, however, different when we come to chapter lxxx. 2-8; the whole tone alters in these verses, in which it is said that owing to the sin of men the moon and the sun will mislead them. An ethical thought is thus brought in
 
 ### p. xxiv which is wholly lacking
 
 In the previous chapters of this book; this is also true of chapter lxxxi.; it is probable that neither of these chapters stood here originally.
 
-Regarding the point of the 364 days to the year which the writer of this book makes, Charles says that "he did this only through sheer incapacity for appreciating an thing better; for he must have been acquainted with the solar year of 365Â¼ days. His acquaintance with the Greek cycles shows this. . . . The author's reckoning of the year at 364 days may be partly due to his opposition to heathen systems, and partly to the fact that 364 is divisible by seven, and amounts to fifty-two weeks exactly." [BOE 22](http://www.sacred-texts.com/bib/boe/boe002.htm#fn_19) In any case, he is opposed to the lunar year, the Pharisaic way of reckoning time; and this is an important point in favour of Sadducæan authorship. It will be noted that this book was written in post-Maccabæan times; it was after the Maccabæan struggle that the Sadducees and Pharisees appeared as parties definitely opposed to one another. <a name="fr_20"></a>[<span class="h5 green">2</span>](http://www.sacred-texts.com/bib/boe/boe002.htm#fn_20)
+Regarding the point of the 364 days to the year which the writer of this book makes, Charles says that "he did this only through sheer incapacity for appreciating an thing better; for he must have been acquainted with the solar year of 365Â¼ days. His acquaintance with the Greek cycles shows this. . . . The author's reckoning of the year at 364 days may be partly due to his opposition to heathen systems, and partly to the fact that 364 is divisible by seven, and amounts to fifty-two weeks exactly."
+
+[BOE 22](http://www.sacred-texts.com/bib/boe/boe002.htm#fn_19)
+
+In any case, he is opposed to the lunar year, the Pharisaic way of reckoning time; and this is an important point in favour of Sadducæan authorship. It will be noted that this book was written in post-Maccabæan times; it was after the Maccabæan struggle that the Sadducees and Pharisees appeared as parties definitely opposed to one another.
+
+{2](http://www.sacred-texts.com/bib/boe/boe002.htm#fn_20)
 
 ### iv. The Dream-Visions(chapters lxxxiii.-xc.)
 
@@ -380,11 +446,11 @@ The special points of interest that should be studied in seeking to realize the 
 
 [xxvi:1](http://www.sacred-texts.com/bib/boe/boe002.htm#fr_21) _Op. cit._, p. 218.
 
-[![Enoch Circle](/assets/mages/chrono_trans.gif "Enoch Circle.")]
+![Enoch Circle](/assets/mages/chrono_trans.gif "Enoch Circle."){: .align-center}
 
-key Enoch, Bibwoe, Preface dis Enoch Bibwoe Preface Editors' Preface tags Enoch Preface, Enoch date 1/6/1999 links http://bibwoe.com/blogs/enochpreface
-[![Favorite](/assets/images/pages/favorite.png)](https://twitter.com/intent/favorite?tweet_id=2213601594595082242)
-[![Reply](/assets/images/pages/reply.png)](https://twitter.com/intent/tweet?in_reply_to=2213601594595082242)
-[![Retweet](/assets/images/pages/retweet.png)](http://twitter.com/intent/retweet?tweet_id=2213601594595082242)
+
+[![Favorite](/assets/images/pages/like-action.png)](https://twitter.com/intent/favorite?tweet_id=2213601594595082242)
+[![Reply](/assets/images/pages/reply-action_0.png)](https://twitter.com/intent/tweet?in_reply_to=2213601594595082242)
+[![Retweet](/assets/images/pages/retweet-action.png)](http://twitter.com/intent/retweet?tweet_id=2213601594595082242)
 
 Enoch Books key's, Books of Enoch 1 and 2 with Preface and symbols tags Book of Enoch, Enoch,[Symbols](http://bibwoe.com/posts/Enoch-Symbols.md)

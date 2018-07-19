@@ -1839,8 +1839,8 @@ Scanned and Edited by
 Joshua Williams  
 Northwest Nazarene College, 1995
 
-[![Favorite](/assets/images/pages/favorite.png)](https://twitter.com/intent/favorite?tweet_id=222398385972457472)
-[![Reply](/assets/images/pages/reply.png)](https://twitter.com/intent/tweet?in_reply_to=222398385972457472)
-[![Retweet](/assets/images/pages/retweet.png)](http://twitter.com/intent/retweet?tweet_id=222398385972457472)
+[![Favorite](/assets/images/pages/like-action.png)](https://twitter.com/intent/favorite?tweet_id=222398385972457472)
+[![Reply](/assets/images/pages/reply-action_0.png)](https://twitter.com/intent/tweet?in_reply_to=222398385972457472)
+[![Retweet](/assets/images/pages/retweet-action.png)](http://twitter.com/intent/retweet?tweet_id=222398385972457472)
 
 Enoch Books key's, Books of Enoch 1 and 2 with Preface and symbols tags Book of Enoch, Enoch, [Symbols](http://bibwoe.com/posts/Enoch-Symbols.md)

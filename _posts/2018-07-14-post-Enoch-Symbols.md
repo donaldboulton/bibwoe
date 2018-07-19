@@ -76,8 +76,8 @@ denotes the large fragment of the Greek Version discovered at Akhmîm, and depos
 
 † † corruption in the text. . . . = some words which have been lost.
 
-[![Favorite](/assets/images/pages/favorite.png)](https://twitter.com/intent/favorite?tweet_id=2213601594595082242)
-[![Reply](/assets/images/pages/reply.png)](https://twitter.com/intent/tweet?in_reply_to=2213601594595082242)
-[![Retweet](/assets/images/pages/retweet.png)](http://twitter.com/intent/retweet?tweet_id=2213601594595082242)
+[![Favorite](/assets/images/pages/like-action.png)](https://twitter.com/intent/favorite?tweet_id=2213601594595082242)
+[![Reply](/assets/images/pages/reply-action_0.png)](https://twitter.com/intent/tweet?in_reply_to=2213601594595082242)
+[![Retweet](/assets/images/pages/retweet-action.png)](http://twitter.com/intent/retweet?tweet_id=2213601594595082242)
 
 Enoch Books key's, Books of Enoch 1 and 2 with Preface and symbols tags Book of Enoch, Enoch,[Symbols](http://bibwoe.com/posts/Enoch-Symbols.md)

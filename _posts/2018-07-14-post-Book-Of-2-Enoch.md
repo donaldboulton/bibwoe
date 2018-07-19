@@ -586,7 +586,7 @@ Its existence of seven thousand years, and the eighth thousand is the end, neith
 
 ## Chapter 34
 
-### God convicts the idolaters and sodomitic fornicators 
+### God convicts the idolaters and sodomitic fornicators
 
 And therefore brings down a deluge upon them
 
@@ -1184,8 +1184,8 @@ On to the earth and covered the people and Enoch, and Enoch was taken up on high
 
 key 2 Enoch, Enoch dis Greek Version, Book Of 2 Enoch Chapters 1-68 tags 2 Enoch, Enoch, Greek Enoch date
 
-[![Favorite](/assets/images/pages/favorite.png)](https://twitter.com/intent/favorite?tweet_id=222402473627893761)
-[![Reply](/assets/images/pages/reply.png)](https://twitter.com/intent/tweet?in_reply_to=222402473627893761)
-[![Retweet](/assets/images/pages/retweet.png)](http://twitter.com/intent/retweet?tweet_id=222402473627893761)
+[![Favorite](/assets/images/pages/like-action.png)](https://twitter.com/intent/favorite?tweet_id=222402473627893761)
+[![Reply](/assets/images/pages/reply-action_0.png)](https://twitter.com/intent/tweet?in_reply_to=222402473627893761)
+[![Retweet](/assets/images/pages/retweet-action.png)](http://twitter.com/intent/retweet?tweet_id=222402473627893761)
 
 Enoch Books key's, Books of Enoch 1 and 2 with Preface and symbols tags Book of Enoch, Enoch,[Symbols](http://bibwoe.com/posts/Enoch-Symbols.md)
