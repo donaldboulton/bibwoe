@@ -446,8 +446,7 @@ The special points of interest that should be studied in seeking to realize the 
 
 [xxvi:1](http://www.sacred-texts.com/bib/boe/boe002.htm#fr_21) _Op. cit._, p. 218.
 
-![Enoch Circle](/assets/mages/chrono_trans.gif "Enoch Circle."){: .align-center}
-
+![Enoch Circle](/assets/mages/chrono_trans.gif){: .align-center}
 
 [![Favorite](/assets/images/pages/like-action.png)](https://twitter.com/intent/favorite?tweet_id=2213601594595082242)
 [![Reply](/assets/images/pages/reply-action_0.png)](https://twitter.com/intent/tweet?in_reply_to=2213601594595082242)
