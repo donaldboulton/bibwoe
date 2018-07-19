@@ -81,7 +81,7 @@ One person ("of many"),  who measured and studied the Great Pyramid say it is a
 
 ## EDITORS PREFACE
 
-THE object of this series of translations is primarily to furnish students with short, cheap, and handy text-books, which, it is hoped, will facilitate the study of the particular texts in class under competent teachers. But it is also hoped that the volumes will be acceptable to the general reader who may be interested in the subjects with which they deal. It has been thought advisable, as a general rule, to restrict the notes and comments to a small compass; more especially as, in most cases, excellent works of a more elaborate character are available. Indeed, it is much to be desired that these translations may have the effect of inducing readers to study the larger works.
+THE object of this series of translations is primarily to furnish students with short, cheap,and handy text-books, which, it is hoped, will facilitate the study of the particular texts in class under competent teachers. But it is also hoped that the volumes will be acceptable to the general reader who may be interested in the subjects with which they deal. It has been thought advisable, as a general rule, to restrict the notes and comments to a small compass; more especially as, in most cases, excellent works of a more elaborate character are available. Indeed, it is much to be desired that these translations may have the effect of inducing readers to study the larger works.
 
 Our principal aim, in a word, is to make some difficult texts, important for the study of Christian origins, more generally accessible in faithful and scholarly translations.
 
