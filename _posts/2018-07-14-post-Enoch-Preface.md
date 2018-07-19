@@ -44,7 +44,7 @@ github_editme_path: donaldboulton/bibwoe/blob/master/_posts/2018-07-13-post-Enoc
 
 # Enoch Bibwoe Preface
 
-![Preface Intro](/assets/images/pages/enoch-preface-intro.jpeg){: .align-center}
+![Preface Intro](/assets/images/pages/enoch-preface-intro.jpg){: .align-center}
 
 The book of Enoch consists of multiple parts that were put together as one book by a later editor.
 
