@@ -57,7 +57,7 @@ The Hebrew of Isaiah 19:19,20
 Gematria is the science of finding meaning in the numerical value of words. In the Hebrew language each individual letter has a numerical value. Thus every word has the numerical value of the sum of the value of its letters. If one adds up the numerical value of all the Hebrew characters in the Great Pyramid text the value is 5449\. This is the height in inches of the Great Pyramid!  
 One person ("of many"),  who measured and studied the Great Pyramid say it is a structural bible.
 
-![Enoch Circle](/assets/mages/chrono_trans.gif "Enoch Circle."){: .align-center}
+![Enoch Circle](/assets/mages/chrono_trans.gif){: .align-center}
 
 ## EDITORS PREFACE
 
