@@ -28,7 +28,7 @@ anchor: true
 excerpt: "Many of us got really tired of the Gravatar Service being down or slow and having multiple server calls to download the Gravatar. 
 Alot of people do not even know about gravatar and your get a generic image for the User Avatar."
 support: [adds, cookies, anchor]
-image-slider: /assets/images/pages/devil-1600.jpg
+image-slider: /assets/images/pages/devil.jpg
 image-slider-thumb: /assets/images/pages/devil-320.jpg
 image:
   cover: true
@@ -36,8 +36,8 @@ image:
   feature: *image
   thumbnail: /assets/images/pages/devil-320.jpg
 header:
-  image: /assets/images/pages/devil-1200.png
-  teaser: /assets/images/pages/devil-320.png
+  image: /assets/images/pages/devil.jpg
+  teaser: /assets/images/pages/devil-320.jpg
 github_editme_path: donaldboulton/bibwoe/blob/master/_posts/2009-02-22-post-devil-satan.md
 ---
 
