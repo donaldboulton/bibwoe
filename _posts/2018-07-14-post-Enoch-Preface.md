@@ -44,13 +44,33 @@ github_editme_path: donaldboulton/bibwoe/blob/master/_posts/2018-07-13-post-Enoc
 
 # Enoch Bibwoe Preface
 
-![Preface Intro](/assets/images/pages/enoch-preface-intro.jpeg)
+![Preface Intro](/assets/images/pages/enoch-preface-intro.jpeg){: .align-center}
+
+The book of Enoch consists of multiple parts that were put together as one book by a later editor.
+
+The book consists of the following parts:
+
+Book of Watchers – Chapters 1-36 including fragments of the Book of Noah in chapters 6-11
+
+Book of the Parables – Chapters 37-71 is also known as the Book of Similitudes
+
+Book of the Luminaries – Chapters 72-82
+
+The Dream Visions – Chapters 83-90
+
+Critical Structure – Chapters 91-104
+
+God and Messiah to dwell in Man – Chapter 105
+
+Latin fragment of the book of Noah – Chapters 106-107
+
+Appendix added l
 
 The _first parable_ (xxxviii.-xliv.) is a prophecy of coming judgement upon the wicked, and especially the kings and mighty ones on the earth. This is enochs books in Greek and Ethopian, The Egyptian versions of Enoch are his design in stone as Ceops, "The Great Pyramid at Giza"! An interesting occurrence of gematria also helps pinpoint the Great Pyramid as God's special revelation. Here is the Hebrew of the Pyramid text, Isaiah 19:19, 20.
 
 ![Enoch](/assets/images/pages/enochw.png){: .align-left}
 
-![Hebrew Text](/assets/images/pages/hebrew-test.jpg){: .align-right}
+![Hebrew Text](/assets/images/pages/hebrew_test.jpg){: .align-right}
 
 The Hebrew of Isaiah 19:19,20
 
@@ -338,7 +358,7 @@ A large Noah fragment comes in the middle of the Parable (see p. xxvi below). Th
 
  (chapters lxxii.-lxxxii.). In lxxiv. 12 it says: "And the sun and the stars bring in all the years exactly, so that they do not advance or delay their position by a single day unto eternity; but complete the years with perfect justice in 364 days." [BOE 002 fn_17](http://www.sacred-texts.com/bib/boe/boe002.htm#fn_17) This gives the key-note of this book, viz. that time is to be reckoned by the sun, not by the moon (see further on this the section on Authorship, above). Until we come to chapter lxxx. this book is uninteresting in the extreme; it purports to tell in detail of the laws by which the sun, moon, stars and the winds are governed; they are described by Uriel, "the holy angel," to the Apocalyptist. The four quarters of the world, the seven mountains and the seven rivers are also dealt with. "The author has no other interest save a scientific one coloured by Jewish conceptions and beliefs."
 
-[BOE 002]](http://www.sacred-texts.com/bib/boe/boe002.htm#fn_18)
+[BOE 002](http://www.sacred-texts.com/bib/boe/boe002.htm#fn_18)
 
 It is, however, different when we come to chapter lxxx. 2-8; the whole tone alters in these verses, in which it is said that owing to the sin of men the moon and the sun will mislead them. An ethical thought is thus brought in
 
@@ -352,7 +372,7 @@ Regarding the point of the 364 days to the year which the writer of this book ma
 
 In any case, he is opposed to the lunar year, the Pharisaic way of reckoning time; and this is an important point in favour of Sadducæan authorship. It will be noted that this book was written in post-Maccabæan times; it was after the Maccabæan struggle that the Sadducees and Pharisees appeared as parties definitely opposed to one another.
 
-{2](http://www.sacred-texts.com/bib/boe/boe002.htm#fn_20)
+[2](http://www.sacred-texts.com/bib/boe/boe002.htm#fn_20)
 
 ### iv. The Dream-Visions(chapters lxxxiii.-xc.)
 
