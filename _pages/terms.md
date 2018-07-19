@@ -155,7 +155,7 @@ It has been found as a Session cookie on 0 websites.
 
 Note: Many technologies or services use cookies that will be common to different websites and can be identified by name alone. However this is not always true. More specific information can sometimes be found with a website based search.
 
-### [Privacy Google](http://www.google.com/analytics/learn/privacy.html){:id="open-website" rel="nofollow"}
+## [Privacy Google](http://www.google.com/analytics/learn/privacy.html){:id="open-website" rel="nofollow"}
 
 Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors.
 
