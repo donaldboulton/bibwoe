@@ -42,7 +42,7 @@ github_editme_path: donaldboulton/bibwoe/blob/master/_posts/2000-08-22-post-Owne
 
 {% include page-intro.html %}
 
-# Ownership
+# Ownership with full responsibility
 
 | ![Ownership](/assets/images/pages/ownership.png){:class="text-left"}
 
