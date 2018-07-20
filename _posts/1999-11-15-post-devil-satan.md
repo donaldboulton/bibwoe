@@ -16,10 +16,11 @@ category:
 
 toc: true
 toc_label: "Page Contents"
-
+web-intents: true
+tweet_id: 145116818707714048
 read_time: true
 comments: true
-share: true
+share: false
 related: true
 adds: true
 reviews: false

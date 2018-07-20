@@ -17,7 +17,9 @@ toc_label: "Enoch Preface"
 
 read_time: true
 comments: true
-share: true
+share: false
+web-intents: true
+tweet_id: 145116818707714048
 related: true
 adds: true
 reviews: false
@@ -468,8 +470,4 @@ The special points of interest that should be studied in seeking to realize the 
 
 ![Enoch Circle](/assets/images/pages/chrono_trans.png){: .align-center}
 
-Enoch Books key's, Books of Enoch 1 and 2 with Preface and symbols tags Book of Enoch, Enoch,[Symbols](http://bibwoe.com/posts/Enoch-Symbols.md)
-
-[![Favorite](/assets/images/pages/like-action.png)](https://twitter.com/intent/favorite?tweet_id=2213601594595082242)
-[![Reply](/assets/images/pages/reply-action_0.png)](https://twitter.com/intent/tweet?in_reply_to=2213601594595082242)
-[![Retweet](/assets/images/pages/retweet-action.png)](http://twitter.com/intent/retweet?tweet_id=2213601594595082242)
+Enoch Books key's, Books of Enoch 1 and 2 with Preface and symbols tags Book of Enoch, Enoch,[Enoch Symbols](http://bibwoe.com/posts/Enoch-Symbols.md)

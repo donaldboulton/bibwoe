@@ -250,6 +250,10 @@ anchorItem.appendChild(textNode);
 </script>
 {% endif %}
 
+{% if page.web-intents == true %}
+  <script type="text/javascript" async src="https://platform.twitter.com/widgets.js"></script>
+{% endif %}
+
 <script>
   function external_new_window() {
     for(var c = document.getElementsByTagName("a"), a = 0;a < c.length;a++) {

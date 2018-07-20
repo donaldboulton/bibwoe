@@ -18,7 +18,9 @@ toc_label: "Prayer"
 
 read_time: true
 comments: true
-share: true
+share: false
+web-intents: true
+tweet_id: 145116818707714048
 related: true
 adds: true
 reviews: false
@@ -90,5 +92,3 @@ But when ye pray, use not vain repetitions, as the heathen do: for they think th
 #### Mat 6:8
 
 Be not ye therefore like unto them: for your Father knoweth what things ye have need of, before ye ask him.
-
-[![Favorite](/assets/images/pages/like-action.png)](https://twitter.com/intent/favorite?tweet_id=145116814735712256) [Favorite](https://twitter.com/intent/favorite?tweet_id=145116814735712256)[![Reply](/assets/images/pages/reply-action_0.png)](https://twitter.com/intent/tweet?in_reply_to=145116814735712256) [Reply](https://twitter.com/intent/tweet?in_reply_to=145116814735712256) [![Retweet](/assets/images/pages/retweet-action.png)](http://twitter.com/intent/retweet?tweet_id=145116814735712256) [Retweet](https://twitter.com/intent/retweet?tweet_id=145116814735712256)

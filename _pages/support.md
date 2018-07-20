@@ -12,6 +12,8 @@ comments: false
 sidenav: true
 reviews: false
 adds: true
+web-intents: true
+tweet_id: 145116818707714048
 support: [adds, cookies, youtube]
 
 header:

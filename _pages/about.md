@@ -8,12 +8,13 @@ author: Donald Boulton
 email: donaldboulton@gmail.com
 read_time: false
 comments: true
-share: true
+share: false
+web-intents: true
+tweet_id: 145116818707714048
 classes: wide
 adds: false
 cookies: true
 tags: 
-  - Rockwell RV
   - Staticman
   - Jekyll
   - Github Pages
@@ -117,10 +118,6 @@ Whooo what a relief. Ruby Jekyll and Gihub Pages is the kind, figured this out i
 Ruby, Jeckyll, Gihub pages, and even liquid are super simple; Or "Super Logical, if you think like a human". I've been hitting my head for not using Ruby and the kind much sooner.
 
 > Go Sooners!
-
-## Rockwell RV
-
-{% include rockwell-rv-map.html %}
 
 ## Credits
 

@@ -17,7 +17,9 @@ toc_label: "Enoch 1-60"
 
 read_time: true
 comments: true
-share: true
+share: false
+web-intents: true
+tweet_id: 145116818707714048
 related: true
 adds: true
 reviews: false
@@ -1838,9 +1840,5 @@ And would not hearken to our voice.
 Scanned and Edited by  
 Joshua Williams  
 Northwest Nazarene College, 1995
-
-[![Favorite](/assets/images/pages/like-action.png)](https://twitter.com/intent/favorite?tweet_id=222398385972457472)
-[![Reply](/assets/images/pages/reply-action_0.png)](https://twitter.com/intent/tweet?in_reply_to=222398385972457472)
-[![Retweet](/assets/images/pages/retweet-action.png)](http://twitter.com/intent/retweet?tweet_id=222398385972457472)
 
 Enoch Books key's, Books of Enoch 1 and 2 with Preface and symbols tags Book of Enoch, Enoch, [Symbols](http://bibwoe.com/posts/Enoch-Symbols.md)

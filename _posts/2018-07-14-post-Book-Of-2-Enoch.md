@@ -17,7 +17,9 @@ toc_label: "2 Enoch"
 
 read_time: true
 comments: true
-share: true
+share: false
+web-intents: true
+tweet_id: 145116818707714048
 related: true
 adds: true
 reviews: false
@@ -1181,11 +1183,3 @@ On to the earth and covered the people and Enoch, and Enoch was taken up on high
  10 Amen.
 
 [Back to top](#top)
-
-key 2 Enoch, Enoch dis Greek Version, Book Of 2 Enoch Chapters 1-68 tags 2 Enoch, Enoch, Greek Enoch date
-
-[![Favorite](/assets/images/pages/like-action.png)](https://twitter.com/intent/favorite?tweet_id=222402473627893761)
-[![Reply](/assets/images/pages/reply-action_0.png)](https://twitter.com/intent/tweet?in_reply_to=222402473627893761)
-[![Retweet](/assets/images/pages/retweet-action.png)](http://twitter.com/intent/retweet?tweet_id=222402473627893761)
-
-Enoch Books key's, Books of Enoch 1 and 2 with Preface and symbols tags Book of Enoch, Enoch,[Symbols](http://bibwoe.com/posts/Enoch-Symbols.md)

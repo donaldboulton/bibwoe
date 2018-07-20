@@ -17,7 +17,9 @@ toc_label: "Enoch Symbols"
 
 read_time: true
 comments: true
-share: true
+share: false
+web-intents: true
+tweet_id: 145116818707714048
 related: true
 adds: true
 reviews: false
@@ -44,7 +46,7 @@ github_editme_path: donaldboulton/bibwoe/blob/master/_posts/2018-07-13-post-Enoc
 
 # ENOCH Symbols
 
-[![Enoch Symbols](http://static.mansbooks.com/pages/enoch-symbols.jpeg)](http://static.mansbooks.com/pages/enoch-symbols.jpeg)
+![Enoch Symbols](/assets/images/pages/enoch-symbols.jpeg){: .align-right}
 
 ## ABBREVIATIONS, BRACKETS, AND SYMBOLS SPECIALLY USED IN THE TRANSLATION OF 1 ENOCH
 
@@ -54,7 +56,7 @@ github_editme_path: donaldboulton/bibwoe/blob/master/_posts/2018-07-13-post-Enoc
 
 Denotes the fragments of the Greek Version preserved In Syncellus: in the case of 8b-9b there are two forms of the text, Gs1 Gs2.
 
-### Gg  Usage
+### Gg Usage
 
 denotes the large fragment of the Greek Version discovered at Akhmîm, and deposited in the Gizeh Museum, Cairo.
 
@@ -75,9 +77,3 @@ denotes the large fragment of the Greek Version discovered at Akhmîm, and depos
 ### Corruption
 
 † † corruption in the text. . . . = some words which have been lost.
-
-[![Favorite](/assets/images/pages/like-action.png)](https://twitter.com/intent/favorite?tweet_id=2213601594595082242)
-[![Reply](/assets/images/pages/reply-action_0.png)](https://twitter.com/intent/tweet?in_reply_to=2213601594595082242)
-[![Retweet](/assets/images/pages/retweet-action.png)](http://twitter.com/intent/retweet?tweet_id=2213601594595082242)
-
-Enoch Books key's, Books of Enoch 1 and 2 with Preface and symbols tags Book of Enoch, Enoch,[Symbols](http://bibwoe.com/posts/Enoch-Symbols.md)
