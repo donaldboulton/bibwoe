@@ -20,7 +20,7 @@ read_time: true
 comments: true
 share: false
 web-intents: true
-tweet_id: 145116818707714048
+tweet_id: 1020370544640888833
 related: true
 adds: true
 reviews: false
