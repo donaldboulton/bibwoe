@@ -27,16 +27,16 @@ reviews-sidebar: true
 anchor: true
 excerpt: "Prayer Matthew, Begging to the Devil. Gods knows what you need"
 support: [adds, cookies, anchor]
-image-slider: /assets/images/pages/Begging.jpg
-image-slider-thumb: /assets/images/pages/Begging-320.jpg
+image-slider: /assets/images/pages/begging.jpg
+image-slider-thumb: /assets/images/pages/begging-320.jpg
 image:
   cover: true
-  path: &image /assets/images/pages/Begging.jpg
+  path: &image /assets/images/pages/begging.jpg
   feature: *image
-  thumbnail: /assets/images/pages/Begging-320.jpg
+  thumbnail: /assets/images/pages/begging-320.jpg
 header:
-  image: /assets/images/pages/Begging.jpg
-  teaser: /assets/images/pages/Begging-320.jpg
+  image: /assets/images/pages/begging.jpg
+  teaser: /assets/images/pages/begging-320.jpg
 github_editme_path: donaldboulton/bibwoe/blob/master/_posts/2000-12-12-post-Prayer.md
 ---
 
