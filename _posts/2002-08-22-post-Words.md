@@ -26,16 +26,16 @@ reviews-sidebar: true
 anchor: true
 excerpt: "Human Words Mean Nothing People Mean and not only with words."
 support: [adds, cookies, anchor]
-image-slider: /assets/images/pages/ownership-law.jpg
-image-slider-thumb: /assets/images/pages/ownership-law-320.jpg
+image-slider: /assets/images/pages/Words.jpg
+image-slider-thumb: /assets/images/pages/Words-320.jpg
 image:
   cover: true
-  path: &image /assets/images/pages/ownership-law.jpg
+  path: &image /assets/images/pages/Words.jpg
   feature: *image
-  thumbnail: /assets/images/pages/ownership-law-320.jpg
+  thumbnail: /assets/images/pages/Words-320.jpg
 header:
-  image: /assets/images/pages/ownership-law-1200.jpg
-  teaser: /assets/images/pages/ownership-law-320.jpg
+  image: /assets/images/pages/Words-1200.jpg
+  teaser: /assets/images/pages/Words-320.jpg
 github_editme_path: donaldboulton/bibwoe/blob/master/_posts/2002-08-22-post-Words.md
 ---
 
@@ -45,7 +45,7 @@ github_editme_path: donaldboulton/bibwoe/blob/master/_posts/2002-08-22-post-Word
 
 # Human Words Mean Nothing People Mean
 
-![Words](/assets/images/pages/words.png)
+![Words](/assets/images/pages/words.png){: .align-right}
 
 People made words; words did not make people, so correcting what other's may say is not paying attention to what there meaning of their words according to them my be, this is just realistic generialized version of what your formalized, or un-educated meaning is.
 
