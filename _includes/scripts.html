@@ -274,6 +274,13 @@ anchorItem.appendChild(textNode);
   var bigfoot = $.bigfoot();
 
   $('.skin-chooser-toggle').click(function () {
-        $('.skin-chooser-wrap').toggleClass('show');
+        $('.skin-chooser-wrap').slideToggle('show');
   });
+  $('div.skin-chooser-toggle').on('click',function() {
+    if($('#skin-chooser-wrap').css('left')=='30px'){
+    $('#skin-chooser-wrap').animate({left: '-100%'}, 1000);
+    }else{
+    $('#skin-chooser-wrap').animate({left:0}, 1000);
+}
+});
 </script>

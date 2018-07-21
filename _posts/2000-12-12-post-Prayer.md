@@ -56,11 +56,11 @@ The un-truths given by Satan to man, mankind has fully accepted as truth, like, 
 
 ## What Jesus would have told us in 2018
 
-About prayer is not much different than what was written in
+About prayer is not much different than what was written in.
 
 ### Matthew 6:5- 6:6
 
-And It simply means do not pray, and affirmed in
+And It simply means do not pray, and affirmed in.
 
 ### Matthew 17:20
 
@@ -70,7 +70,7 @@ The word is not exactly as Jesus teaches at the festival and tells of circumcisi
 
 ## Power Of Man In Spirit
 
-Mans Spiritual existance within the Holy Spirit gives mankind super abilitys. But you only live in the flesh and adore substance and you beg for more of the substance to make you even sicker, taking you away from God and truth.
+Mans Spiritual existance within the Holy Spirit gives mankind super abilitys. But you only live in the flesh and adore substance and you beg for more of the substance to make you even sicker, taking you away from God and Fathers Truth.
 
 ### Matthew 6:5
 

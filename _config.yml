@@ -155,6 +155,7 @@ exclude:
   - assets/js/plugins
   - assets/js/_main.js
   - assets/css/vendor
+  - site
   - Capfile
   - CHANGELOG
   - config
