@@ -19,7 +19,7 @@ read_time: true
 comments: true
 share: false
 web-intents: true
-tweet_id: 1020370544640888833
+tweet_id: 1021460942738067456
 related: true
 adds: true
 reviews: false
@@ -50,7 +50,7 @@ github_editme_path: donaldboulton/bibwoe/blob/master/_posts/2000-12-12-post-Pray
 
 Pray for what you have already been given in perfection? What We have stated before, is that Satan the Devils job is to test, accuse and distract you from the truth he is very specialized in convincing you of the ways of untruth and lies of what Father Gods will for man is.
 
-## Satans Un-Truths
+## Satan's Un-Truths
 
 The un-truths given by Satan to man, mankind has fully accepted as truth, like, "Prayer, Ownership and Music" among others. His main lies keep you doing lies and is what distracts you from the truth. The three P's = Pray and Play see: [Pay Attention](http://www.bibwoe.com/blog/Devil "Devil as Satan") and Pity, all three are useless and distraction's from doing what was intended by Fathers Will. Prayer is to deny thy Father.
 
@@ -70,7 +70,7 @@ The word is not exactly as Jesus teaches at the festival and tells of circumcisi
 
 ## Power Of Man In Spirit
 
-Mans Spiritual existance within the Holy Spirit gives mankind super abilitys. But you only live in the flesh and adore substance and you beg for more of the substance to make you even sicker, taking you away from God and Fathers Truth.
+Mans Spiritual existence within the Holy Spirit gives mankind super abilities. But you only live in the flesh and adore substance and you beg for more of the substance to make you even sicker, taking you away from God and Fathers Truth.
 
 ### Matthew 6:5
 
@@ -104,7 +104,7 @@ Be not ye therefore like unto them: for your Father knoweth what things ye have 
 
 But just like your professional Beggars as Preachers, they teach you to beg for something you already have. And then you give the scumbag preachers money for teaching you to pray to the Devil.
 
-For they each have ther own reward, Being not within Father
+For they each have there own reward, Being not within Father
 
-Father God is not lisitening to your begging repetitions.
+Father God is not listening to your begging repetitions.
 Quit praying upon Father God!
