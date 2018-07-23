@@ -16,7 +16,7 @@ description              : "Bibwoe - Basic Instructions Books While On Earth."
 url                      : "https://bibwoe.com"
 baseurl                  : "/"
 repository               : "donaldboulton/bibwoe"
-teaser                   : "/assets/images/pages/slider_01.jpg"
+teaser                   : "/assets/images/pages/bible.jpg"
 # breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
@@ -33,10 +33,18 @@ comments:
 reCaptcha:
   siteKey                : "6Lf9x0sUAAAAAM5Ga3aoTRXDcs0uEJvcWgYLLDX9"
   secret                 : "D9a4vIRKb5mZs4yrAaevWg94TNfaoAdbdwFWdq+cb6qdcdz5aLZc4cUO2uWmjsMsEK1wsN8AJPGsmep/X+BrXUAF5LPUCqLYZKlBPv4yLcZ2tAd/EHeyFLHHfWplnYVuN95BLpuKZlccBkp5jbNadjDRNCj8DgDSfu3iMPa3OWM="
+
+feed:
+  path                   : "https://bibwoe.com/atom.xml"
+
 atom_feed:
-  path                   : atom.xml
+  path                   : "https://bibwoe.com/atom_feed.xml"
+
+bible_feed:
+  path                   : "https://bibwoe.com/bible_kjv.xml"
+
 search                   : true
-search_full_content      : true
+search_full_content      : false
 search_provider          : lunr
 
 algolia:
@@ -45,6 +53,12 @@ algolia:
   search_only_api_key    : "68c60968e03d06ce61d592425b22c6bd"
   algolia_api_key        : "KLAOJmvpl1yZhCrno50lgSpRVJrrTtPKi98521LaL8X62hajFubs8IHB5eLjrcG5DOQJdfB6Dca9XluHQQQCWVJhQVAD7aqzfivz5/AlYEYukabDmEOw6Efd8RzNhlsFvVTa0t2/oxYWL66Xo9LtRbC0Lfpkf/u/RpA55pn5CkE="
   powered_by             : true
+  nodes_to_index         : "p"
+  files_to_exclude:
+    - index.html
+    - index.md
+    - excluded-file.html
+    - _pages/404.md
 
 Mailgun:
   smtp_Hostname          : "smtp.mailgun.org"
@@ -53,6 +67,8 @@ Mailgun:
   smtp_login             : "postmaster@bibwoe.com"
 
 github                   : [metadata]
+
+breadcrumbs              : true
 # SEO Related
 google_site_verification : "rXkolEOR2tQie0oZad3iu_XX0ID673ocd2nc5qKBAFI"
 bing_site_verification   : "361016BEC0F67F6A834D6186E897D9EC"
@@ -290,7 +306,11 @@ collections:
   posts:
     output: true
     permalink: /posts/:path/
-
+    title: Posts By Collection
+  bible-kjv:
+    output: true
+    permalink: /posts/bible-kjv/:path/
+    title: Bible KJV
 # Defaults
 defaults:
   # _posts
@@ -302,15 +322,38 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
+      search: true
   # _pages
   - scope:
       path: "_pages"
       type: pages
     values:
       layout: single
+      search: true
       author_profile: true
+  # bible-kjv
+  - scope:
+      path: "posts/bible-kjv"
+      type: posts
+    values:
+      layout: single
+      search: false
+      author_profile: true
+      web-intents: true
+      read_time: true
+      comments: true
+      share: false
+      related: true
+      adds: true
+      reviews: false
+      reviews-sidebar: true
+      anchor: true
+      breadcrumbs: true
+      breadcrumbs:
+        - label: "Bible KJV"
+          url: /bible-kjv/
 
 # Plugin: Pagination (jekyll-paginate-v2)
 pagination:

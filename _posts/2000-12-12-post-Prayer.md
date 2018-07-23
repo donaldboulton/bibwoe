@@ -104,5 +104,7 @@ Be not ye therefore like unto them: for your Father knoweth what things ye have 
 
 But just like your professional Beggars as Preachers, they teach you to beg for something you already have. And then you give the scumbag preachers money for teaching you to pray to the Devil.
 
+For they each have ther own reward, Being not within Father
+
 Father God is not lisitening to your begging repetitions.
 Quit praying upon Father God!
