@@ -20,7 +20,7 @@ tags:
   - Github Pages
   - MMistakes
 category:
-  - Donald Boulton
+  - Bibwoe
 image:
   cover: true
   path: &image /assets/images/pages/digital.jpg
@@ -34,7 +34,7 @@ sidebar:
     image: /assets/images/pages/rockwell-rv-sitemap-sm.jpg
     text: "Rockwell Rv Park in a Jacko Travel Trainer"
   - title: "Rv Living"
-    text: "I live a the Best RV Park Around. Witn a pool, hot tub, Dish 150 Channels and High Speed Internet. Right by the Oklahoma River Walk and City Lake."
+    text: "I live a the Best RV Park Around. With a pool, hot tub, Dish 150 Channels and High Speed Internet. Right by the Oklahoma River Walk and City Lake."
 locations: 
   - Oklahoma City, OKC
   - Rockwell+RV+Park+%26+Campground
@@ -102,7 +102,7 @@ support: [cookies]
 folder: _pages
 slug: about
 product: about
-github_editme_path: donaldboulton/DWB/blob/gh-pages/_pages/about.md
+github_editme_path: donaldboulton/bibwoe/blob/master/_pages/about.md
 ---
 
 {% include octo-arm.html %}

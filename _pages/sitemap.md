@@ -6,11 +6,9 @@ toc: false
 sidenav: true
 comments: false
 anchor: false
-sidenav: true
-sidenav-gen: true
 reviews: false
 adds: true
-excerpt: "Sitemap with Post by Catagories, by Tags and by Years"
+excerpt: "Sitemap with Post's Sidebar, Categories, by Tags and by Years"
 image:
   cover: true
   path: &image /assets/images/pages/sitemap.png

@@ -11,5 +11,3 @@ reviews: false
 adds: true
 support: [adds]
 ---
-
-{% include month-archive.html %}
