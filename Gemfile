@@ -18,6 +18,5 @@ group :jekyll_plugins do
   gem 'jemoji'
   gem 'jekyll-redirect-from', '~> 0.13.0'
   gem 'jekyll-figure'
-  gem 'jekyll-admin'
   gem "rake", "~> 12"
 end
