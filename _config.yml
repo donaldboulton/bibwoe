@@ -252,11 +252,8 @@ plugins:
   - jekyll-tagging-related_posts
   - jekyll-redirect-from
   - jekyll-figure
-  - jekyll-algolia
-  - jekyll-admin
   - lazyload
   - notice
-  - jekyll-cloudinary
   - jemoji
   - json
 
@@ -274,10 +271,6 @@ whitelist:
   - jekyll-tagging-related_posts
   - jekyll-redirect-from
   - jekyll-figure
-  - jekyll-algolia
-  - jekyll-admin
-  - notice
-  - jekyll-cloudinary
   - jemoji
   - json
 
