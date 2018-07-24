@@ -7,5 +7,5 @@ comments: false
 sidenav: true
 reviews: false
 adds: true
-support: [adds]
+support: [adds, sidenav]
 ---

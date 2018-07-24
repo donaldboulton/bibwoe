@@ -10,6 +10,7 @@ author_profile: true
 tags:
   - Leviticus
   - Old Testament
+book:
   - Book Three
 category:
   - Bible KJV

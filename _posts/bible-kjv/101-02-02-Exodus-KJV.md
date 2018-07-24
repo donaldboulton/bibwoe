@@ -10,6 +10,7 @@ author_profile: true
 tags:
   - Exodus
   - Old Testament
+book:
   - Book Two
 category:
   - Bible KJV

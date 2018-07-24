@@ -10,6 +10,7 @@ author_profile: true
 tags:
   - Genesis
   - Old Testament
+book:
   - Book One
 category:
   - Bible KJV

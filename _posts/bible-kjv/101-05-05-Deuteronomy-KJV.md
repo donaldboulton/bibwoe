@@ -10,6 +10,7 @@ author_profile: true
 tags:
   - Joshua
   - Old Testament
+book:
   - Book Five
 category:
   - Bible KJV

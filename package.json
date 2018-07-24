@@ -1,10 +1,10 @@
 {
-  "name": "donaldboulton",
+  "name": "bibwoe",
   "version": "4.10.0",
-  "description": "Donald Boulton theme npm build scripts",
+  "description": "Bibwoe theme npm build scripts",
   "repository": {
     "type": "git",
-    "url": "git://github.com/donaldboulton/DWB.git"
+    "url": "git://github.com/donaldboulton/bibwoe.git"
   },
   "keywords": [
     "jekyll",
@@ -15,24 +15,19 @@
   "author": "Donald Boulton",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/donaldboulton/DWB/issues"
+    "url": "https://github.com/donaldboulton/bibwoe/issues"
   },
-  "homepage": "https://donboulton.com",
+  "homepage": "https://bibwoe.com",
   "engines": {
     "node": ">= 0.10.0"
   },
   "devDependencies": {
-    "autoprefixer": "^8.0.0",
-    "browser-sync": "^2.23.6",
+    "autoprefixer": "^8.6.5",
+    "browser-sync": "^2.24.6",
     "concurrent-transform": "^1.0.0",
     "critical": "^0.7.3",
     "del": "^2.2.0",
     "glob": "^7.0.6",
-    "grunt": "~0.4.2",
-    "grunt-newer": "^0.7.0",
-    "grunt-imgcompress": "~0.1.1",
-    "grunt-svgmin": "~0.3.1",
-    "grunt-svgstore": "^0.5.0",
     "gulp": "git://github.com/gulpjs/gulp.git#4.0",
     "gulp-changed": "^2.0.0",
     "gulp-cheerio": "^0.6.2",
@@ -43,13 +38,12 @@
     "gulp-gzip": "^1.4.2",
     "gulp-htmlmin": "^4.0.0",
     "gulp-if": "^2.0.1",
-    "gulp-imagemin": "^4.1.0",
     "gulp-newer": "^1.2.0",
     "gulp-notify": "^2.2.0",
     "gulp-postcss": "^7.0.0",
     "gulp-pretty-data": "^0.1.1",
-    "gulp-rename": "^1.2.2",
-    "gulp-responsive": "^2.10.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-responsive": "^2.11.0",
     "gulp-rev": "^7.0.0",
     "gulp-rsync": "^0.0.8",
     "gulp-sass": "^3.1.0",
@@ -59,7 +53,7 @@
     "gulp-svgstore": "^6.0.0",
     "gulp-uglify": "^1.5.1",
     "gulp-util": "^3.0.7",
-    "node-sass": "^4.7.2",
+    "node-sass": "^4.9.2",
     "require-dir": "^0.3.0",
     "rev-del": "^1.0.5",
     "shelljs": "^0.7.0",
@@ -68,10 +62,7 @@
     "yargs": "^4.7.0"
   },
   "dependencies": {
-    "blueimp-file-upload": "^9.21.0",
-    "cloudinary-jquery-file-upload": "^2.5.0",
     "eslint": "^4.19.1",
-    "gruntfile": "^0.1.0",
     "gulp-update": "0.0.2",
     "lg-autoplay": "^1.0.4",
     "lg-fullscreen": "^1.0.1",
@@ -79,16 +70,21 @@
     "lg-pager": "^1.0.2",
     "lg-share": "^1.1.0",
     "lg-thumbnail": "^1.1.0",
-    "lg-video": "^1.2.1",
+    "lg-video": "^1.2.2",
     "lg-zoom": "^1.1.0",
-    "lightgallery": "^1.6.9",
-    "postcss": "^6.0.13",
-    "sharp": "^0.20.1",
-    "yarn": "^1.5.1"
+    "lightgallery": "^1.6.11",
+    "postcss": "^6.0.23",
+    "sharp": "^0.20.5",
+    "static-api-generator": "^2.0.0",
+    "yarn": "^1.9.1"
   },
   "browserslist": [
     "last 2 versions",
     "> 5%",
     "IE 9"
-  ]
+  ],
+  "main": "Gulpfile.js",
+  "scripts": {
+    "test": "mocha"
+  }
 }

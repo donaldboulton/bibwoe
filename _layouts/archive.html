@@ -1,5 +1,7 @@
 ---
 layout: default
+sidenav: true
+adds: true
 ---
 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
@@ -21,8 +23,8 @@ layout: default
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 id="page__title" class="page__title">{{ page.title }}</h1>
     {% endunless %}
+    <section class="page__content">
     {{ content }}
-  </div>
     <aside class="sidebar__right" role="complementary" itemscope itemtype="http://schema.org/WPSideBar">
       {% if page.toc %}
          <nav class="toc">
@@ -33,7 +35,7 @@ layout: default
       {% if page.sidenav-gallery == true %}
          {% include sidenav-gallery.html %}
       {% endif %}
-      {% if page.sidenav == true %}
+      {% if page.support contains 'sidenav' %}
          {% include sidenav.html %}
       {% endif %}
       {% if page.reviews-sidebar == true %}
@@ -47,4 +49,6 @@ layout: default
   {% if page.web-intents == true %}
     {% include twitter-web-intents.html %}
   {% endif %}
+  </section>
+  </div>
 </div>

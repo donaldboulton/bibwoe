@@ -10,6 +10,7 @@ author_profile: true
 tags:
   - Numbers
   - Old Testament
+book:
   - Book Four
 category:
   - Bible KJV
