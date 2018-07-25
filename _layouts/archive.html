@@ -1,7 +1,5 @@
 ---
 layout: default
-sidenav: true
-adds: true
 ---
 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
@@ -23,32 +21,6 @@ adds: true
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 id="page__title" class="page__title">{{ page.title }}</h1>
     {% endunless %}
-    <section class="page__content">
     {{ content }}
-    <aside class="sidebar__right" role="complementary" itemscope itemtype="http://schema.org/WPSideBar">
-      {% if page.toc %}
-         <nav class="toc">
-           <header><h4 class="nav__title"><svg class="icon icon--file-alt fa-file-alt" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-file-alt' | prepend: 'assets/icons/' | relative_url }}"></use></svg>&nbsp;<span itemprop="name">{{ page.toc_label | default: site.data.ui-text[site.locale].toc_label }}</span></h4></header>
-           {% include toc.html sanitize=true html=content h_min=2 h_max=3 class="toc__menu" %}
-         </nav>
-      {% endif %}
-      {% if page.sidenav-gallery == true %}
-         {% include sidenav-gallery.html %}
-      {% endif %}
-      {% if page.support contains 'sidenav' %}
-         {% include sidenav.html %}
-      {% endif %}
-      {% if page.reviews-sidebar == true %}
-         {% include reviews-sidebar.html %}
-      {% endif %}
-      {% if page.adds == true %}
-         {% include google-adds.html %}
-      {% endif %}
-    </aside>
-  {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
-  {% if page.web-intents == true %}
-    {% include twitter-web-intents.html %}
-  {% endif %}
-  </section>
   </div>
 </div>
