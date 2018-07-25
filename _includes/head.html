@@ -20,14 +20,17 @@
 <meta name="twitter:id" Content="105217183">
 <meta name="twitter:creator:id" Content="105217183">
 <meta name="twitter:widgets:theme" Content="dark">
-<meta name="twitter:widgets:link-color" Content=" #71ba70">
-<meta name="twitter:widgets:border-color" Content="#282A2B">
-<meta name="name" Content="Donald Boulton">
-<meta name="InLanguage" Content="en-US">
-<meta name="google-signin-clientid" Content="857761645811-u1iefg2lorg7aqoiat9vkn1d146n8lkp.apps.googleusercontent.com">
-<meta name="google-signin-scope" Content="https://www.googleapis.com/auth/plus.login">
-<meta name="google-signin-requestvisibleactions" Content="http://schema.org/AddAction">
-<meta name="google-signin-cookiepolicy" Content="single_host_origin">
+<meta name="twitter:widgets:link-color" Content="#1faaaa">
+<meta name="twitter:widgets:border-color" Content="#434040">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="bibwoe.com">
+<meta name="twitter:creator" content="@donboulton">
+<meta name="name" content="Donald Boulton">
+<meta name="InLanguage" content="en-US">
+<meta name="google-signin-clientid" content="857761645811-u1iefg2lorg7aqoiat9vkn1d146n8lkp.apps.googleusercontent.com">
+<meta name="google-signin-scope" content="https://www.googleapis.com/auth/plus.login">
+<meta name="google-signin-requestvisibleactions" content="http://schema.org/AddAction">
+<meta name="google-signin-cookiepolicy" content="single_host_origin">
 <meta name="specificfeeds-verification-code" content="w48MyShCerwN6kA3DklR" />
 <meta name="theme-color" content="#212529">
 <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/fav-icons/spinningworld48.gif">
@@ -38,27 +41,6 @@
 
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
-</script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag() { dataLayer.push(arguments); }
-  gtag('js', new Date());
-
-  gtag('config', 'UA-30162465-2');
-</script>
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', '{{ site.analytics.google.tracking_id }}']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
-<script type="application/ld+json">
-  [{"@context":"http://schema.org","@type":"WebSite","url":"https://bibwoe.com/","potentialAction":{"@type":"SearchAction","target":"https://query.bibwoe.com/search?q={q}","query-input":"required name=q"}},{"@context":"http://schema.org","@type":"SoftwareApplication","name":"Donald Boulton","operatingSystem":"Jekyll","applicationCategory":"http://schema.org/WebApplication","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.6","ratingCount":"8864"},"offers":{"@type":"Offer","price":"1.00","priceCurrency":"USD"}}]
 </script>
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | absolute_url }}">
 
@@ -103,5 +85,5 @@
 {% endif %}
 
 {% if page.image_sliders or layout.image_sliders or page.image_sliders_load_all -%}
-   <link rel="stylesheet" href="{{ "/assets/css/vendor/light-slider/lightslider.min.css" | relative_url }}">
+   <link rel="stylesheet" href="{{ '/assets/css/vendor/light-slider/lightslider.min.css' | relative_url }}">
 {%- endif -%}
