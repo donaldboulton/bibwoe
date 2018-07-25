@@ -13,7 +13,7 @@ title                    : "Bibwoe"
 title_separator          : "-"
 name                     : "Donald W. Boulton"
 description              : "Bibwoe - Basic Instructions Books While On Earth."
-url                      : "https://bibwoe.com"
+url                      : "https://donaldboulton.github.io/bibwoe/"
 baseurl                  : "/"
 repository               : "donaldboulton/bibwoe"
 teaser                   : "/assets/images/pages/bible.jpg"
@@ -36,9 +36,6 @@ reCaptcha:
 
 feed:
   path                   : "atom.xml"
-
-atom_feed:
-  path                   : "atom_feed.xml"
 
 bible_feed:
   path                   : "bible_kjv.xml"
