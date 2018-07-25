@@ -13,7 +13,7 @@ title                    : "Bibwoe"
 title_separator          : "-"
 name                     : "Donald W. Boulton"
 description              : "Bibwoe - Basic Instructions Books While On Earth."
-baseurl                  : "/bibwoe/" # the subpath of your site, e.g. /blog/
+baseurl                  : "/bibwoe" # the subpath of your site, e.g. /blog/
 url                      : "https://donaldboulton.github.io"
 repository               : "donaldboulton/bibwoe"
 teaser                   : "/assets/images/pages/bible.jpg"
