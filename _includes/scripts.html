@@ -11,7 +11,6 @@
 <script src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/vendor/letter-avatar/letter-avatar.js' | relative_url }}"></script>
 {% endif %}
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 {% if site.search == true or page.layout == "search" %}
   {%- assign search_provider = site.search_provider | default: "lunr" -%}
   {%- case search_provider -%}
@@ -84,7 +83,7 @@
 {% endif %}
 
 {% if page.support contains 'cookies' %}
-  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/cookie-bar/cookiebar-latest.min.js?tracking=1&showNoConsent=1&privacyPage=https%3A%2F%2Fdonboulton.com%2Fterms%23cookies--beacons"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/cookie-bar/cookiebar-latest.min.js?tracking=1&showNoConsent=1&privacyPage=https%3A%2F%2Fhttps://donaldboulton.github.io/bibwoe/%2Fterms%23cookies--beacons"></script>
 {% endif %}
 <script>
   $(document).ready(function(){svg4everybody();$("a").smoothScroll({offset:-20})});var coll=document.getElementsByClassName("collapsible");var i;for(i=0;i<coll.length;i++){coll[i].addEventListener("click",function(){this.classList.toggle("active");var content=this.nextElementSibling;if(content.style.maxHeight){content.style.maxHeight=null}else{content.style.maxHeight=content.scrollHeight+"px"}})}
@@ -109,35 +108,6 @@
 
 {% if page.reviews == true %}
   <script src="{{ '/assets/js/staticman/staticman-reviews.js' | relative_url }}"></script>
-{% endif %}
-
-{% if page.support contains 'dragula' %}
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/dragula/3.7.2/dragula.min.js" crossorigin="anonymous"></script>
-  <script src="{{ '/assets/js/vendor/dragula/example.min.js' | relative_url }}"></script>
-{% endif %}
-
-{% if page.support contains 'lightbox' %}
-   {% include lightbox.html %}
-{% endif %}
-
-{% if page.support contains 'weather' %}
-<script src="{{ '/assets/js/vendor/weather/weather.js' | relative_url }}"></script>
-<script>
-    Weather.getCurrent( "4544349", function( current ) {
-        $( "#current" ).html( "Temperature: " + current.temperature() + "&deg;K or " +
-            Weather.kelvinToFahrenheit( current.temperature() ) + "&deg;F or " +
-            Weather.kelvinToCelsius( current.temperature() ) + "&deg;C" +
-            "<br />Current Conditions: " + current.conditions() );
-    });
-    Weather.getForecast( "4544349", function ( forecast ) {
-        $( "#forecast" ).html( "High: " + forecast.high() + "&deg;K or " +
-            Weather.kelvinToFahrenheit( forecast.high() ) + "&deg;F or " +
-            Weather.kelvinToCelsius( forecast.high() ) + "&deg;C<br />Low: " +
-            forecast.low() + "&deg;K or " +
-            Weather.kelvinToFahrenheit( forecast.low() ) + "&deg;F or " +
-            Weather.kelvinToCelsius( forecast.low() ) + "&deg;C" );
-    });
-</script>
 {% endif %}
 
 {% if page.support contains 'calendar' %}
@@ -223,14 +193,6 @@ function addNavItem(ul, href, text) {
 {% endif %}
 
 <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-30162465-2', 'auto');
-  ga('require', 'GTM-T2NFHJ');
-  ga('send', 'pageview');
   function external_new_window() {
     for(var c = document.getElementsByTagName("a"), a = 0;a < c.length;a++) {
     var b = c[a];
@@ -238,11 +200,6 @@ function addNavItem(ul, href, text) {
     }
   }
   external_new_window();
-  grecaptcha.ready(function() {
-      grecaptcha.execute('6Le-JGIUAAAAAItP3anxYzixThXd6EUvsDjXZevh', {action: 'home'}).then(function(token) {
-    });
-  });
-  var bigfoot = $.bigfoot();
 </script>
 
 
