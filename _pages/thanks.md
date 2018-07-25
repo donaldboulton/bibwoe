@@ -12,7 +12,8 @@ map:
 
 layout: single
 author_profile: true
-
+youtube: true
+youtubeId: 3LbWJzZwKWw
 category:
   - Contact
   - Donald Boulton
@@ -34,7 +35,7 @@ header:
   excerpt: "Sitemap of Posts"
 support: [adds, cookies, anchor]
 
-excerpt: 'GitHub CloudFlare Hosting with Full SSL.<br /> <small><a href="https://github.com/donaldboulton/DWB/">Jekyll Gulp Travis CI Build</a></small><br /><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=donaldboulton&repo=DWB&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=donaldboulton&repo=DWB&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
+excerpt: 'Hosted on GitHub CloudFlare with Full SSL.<br /> <small><a href="https://donboulton.com">About Donald Boulton at donboulton.com</a></small><br /><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=donaldboulton&repo=DWB&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=donaldboulton&repo=DWB&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 support: [adds, cookies]
 folder: _pages
 slug: contact
@@ -48,6 +49,8 @@ github_editme_path: donaldboulton/bibwoe/blob/master/_pages/thanks.md
 
 If a response if required, I will try to reply A.S.A.P..
 
-{% include thank-you-video.html %}
+Thank You For Being A Friend. ⚔️
+
+{% include youtubePlayer.html id=page.youtubeId %}
 
 {% include twitter-cards.html %}

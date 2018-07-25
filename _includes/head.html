@@ -25,24 +25,13 @@
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="bibwoe.com">
 <meta name="twitter:creator" content="@donboulton">
-{% if page.title %}
-  <meta name="twitter:title" content="{{ page.title }}">
-{% else %}
-  <meta name="twitter:title" content="{{ site.title }}">
-{% endif %}
-{% if page.url %}
-  <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
-{% endif %}
-{% if page.description %}
-  <meta name="twitter:description" content="{{ page.description }}">
-{% else %}
-  <meta name="twitter:description" content="{{ site.description }}">
-{% endif %}
-{% if page.image %}
-  <meta name="twitter:image:src" content="{{ site.url }}/assets/images/pages/{{ page.image }}">
-{% else %}
-  <meta name="twitter:image:src" content="{{ site.url }}/assets/images/fav-icons/apple-touch-icon.png">
-{% endif %}
+<meta name="twitter:title" content="{{ page.title }}">
+<meta name="twitter:title" content="{{ site.title }}">
+<meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+<meta name="twitter:description" content="{{ page.description }}">
+<meta name="twitter:description" content="{{ site.description }}">
+<meta name="twitter:image:src" content="{{ site.url }}/assets/images/pages/{{ page.image }}">
+<meta name="twitter:image:src" content="{{ site.url }}/assets/images/fav-icons/apple-touch-icon.png">
 <meta name="name" content="Donald Boulton">
 <meta name="InLanguage" content="en-US">
 <meta name="google-signin-clientid" content="857761645811-u1iefg2lorg7aqoiat9vkn1d146n8lkp.apps.googleusercontent.com">
@@ -101,7 +90,3 @@
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/4.0.0-alpha/fullcalendar.min.css">
    <link rel="stylesheet" media="print" href="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/4.0.0-alpha/fullcalendar.print.min.css">
 {% endif %}
-
-{% if page.image_sliders or layout.image_sliders or page.image_sliders_load_all -%}
-   <link rel="stylesheet" href="{{ '/assets/css/vendor/light-slider/lightslider.min.css' | relative_url }}">
-{%- endif -%}
