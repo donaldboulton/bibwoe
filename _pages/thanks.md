@@ -23,28 +23,18 @@ sidenav: true
 reviews: false
 comments: false
 cookies: true
+image:
+  cover: true
+  path: &image /assets/images/pages/support.jpg
+  feature: *image
+  thumbnail: /assets/images/pages/support-320.png
+header:
+  image: /assets/images/pages/support-1200.jpg
+  teaser: /assets/images/pages/support-320.jpg
+  excerpt: "Sitemap of Posts"
+support: [adds, cookies, anchor]
 
-excerpt: 'Git
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Hub CloudFlare Hosting with Full SSL.<br /> <small><a href="https://github.com/donaldboulton/DWB/">Jekyll Gulp Travis CI Build</a></small><br /><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=donaldboulton&repo=DWB&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=donaldboulton&repo=DWB&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
+excerpt: 'GitHub CloudFlare Hosting with Full SSL.<br /> <small><a href="https://github.com/donaldboulton/DWB/">Jekyll Gulp Travis CI Build</a></small><br /><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=donaldboulton&repo=DWB&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=donaldboulton&repo=DWB&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 support: [adds, cookies]
 folder: _pages
 slug: contact
