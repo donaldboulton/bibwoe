@@ -1,54 +1,53 @@
 <meta charset="utf-8">
-
 {% include seo.html %}
-
-<link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | absolute_url }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
-
+<link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
 <!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">
 <meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
 <meta name="robots" Content="index, follow, archive">
 <meta name="revisit-after" Content="3 days">
 <meta name="apple-mobile-web-app-capable" Content="yes">
-<meta http-equiv="cache-control" content="Public" />
-<meta http-equiv="Expires" content="84000" />
 <meta name="expires" Content="Mon, 06 Jan 2020 21:31:12 GMT">
 <meta name="author" Content="Donald Boulton">
 <meta name="fb:app_id" Content="322180367845124">
 <meta name="twitter:thumbnailUrl" Content="/assets/images/donald-boulton_100.jpg">
 <meta name="twitter:id" Content="105217183">
 <meta name="twitter:creator:id" Content="105217183">
+<meta name="twitter:creator:username" Content="donaldboulton">
+<meta name="twitter:name" Content="donaldboulton">
 <meta name="twitter:widgets:theme" Content="dark">
-<meta name="twitter:widgets:link-color" Content="#1faaaa">
-<meta name="twitter:widgets:border-color" Content="#434040">
-<meta name="twitter:card" content="summary">
-<meta name="twitter:site" content="bibwoe.com">
-<meta name="twitter:creator" content="@donboulton">
-<meta name="twitter:title" content="{{ page.title }}">
-<meta name="twitter:title" content="{{ site.title }}">
-<meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
-<meta name="twitter:description" content="{{ page.description }}">
-<meta name="twitter:image:src" content="{{ site.url }}/assets/images/fav-icons/apple-touch-icon.png">
-<meta name="name" content="Donald Boulton">
-<meta name="InLanguage" content="en-US">
-<meta name="google-signin-clientid" content="857761645811-u1iefg2lorg7aqoiat9vkn1d146n8lkp.apps.googleusercontent.com">
-<meta name="google-signin-scope" content="https://www.googleapis.com/auth/plus.login">
-<meta name="google-signin-requestvisibleactions" content="http://schema.org/AddAction">
-<meta name="google-signin-cookiepolicy" content="single_host_origin">
+<meta name="twitter:widgets:link-color" Content=" #71ba70">
+<meta name="twitter:widgets:border-color" Content="#282A2B">
+<meta name="name" Content="Donald Boulton">
+<meta name="InLanguage" Content="en-US">
+<meta name="google-signin-clientid" Content="857761645811-u1iefg2lorg7aqoiat9vkn1d146n8lkp.apps.googleusercontent.com">
+<meta name="google-signin-scope" Content="https://www.googleapis.com/auth/plus.login">
+<meta name="google-signin-requestvisibleactions" Content="http://schema.org/AddAction">
+<meta name="google-signin-cookiepolicy" Content="single_host_origin">
 <meta name="specificfeeds-verification-code" content="w48MyShCerwN6kA3DklR" />
 <meta name="theme-color" content="#212529">
-<link rel="apple-touch-icon" sizes="180x180" href="/assets/images/fav-icons/spinningworld48.gif">
-<link rel="icon" type="image/png" href="/assets/images/fav-icons/spinningworld34.gif" sizes="32x32">
-<link rel='shortcut icon' type='image/png' href='/assets/images/fav-icons/spinningworld34.gif' />
+<meta name="msvalidate.01" content="361016BEC0F67F6A834D6186E897D9EC" />
+<meta name="logo" content="{{ site.url }}/apple-touch-icon-precomposed.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/images/fav-icons/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/assets/images/fav-icons/favicon.png" sizes="32x32">
+<link rel='shortcut icon' type='image/png' href='/assets/images/fav-icons/favicon.png' />
 <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
 <link href="https://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet">
-
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "url": "https://donboulton.com",
+    "logo": "https://donboulton.com/apple-touch-icon-precomposed.png"
+  }
+</script>
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>
-<link rel="stylesheet" href="{{ '/assets/css/main.css' | absolute_url }}">
-
+<!-- For all browsers -->
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 <!--[if lte IE 9]>
   <style>
     /* old IE unsupported flexbox fixes */
@@ -62,18 +61,18 @@
       height: 100%;
     }
   </style>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
 <![endif]-->
 {% if site.head_scripts %}
   {% for script in site.head_scripts %}
     {% if script contains "://" %}
       {% capture script_path %}{{ script }}{% endcapture %}
     {% else %}
-      {% capture script_path %}{{ script | absolute_url }}{% endcapture %}
+      {% capture script_path %}{{ script | relative_url }}{% endcapture %}
     {% endif %}
-<script src="{{ script_path }}"></script>
+      <script src="{{ script_path }}"></script>
   {% endfor %}
 {% endif %}
-
 {% if page.support contains 'gallery' %}
    <link rel="stylesheet" href="{{ '/assets/dist/css/lightgallery.min.css' | relative_url }}">
 {% endif %}
@@ -88,3 +87,4 @@
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/4.0.0-alpha/fullcalendar.min.css">
    <link rel="stylesheet" media="print" href="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/4.0.0-alpha/fullcalendar.print.min.css">
 {% endif %}
+<script src='https://www.google.com/recaptcha/api.js?render=6Le-JGIUAAAAAItP3anxYzixThXd6EUvsDjXZevh'></script>
