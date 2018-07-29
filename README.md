@@ -16,7 +16,7 @@
 
 This is a repo of the KJV scriptures. This is for non-public use in bible study. Made with care using [Bible Gateway](http://biblegateway.com) one chapter at a time.
 
-Frontmatter added with date times, markdown errors corrected by [Donald Boulton](https://donboulton.com), On 07/07/2018
+Frontmatter added with date times, markdown errors corrected by [Donald Boulton](https://bibwoe.com), On 07/07/2018
 
 ### Copyright info
 

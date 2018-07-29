@@ -28,7 +28,7 @@ header:
 
 # Spread the Word
 
-Have a website or use social networking sites like Twitter, Google+ or Facebook? Please consider sharing the content found on **Donald Boulton** or linking to <https://donboulton.com>
+Have a website or use social networking sites like Twitter, Google+ or Facebook? Please consider sharing the content found on **Donald Boulton** or linking to <https://bibwoe.com>
 
 ## Follow Me on Social Media
 

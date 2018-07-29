@@ -104,7 +104,7 @@ comments:
 
 reviews:
   allowedFields: ['name', "email", "url", 'title', 'description', 'review', 'product']
-  allowedOrigins: ["https://donboulton.com"]
+  allowedOrigins: ["https://bibwoe.com"]
   branch: "gh-pages"
   commitMessage: "Add Review from {fields.name}"
   filename: "review-{fields.product}-{@id}"
