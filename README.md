@@ -28,11 +28,11 @@ King James Version (KJV). Public Domain. [According to](https://support.biblegat
 
 ## Uses & Notes
 
-I have found it useful and fun to study the bible in my code editor; using project search, file fuzzy search, and even a dash of ASCII art to jump around in translations, journaling, and adding margin-notes in line in an indexable way. 
+I have found it useful and fun to study the bible in my code editor; using project search, file fuzzy search, and even a dash of ASCII art to jump around in translations, journaling, and adding margin-notes in line in an indexable way.
 
 Using a tool like [Pandoc](http://pandoc.org/) you can convert this into other formats as needed.
 
-I use [sublimetext-markdown-preview](https://github.com/revolunet/sublimetext-markdown-preview) to open text in the browser where it is easy to highlight a passage and have a screen reader read aloud (alt+esc on MacOS).
+I use [sublime text-markdown-preview](https://github.com/revolunet/sublimetext-markdown-preview) to open text in the browser where it is easy to highlight a passage and have a screen reader read aloud (alt+esc on MacOS).
 
 Each file ends with an end-of-file "eof" tag to indicate its end; it's an intentional marker I find useful to denote the end of the content of the book.
 
