@@ -242,7 +242,15 @@ function addNavItem(ul, href, text) {
       grecaptcha.execute('6Lf9x0sUAAAAAM5Ga3aoTRXDcs0uEJvcWgYLLDX9', {action: 'home'}).then(function(token) {
     });
   });
-  var bigfoot = $.bigfoot();
+  if ('serviceWorker' in navigator) {
+  window.addEventListener('load', function() {
+    navigator.serviceWorker.register('/service-worker.js');
+  });
+
+  navigator.serviceWorker.ready.then(function (registration) {
+    console.log('Service worker successfully registered on scope', registration.scope);
+  });
+}
 </script>
 
 

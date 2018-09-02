@@ -1,19 +1,19 @@
-<div class="js-comments">
+<div id="list" class="js-comments">
 <article id="comment{% unless include.r %}{{ index | prepend: '-' }}{% else %}{{ include.index | prepend: '-' }}{% endunless %}" class="js-comment comment {% if include.name == site.author.name %}admin{% endif %} {% unless include.replying_to == 0 %}child{% endunless %}">
-<div itemprop="creator" itemscope itemtype="http://schema.org/Person">
+<div itemprop="creator" itemscope itemtype="https://schema.org/Person">
   <div class="comment-avatar">
     {% if include.avatar %}
-      <span><img itemprop="image" avatar="{{ include.name }}" alt="{{ include.name }}" class="lazyload blur-up" /></span>
+      <span><img class="comment-avatar-img lazyload blur-up" itemprop="image" avatar="{{ include.name }}" alt="{{ include.name }}" /></span>
     {% elsif include.email %}
-    <span><img itemprop="image" src="https://www.gravatar.com/avatar/{{ include.email }}?d=mm&s=60" srcset="https://www.gravatar.com/avatar/{{ include.email }}?d=mm&s=120 2x" alt="{{ include.name | escape }}"></span>
+    <span><img class="comment-avatar-img lazyload blur-up" itemprop="image" avatar="{{ include.name }}" alt="{{ include.name }}" /></span>
     {% else %}
-    <span><img itemprop="image" avatar="{{ include.name }}" alt="{{ include.name }}" class="lazyload blur-up" /></span>
+    <span><img class="comment-avatar-img lazyload blur-up" itemprop="image" avatar="{{ include.name }}" alt="{{ include.name }}" /></span>
     {% endif %}
   </div>
   <h3 class="comment-author-name">
     {% unless include.url == blank %}
     <span>
-      <a rel="external nofollow" href="{{ include.url }}"></span>
+      <a rel="noreferrer" title="{{ include.name | strip_html }}" href="{{ include.url }}"></span>
         <span itemprop="name">{{ include.name | strip_html }}</a>
     </span>
     {% else %}
@@ -33,7 +33,7 @@
   </div>
   {% unless include.replying_to != 0 or page.comments_locked == true %}
     <div class="comment-reply">
-      <a rel="nofollow" class="btn btn--primary" href="#comment-{{ include.index }}" onclick="return addComment.moveForm('comment-{{ include.index }}', '{{ include.index }}', 'respond', '{{ page.slug }}')"> Reply to: <svg class="icon icon--reply" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-reply' | prepend: 'assets/icons/' | relative_url }}"></use></svg> {{ include.name }}</a>
+      <a rel="noreferrer" class="btn btn--primary" href="#comment-{{ include.index }}" onclick="return addComment.moveForm('comment-{{ include.index }}', '{{ include.index }}', 'respond', '{{ page.slug }}')"> Reply to: <svg class="icon icon--reply" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-reply' | prepend: 'assets/icons/' | relative_url }}"></use></svg> {{ include.name }}</a>
     </div>
   {% endunless %}
 </article>
