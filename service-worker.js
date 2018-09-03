@@ -1,4 +1,4 @@
-const VERSION = '01';
+var VERSION = '01';
 
 this.addEventListener('install', (e) => {
     e.waitUntil(caches.open(VERSION).then(cache => cache.addAll([
@@ -8,9 +8,7 @@ this.addEventListener('install', (e) => {
         '/500.html',
         '/about/',
         '/calendar/',
-        '/photography/cat-gallery/',
         '/categories/',
-        '/photography/charlottesville-va-gallery/',
         '/collection-archive/',
         '/contact/',
         '/',
