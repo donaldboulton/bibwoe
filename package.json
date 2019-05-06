@@ -34,7 +34,9 @@
     "build:watch": "webpack --watch",
     "compile": "webpack --config ./webpack.config.js --progress",
     "postbuild": "npm start",
-    "start": "node ortic.js"
+    "start": "node ortic.js",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "dependencies": {
     "bundle-loader": "^0.5.6",
@@ -60,7 +62,8 @@
     "react-router-dom": "^4.2.2",
     "realtime-messaging": "^2.1.42",
     "utf-8-validate": "^5.0.1",
-    "worker-loader": "^2.0.0"
+    "worker-loader": "^2.0.0",
+    "snyk": "^1.161.1"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
@@ -88,5 +91,6 @@
       "react",
       "stage-2"
     ]
-  }
+  },
+  "snyk": true
 }
