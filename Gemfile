@@ -1,11 +1,11 @@
 source "https://rubygems.org"
 
-gem "github-pages", group: :jekyll_plugins
+gem "github-pages", ">= 187", group: :jekyll_plugins
 
 gem "tzinfo-data"
 gem "wdm", "~> 0.1.0"
-gem "nokogiri"
-gem "html-proofer"
+gem "nokogiri", ">= 1.10.4"
+gem "html-proofer", ">= 3.10.0"
 
 group :jekyll_plugins do
   gem 'jekyll-archives'
@@ -15,7 +15,7 @@ group :jekyll_plugins do
   gem 'jekyll-tagging'
   gem 'jekyll-tagging-related_posts'
   gem 'json'
-  gem 'jemoji'
+  gem 'jemoji', '>= 0.9.0'
   gem 'jekyll-redirect-from', '~> 0.13.0'
   gem 'jekyll-figure'
   gem "rake", "~> 12"
