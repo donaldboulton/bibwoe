@@ -10,3 +10,7 @@ patch:
         patched: '2019-10-05T03:13:52.180Z'
     - googleapis > googleapis-common > google-auth-library > gtoken > gaxios > https-proxy-agent:
         patched: '2019-10-05T03:13:52.180Z'
+    - snyk > proxy-agent > https-proxy-agent:
+        patched: '2019-10-06T18:08:12.384Z'
+    - snyk > proxy-agent > pac-proxy-agent > https-proxy-agent:
+        patched: '2019-10-06T18:08:12.384Z'
