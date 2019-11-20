@@ -4,8 +4,8 @@ gem "github-pages", ">= 187", group: :jekyll_plugins
 
 gem "tzinfo-data"
 gem "wdm", "~> 0.1.0"
-gem "nokogiri", ">= 1.10.4"
-gem "html-proofer", ">= 3.10.0"
+gem "nokogiri", ">= 1.10.5"
+gem "html-proofer", ">= 3.11.1"
 
 group :jekyll_plugins do
   gem 'jekyll-archives'
