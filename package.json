@@ -47,7 +47,7 @@
     "fs-extra": "^7.0.0",
     "fs-extra-promise": "^1.0.1",
     "google-auth-library": "^1.6.1",
-    "googleapis": "^33.0.0",
+    "googleapis": "^59.0.0",
     "gotrue-js": "^0.9.22",
     "graceful-fs": "^4.1.11",
     "gulp-util": "^3.0.8",
